@@ -1,0 +1,22 @@
+.title-page {
+    display: none;
+}
+
+.promocode-page-image {
+    margin-top: 1em;
+}
+
+.promocode-page {
+    margin-bottom: 2em;
+}
+
+.promocode-page-text {
+    margin-top: 1em;
+    font-size: 22px;
+}
+
+@media (min-width: 768px) {
+    .promocode-page-text {
+        margin-top: 2em;
+    }
+}

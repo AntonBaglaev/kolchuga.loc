@@ -1,0 +1,1667 @@
+Host: www.kolchuga.ru
+Date: 2017-05-11 10:27:43
+Module: id_event
+wewwdwd
+    include_once < require_once < require_once < require_once < require
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include.php:234
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include/prolog_before.php:14
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include/prolog.php:10
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/header.php:1
+	/var/www/admin/data/www/kolchuga.ru/html/index.php:13
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 10:27:44
+Module: id_event
+wewwdwd
+    include_once < require_once < require_once < require_once < require
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include.php:234
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include/prolog_before.php:14
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include/prolog.php:10
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/header.php:1
+	/var/www/admin/data/www/kolchuga.ru/html/internet_shop/index.php:2
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 10:27:45
+Module: id_event
+wewwdwd
+    include_once < require_once < require_once < require_once
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include.php:234
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include/prolog_admin_before.php:18
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/sale/admin/order.php:12
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/admin/sale_order.php:2
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 10:27:45
+Module: id_event
+wewwdwd
+    include_once < require_once < require
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include.php:234
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include/prolog_before.php:14
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/catalog.bigdata.products/ajax.php:17
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 10:27:45
+Module: id_event
+wewwdwd
+    include_once < require_once < require_once < require_once < require
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include.php:234
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include/prolog_before.php:14
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include/prolog.php:10
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/header.php:1
+	/var/www/admin/data/www/kolchuga.ru/html/internet_shop/index.php:2
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 10:27:45
+Module: id_event
+wewwdwd
+    include_once < require_once < require_once < require_once < require
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include.php:234
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include/prolog_before.php:14
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include/prolog.php:10
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/header.php:1
+	/var/www/admin/data/www/kolchuga.ru/html/index.php:13
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 10:27:46
+Module: id_event
+wewwdwd
+    include_once < require_once < require_once < require_once < require
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include.php:234
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include/prolog_before.php:14
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include/prolog.php:10
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/header.php:1
+	/var/www/admin/data/www/kolchuga.ru/html/internet_shop/index.php:2
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 10:27:46
+Module: id_event
+wewwdwd
+    include_once < require_once < require_once < require_once < require
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include.php:234
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include/prolog_before.php:14
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include/prolog.php:10
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/header.php:1
+	/var/www/admin/data/www/kolchuga.ru/html/internet_shop/index.php:2
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 10:27:46
+Module: id_event
+wewwdwd
+    include_once < require_once < require < require
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include.php:234
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include/prolog_admin_before.php:18
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/interface/user_options.php:12
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/admin/user_options.php:1
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 10:27:50
+Module: id_event
+wewwdwd
+    include_once < require_once < require_once < require_once < require
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include.php:234
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include/prolog_before.php:14
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include/prolog.php:10
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/header.php:1
+	/var/www/admin/data/www/kolchuga.ru/html/internet_shop/index.php:2
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 10:27:51
+Module: id_event
+wewwdwd
+    include_once < require_once < require_once < require_once < require
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include.php:234
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include/prolog_before.php:14
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include/prolog.php:10
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/header.php:1
+	/var/www/admin/data/www/kolchuga.ru/html/internet_shop/index.php:2
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 10:27:53
+Module: id_event
+wewwdwd
+    include_once < require_once < require_once < require_once < require
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include.php:234
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include/prolog_before.php:14
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include/prolog.php:10
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/header.php:1
+	/var/www/admin/data/www/kolchuga.ru/html/internet_shop/index.php:2
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 10:27:53
+Module: id_event
+wewwdwd
+    include_once < require_once < require_once < require_once < require
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include.php:234
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include/prolog_before.php:14
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include/prolog.php:10
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/header.php:1
+	/var/www/admin/data/www/kolchuga.ru/html/index.php:13
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 10:27:54
+Module: id_event
+wewwdwd
+    include_once < require_once < require_once < require_once < require
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include.php:234
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include/prolog_before.php:14
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/include/prolog.php:10
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/header.php:1
+	/var/www/admin/data/www/kolchuga.ru/html/internet_shop/index.php:2
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 10:28:23
+Module: id_event
+NULL
+    ClassCreateTemplateEvent::OnBeforeEventAddHandler < call_user_func_array < ExecuteModuleEventEx < CAllEvent::SendImmediate < include
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/event.php:36
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:207
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 10:33:03
+Module: id_event
+NULL
+    ClassCreateTemplateEvent::OnBeforeEventAddHandler < call_user_func_array < ExecuteModuleEventEx < CAllEvent::Send < CAllFormResult::Mail
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/event.php:61
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/form/classes/general/form_callformresult.php:2049
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/form.result.new/component.php:208
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 10:38:10
+Module: id_event
+NULL
+    OnAfterUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:229
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 10:39:46
+Module: id_event
+array (
+  'LOGIN' => 'spint-68@mail.ru',
+  'PASSWORD' => '8hu9htrt',
+  'CONFIRM_PASSWORD' => '8hu9htrt',
+  'EMAIL' => 'spint-68@mail.ru',
+  'NAME' => 'test',
+  'PERSONAL_PHONE' => '34354',
+  'CHECKWORD' => '341abfb0655c6db90186b558fad91bb6',
+  '~CHECKWORD_TIME' => 'now()',
+  'ACTIVE' => 'Y',
+  'CONFIRM_CODE' => '',
+  'LID' => 's1',
+  'USER_IP' => '91.219.103.184',
+  'USER_HOST' => '91.219.103.184.delfintelecom.ru',
+  'AUTO_TIME_ZONE' => '',
+  'GROUP_ID' => 
+  array (
+    0 => '3',
+    1 => '4',
+  ),
+  'USER_ID' => 4708,
+)
+    OnAfterUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:229
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 10:42:07
+Module: id_event
+'NEW_USER'
+    ClassCreateTemplateEvent::OnBeforeEventAddHandler < call_user_func_array < ExecuteModuleEventEx < CAllEvent::SendImmediate < include
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/event.php:36
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:207
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 10:49:18
+Module: id_event
+'FORM_FILLING_CONSULTANT_FORM'
+    ClassCreateTemplateEvent::OnBeforeEventAddHandler < call_user_func_array < ExecuteModuleEventEx < CAllEvent::Send < CAllFormResult::Mail
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/event.php:61
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/form/classes/general/form_callformresult.php:2049
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/form.result.new/component.php:208
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 10:51:25
+Module: id_event
+'SALE_STATUS_CHANGED_N'
+    ClassCreateTemplateEvent::OnBeforeEventAddHandler < call_user_func_array < ExecuteModuleEventEx < CAllEvent::Send < Bitrix\Sale\Notify::sendOrderStatusChange
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/event.php:61
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/sale/lib/notify.php:368
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 10:51:25
+Module: id_event
+'SALE_NEW_ORDER'
+    ClassCreateTemplateEvent::OnBeforeEventAddHandler < call_user_func_array < ExecuteModuleEventEx < CAllEvent::Send < Bitrix\Sale\Notify::sendOrderNew
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/event.php:61
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/sale/lib/notify.php:128
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 10:56:49
+Module: id_event
+'FORM_FILLING_CONSULTANT_FORM'
+    ClassCreateTemplateEvent::OnBeforeEventAddHandler < call_user_func_array < ExecuteModuleEventEx < CAllEvent::Send < CAllFormResult::Mail
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/event.php:61
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/form/classes/general/form_callformresult.php:2049
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/form.result.new/component.php:208
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 11:26:35
+Module: id_event
+'USER_INFO'
+    ClassCreateTemplateEvent::OnBeforeEventAddHandler < call_user_func_array < ExecuteModuleEventEx < CAllEvent::SendImmediate < CAllUser::SendUserInfo
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/event.php:36
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/user.php:1236
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/sale.order.ajax/class.php:1075
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 11:26:35
+Module: id_event
+'SALE_STATUS_CHANGED_N'
+    ClassCreateTemplateEvent::OnBeforeEventAddHandler < call_user_func_array < ExecuteModuleEventEx < CAllEvent::Send < Bitrix\Sale\Notify::sendOrderStatusChange
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/event.php:61
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/sale/lib/notify.php:368
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 11:26:35
+Module: id_event
+'SALE_NEW_ORDER'
+    ClassCreateTemplateEvent::OnBeforeEventAddHandler < call_user_func_array < ExecuteModuleEventEx < CAllEvent::Send < Bitrix\Sale\Notify::sendOrderNew
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/event.php:61
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/sale/lib/notify.php:128
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 11:29:43
+Module: id_event
+'USER_INFO'
+    ClassCreateTemplateEvent::OnBeforeEventAddHandler < call_user_func_array < ExecuteModuleEventEx < CAllEvent::SendImmediate < CAllUser::SendUserInfo
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/event.php:36
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/user.php:1236
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/sale.order.ajax/class.php:1075
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 11:29:43
+Module: id_event
+'SALE_STATUS_CHANGED_N'
+    ClassCreateTemplateEvent::OnBeforeEventAddHandler < call_user_func_array < ExecuteModuleEventEx < CAllEvent::Send < Bitrix\Sale\Notify::sendOrderStatusChange
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/event.php:61
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/sale/lib/notify.php:368
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 11:29:43
+Module: id_event
+'SALE_NEW_ORDER'
+    ClassCreateTemplateEvent::OnBeforeEventAddHandler < call_user_func_array < ExecuteModuleEventEx < CAllEvent::Send < Bitrix\Sale\Notify::sendOrderNew
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/event.php:61
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/sale/lib/notify.php:128
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 11:32:28
+Module: id_event
+array (
+  'USER_ID' => '4715',
+  'STATUS' => 'активен',
+  'MESSAGE' => 'Вы были успешно зарегистрированы.',
+  'LOGIN' => 'spint-68@mail.ru',
+  'URL_LOGIN' => 'spint-68%40mail.ru',
+  'CHECKWORD' => 'd88c833236d1aaccb59c09f2ec87a015',
+  'NAME' => NULL,
+  'LAST_NAME' => 'test',
+  'EMAIL' => 'spint-68@mail.ru',
+)
+    ClassCreateTemplateEvent::OnBeforeEventAddHandler < call_user_func_array < ExecuteModuleEventEx < CAllEvent::SendImmediate < CAllUser::SendUserInfo
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/event.php:36
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/user.php:1236
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/sale.order.ajax/class.php:1075
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 11:32:29
+Module: id_event
+array (
+  'ORDER_ID' => 4334,
+  'ORDER_REAL_ID' => 4334,
+  'ORDER_ACCOUNT_NUMBER_ENCODE' => '4334',
+  'ORDER_DATE' => '11.05.17 11:32',
+  'ORDER_STATUS' => 'Принят',
+  'EMAIL' => 'spint-68@mail.ru',
+  'ORDER_DESCRIPTION' => 'Заказ принят, обрабатывается менеджером',
+  'TEXT' => '',
+  'SALE_EMAIL' => 'shop@kolchuga.ru',
+  'ORDER_USER' => 'test',
+  'ORDER_CANCEL_URL' => 'http://www.kolchuga.ru/personal/order/detail/4334/?CANCEL=Y',
+  'ORDER_PAY_URL' => '',
+  'ORDER_USER_FIO' => 'test',
+  'ORDER_USER_PHONE' => '',
+  'ORDER_USER_EMAIL' => 'spint-68@mail.ru',
+  'ORDER_DELIVERY' => 'Самовывоз [Ожидает обработки]',
+  'ORDER_DELIVERY_LOCATION' => 'Москва',
+  'ORDER_DELIVERY_ADDRESS' => '',
+  'ORDER_PAYMENT' => 'Оплата в пункте самовывоза [Не оплачено]',
+  'ORDER_PAYMENT_STATUS' => '',
+  'ORDER_URL' => 'http://www.kolchuga.ru/personal/order/detail/4334/',
+)
+    ClassCreateTemplateEvent::OnBeforeEventAddHandler < call_user_func_array < ExecuteModuleEventEx < CAllEvent::Send < Bitrix\Sale\Notify::sendOrderStatusChange
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/event.php:61
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/sale/lib/notify.php:368
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 11:32:29
+Module: id_event
+array (
+  'ORDER_ID' => 4334,
+  'ORDER_REAL_ID' => 4334,
+  'ORDER_ACCOUNT_NUMBER_ENCODE' => '4334',
+  'ORDER_DATE' => '11.05.17 11:32',
+  'ORDER_USER' => 'test',
+  'PRICE' => '525 руб',
+  'BCC' => 'shop@kolchuga.ru',
+  'EMAIL' => 'spint-68@mail.ru',
+  'ORDER_LIST' => 'Пульки Crosman Legacy Match 500 LM77 (12) - 1.00 шт: 525 руб
+',
+  'SALE_EMAIL' => 'shop@kolchuga.ru',
+  'DELIVERY_PRICE' => 0,
+  'ORDER_STATUS' => 'Принят',
+  'ORDER_CANCEL_URL' => 'http://www.kolchuga.ru/personal/order/detail/4334/?CANCEL=Y',
+  'ORDER_PAY_URL' => '',
+  'ORDER_USER_FIO' => 'test',
+  'ORDER_USER_PHONE' => '',
+  'ORDER_USER_EMAIL' => 'spint-68@mail.ru',
+  'ORDER_DELIVERY' => 'Самовывоз [Ожидает обработки]',
+  'ORDER_DELIVERY_LOCATION' => 'Москва',
+  'ORDER_DELIVERY_ADDRESS' => '',
+  'ORDER_PAYMENT' => 'Оплата в пункте самовывоза [Не оплачено]',
+  'ORDER_PAYMENT_STATUS' => '',
+  'ORDER_URL' => 'http://www.kolchuga.ru/personal/order/detail/4334/',
+)
+    ClassCreateTemplateEvent::OnBeforeEventAddHandler < call_user_func_array < ExecuteModuleEventEx < CAllEvent::Send < Bitrix\Sale\Notify::sendOrderNew
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/event.php:61
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/sale/lib/notify.php:128
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 11:51:47
+Module: id_event
+array (
+  'LOGIN' => 'spint-68@mail.ru',
+  'NAME' => NULL,
+  'LAST_NAME' => 'test',
+  'PASSWORD' => 'Sk3L5aO9',
+  'CONFIRM_PASSWORD' => 'Sk3L5aO9',
+  'EMAIL' => 'spint-68@mail.ru',
+  'GROUP_ID' => 
+  array (
+    0 => '3',
+    1 => '4',
+  ),
+  'ACTIVE' => 'Y',
+  'LID' => 's1',
+)
+    CSendOrderPass::OnBeforeUserAddHandler < call_user_func_array < ExecuteModuleEventEx < CAllUser::CheckFields < CUser::Add
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/user.php:1988
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/mysql/user.php:24
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/sale.order.ajax/class.php:1061
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 12:00:39
+Module: id_event_1
+NULL
+    CSendOrderPass::OnBeforeUserAddHandler < call_user_func_array < ExecuteModuleEventEx < CAllUser::CheckFields < CUser::Add
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/user.php:1988
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/mysql/user.php:24
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/sale.order.ajax/class.php:1061
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 12:00:39
+Module: id_event_2
+'USER_INFO'
+    CSendOrderPass::OnBeforeEventAddHandler < call_user_func_array < ExecuteModuleEventEx < CAllEvent::SendImmediate < CAllUser::SendUserInfo
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/event.php:36
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/user.php:1236
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/sale.order.ajax/class.php:1075
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 12:00:40
+Module: id_event_2
+'SALE_STATUS_CHANGED_N'
+    CSendOrderPass::OnBeforeEventAddHandler < call_user_func_array < ExecuteModuleEventEx < CAllEvent::Send < Bitrix\Sale\Notify::sendOrderStatusChange
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/event.php:61
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/sale/lib/notify.php:368
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 12:00:40
+Module: id_event_2
+'SALE_NEW_ORDER'
+    CSendOrderPass::OnBeforeEventAddHandler < call_user_func_array < ExecuteModuleEventEx < CAllEvent::Send < Bitrix\Sale\Notify::sendOrderNew
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/event.php:61
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/sale/lib/notify.php:128
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 12:02:02
+Module: id_event_2
+'USER_PASS_REQUEST'
+    CSendOrderPass::OnBeforeEventAddHandler < call_user_func_array < ExecuteModuleEventEx < CAllEvent::SendImmediate < CAllUser::SendUserInfo
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/event.php:36
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/user.php:1236
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/user.php:1310
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 12:02:59
+Module: id_event_2
+array (
+  'USER_ID' => '4699',
+  'STATUS' => 'активен',
+  'MESSAGE' => 'Ваш пароль успешно изменен.',
+  'LOGIN' => 'sdk7@yandex.ru',
+  'URL_LOGIN' => 'sdk7%40yandex.ru',
+  'CHECKWORD' => 'e6adcbf434ab4eb56f3e3619f8a11373',
+  'NAME' => 'Артур',
+  'LAST_NAME' => 'Соятиев',
+  'EMAIL' => 'sdk7@yandex.ru',
+  'PASSWORD' => '',
+)
+    CSendOrderPass::OnBeforeEventAddHandler < call_user_func_array < ExecuteModuleEventEx < CAllEvent::SendImmediate < CAllUser::SendUserInfo
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/event.php:36
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/user.php:1236
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/user.php:1149
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 12:03:52
+Module: id_event_1
+array (
+  'LOGIN' => 'spint-68@mail.ru',
+  'NAME' => NULL,
+  'LAST_NAME' => 'test',
+  'PASSWORD' => 'C5n5tB0P',
+  'CONFIRM_PASSWORD' => 'C5n5tB0P',
+  'EMAIL' => 'spint-68@mail.ru',
+  'GROUP_ID' => 
+  array (
+    0 => '3',
+    1 => '4',
+  ),
+  'ACTIVE' => 'Y',
+  'LID' => 's1',
+)
+    CSendOrderPass::OnBeforeUserAddHandler < call_user_func_array < ExecuteModuleEventEx < CAllUser::CheckFields < CUser::Add
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/user.php:1988
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/mysql/user.php:24
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/sale.order.ajax/class.php:1061
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 12:03:52
+Module: id_event_2
+array (
+  'USER_ID' => '4720',
+  'STATUS' => 'активен',
+  'MESSAGE' => 'Вы были успешно зарегистрированы.',
+  'LOGIN' => 'spint-68@mail.ru',
+  'URL_LOGIN' => 'spint-68%40mail.ru',
+  'CHECKWORD' => '229f6e0215ea107c2c2575b09c4ac4fa',
+  'NAME' => NULL,
+  'LAST_NAME' => 'test',
+  'EMAIL' => 'spint-68@mail.ru',
+  'PASSWORD' => 'C5n5tB0P',
+)
+    CSendOrderPass::OnBeforeEventAddHandler < call_user_func_array < ExecuteModuleEventEx < CAllEvent::SendImmediate < CAllUser::SendUserInfo
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/event.php:36
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/user.php:1236
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/sale.order.ajax/class.php:1075
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 12:03:52
+Module: id_event_2
+array (
+  'ORDER_ID' => 4339,
+  'ORDER_REAL_ID' => 4339,
+  'ORDER_ACCOUNT_NUMBER_ENCODE' => '4339',
+  'ORDER_DATE' => '11.05.17 12:03',
+  'ORDER_STATUS' => 'Принят',
+  'EMAIL' => 'spint-68@mail.ru',
+  'ORDER_DESCRIPTION' => 'Заказ принят, обрабатывается менеджером',
+  'TEXT' => '',
+  'SALE_EMAIL' => 'shop@kolchuga.ru',
+  'ORDER_USER' => 'test',
+  'ORDER_CANCEL_URL' => 'http://www.kolchuga.ru/personal/order/detail/4339/?CANCEL=Y',
+  'ORDER_PAY_URL' => '',
+  'ORDER_USER_FIO' => 'test',
+  'ORDER_USER_PHONE' => '',
+  'ORDER_USER_EMAIL' => 'spint-68@mail.ru',
+  'ORDER_DELIVERY' => 'Самовывоз [Ожидает обработки]',
+  'ORDER_DELIVERY_LOCATION' => 'Москва',
+  'ORDER_DELIVERY_ADDRESS' => '',
+  'ORDER_PAYMENT' => 'Оплата в пункте самовывоза [Не оплачено]',
+  'ORDER_PAYMENT_STATUS' => '',
+  'ORDER_URL' => 'http://www.kolchuga.ru/personal/order/detail/4339/',
+  'PASSWORD' => 'C5n5tB0P',
+)
+    CSendOrderPass::OnBeforeEventAddHandler < call_user_func_array < ExecuteModuleEventEx < CAllEvent::Send < Bitrix\Sale\Notify::sendOrderStatusChange
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/event.php:61
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/sale/lib/notify.php:368
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-11 12:03:52
+Module: id_event_2
+array (
+  'ORDER_ID' => 4339,
+  'ORDER_REAL_ID' => 4339,
+  'ORDER_ACCOUNT_NUMBER_ENCODE' => '4339',
+  'ORDER_DATE' => '11.05.17 12:03',
+  'ORDER_USER' => 'test',
+  'PRICE' => '525 руб',
+  'BCC' => 'shop@kolchuga.ru',
+  'EMAIL' => 'spint-68@mail.ru',
+  'ORDER_LIST' => 'Пульки Crosman Legacy Match 500 LM77 (12) - 1.00 шт: 525 руб
+',
+  'SALE_EMAIL' => 'shop@kolchuga.ru',
+  'DELIVERY_PRICE' => 0,
+  'ORDER_STATUS' => 'Принят',
+  'ORDER_CANCEL_URL' => 'http://www.kolchuga.ru/personal/order/detail/4339/?CANCEL=Y',
+  'ORDER_PAY_URL' => '',
+  'ORDER_USER_FIO' => 'test',
+  'ORDER_USER_PHONE' => '',
+  'ORDER_USER_EMAIL' => 'spint-68@mail.ru',
+  'ORDER_DELIVERY' => 'Самовывоз [Ожидает обработки]',
+  'ORDER_DELIVERY_LOCATION' => 'Москва',
+  'ORDER_DELIVERY_ADDRESS' => '',
+  'ORDER_PAYMENT' => 'Оплата в пункте самовывоза [Не оплачено]',
+  'ORDER_PAYMENT_STATUS' => '',
+  'ORDER_URL' => 'http://www.kolchuga.ru/personal/order/detail/4339/',
+  'PASSWORD' => 'C5n5tB0P',
+)
+    CSendOrderPass::OnBeforeEventAddHandler < call_user_func_array < ExecuteModuleEventEx < CAllEvent::Send < Bitrix\Sale\Notify::sendOrderNew
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/event.php:61
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/sale/lib/notify.php:128
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-15 17:31:18
+Module: id_event
+array (
+  'ID' => '4748',
+  'TIMESTAMP_X' => '15.05.2017 17:03:59',
+  'LOGIN' => 'spint-68@mail.ru',
+  'PASSWORD' => 'CvW9IkZqe20b1e061da4a50590a1a8ce4562f88c',
+  'CHECKWORD' => 'dEpN1QAm185da21342a91ecf6fcfc7616590b3d5',
+  'ACTIVE' => 'Y',
+  'NAME' => 'test',
+  'LAST_NAME' => NULL,
+  'EMAIL' => 'spint-68@mail.ru',
+  'LAST_LOGIN' => '15.05.2017 17:21:37',
+  'DATE_REGISTER' => '15.05.2017 17:03:59',
+  'LID' => 's1',
+  'PERSONAL_PROFESSION' => NULL,
+  'PERSONAL_WWW' => NULL,
+  'PERSONAL_ICQ' => NULL,
+  'PERSONAL_GENDER' => '',
+  'PERSONAL_BIRTHDATE' => NULL,
+  'PERSONAL_PHOTO' => NULL,
+  'PERSONAL_PHONE' => '3434',
+  'PERSONAL_FAX' => NULL,
+  'PERSONAL_MOBILE' => NULL,
+  'PERSONAL_PAGER' => NULL,
+  'PERSONAL_STREET' => NULL,
+  'PERSONAL_MAILBOX' => NULL,
+  'PERSONAL_CITY' => NULL,
+  'PERSONAL_STATE' => NULL,
+  'PERSONAL_ZIP' => NULL,
+  'PERSONAL_COUNTRY' => NULL,
+  'PERSONAL_NOTES' => NULL,
+  'WORK_COMPANY' => NULL,
+  'WORK_DEPARTMENT' => NULL,
+  'WORK_POSITION' => NULL,
+  'WORK_WWW' => NULL,
+  'WORK_PHONE' => NULL,
+  'WORK_FAX' => NULL,
+  'WORK_PAGER' => NULL,
+  'WORK_STREET' => NULL,
+  'WORK_MAILBOX' => NULL,
+  'WORK_CITY' => NULL,
+  'WORK_STATE' => NULL,
+  'WORK_ZIP' => NULL,
+  'WORK_COUNTRY' => NULL,
+  'WORK_PROFILE' => NULL,
+  'WORK_LOGO' => NULL,
+  'WORK_NOTES' => NULL,
+  'ADMIN_NOTES' => NULL,
+  'STORED_HASH' => NULL,
+  'XML_ID' => NULL,
+  'PERSONAL_BIRTHDAY' => NULL,
+  'EXTERNAL_AUTH_ID' => NULL,
+  'CHECKWORD_TIME' => '2017-05-15 17:17:12',
+  'SECOND_NAME' => NULL,
+  'CONFIRM_CODE' => '',
+  'LOGIN_ATTEMPTS' => '0',
+  'LAST_ACTIVITY_DATE' => NULL,
+  'AUTO_TIME_ZONE' => '',
+  'TIME_ZONE' => NULL,
+  'TIME_ZONE_OFFSET' => NULL,
+  'TITLE' => NULL,
+  'BX_USER_ID' => '9d49ac65dba7c7d078381df51d76f43c',
+  'LANGUAGE_ID' => NULL,
+  'IS_ONLINE' => 'N',
+)
+    OnAfterUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:229
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-15 17:32:32
+Module: id_event
+array (
+  'ID' => '4749',
+  'TIMESTAMP_X' => '15.05.2017 17:32:32',
+  'LOGIN' => 'spint-68@mail.ru',
+  'PASSWORD' => 'L5iysSXZ5e5204cda3e630bdecc6427186fbc49a',
+  'CHECKWORD' => 'J6o42G8Sfcef7d3e89f3e0d1a8e9e6fe3b238085',
+  'ACTIVE' => 'Y',
+  'NAME' => 'test',
+  'LAST_NAME' => NULL,
+  'EMAIL' => 'spint-68@mail.ru',
+  'LAST_LOGIN' => '15.05.2017 17:32:32',
+  'DATE_REGISTER' => '15.05.2017 17:32:32',
+  'LID' => 's1',
+  'PERSONAL_PROFESSION' => NULL,
+  'PERSONAL_WWW' => NULL,
+  'PERSONAL_ICQ' => NULL,
+  'PERSONAL_GENDER' => '',
+  'PERSONAL_BIRTHDATE' => NULL,
+  'PERSONAL_PHOTO' => NULL,
+  'PERSONAL_PHONE' => '34354',
+  'PERSONAL_FAX' => NULL,
+  'PERSONAL_MOBILE' => NULL,
+  'PERSONAL_PAGER' => NULL,
+  'PERSONAL_STREET' => NULL,
+  'PERSONAL_MAILBOX' => NULL,
+  'PERSONAL_CITY' => NULL,
+  'PERSONAL_STATE' => NULL,
+  'PERSONAL_ZIP' => NULL,
+  'PERSONAL_COUNTRY' => NULL,
+  'PERSONAL_NOTES' => NULL,
+  'WORK_COMPANY' => NULL,
+  'WORK_DEPARTMENT' => NULL,
+  'WORK_POSITION' => NULL,
+  'WORK_WWW' => NULL,
+  'WORK_PHONE' => NULL,
+  'WORK_FAX' => NULL,
+  'WORK_PAGER' => NULL,
+  'WORK_STREET' => NULL,
+  'WORK_MAILBOX' => NULL,
+  'WORK_CITY' => NULL,
+  'WORK_STATE' => NULL,
+  'WORK_ZIP' => NULL,
+  'WORK_COUNTRY' => NULL,
+  'WORK_PROFILE' => NULL,
+  'WORK_LOGO' => NULL,
+  'WORK_NOTES' => NULL,
+  'ADMIN_NOTES' => NULL,
+  'STORED_HASH' => NULL,
+  'XML_ID' => NULL,
+  'PERSONAL_BIRTHDAY' => NULL,
+  'EXTERNAL_AUTH_ID' => NULL,
+  'CHECKWORD_TIME' => '2017-05-15 17:32:32',
+  'SECOND_NAME' => NULL,
+  'CONFIRM_CODE' => '',
+  'LOGIN_ATTEMPTS' => '0',
+  'LAST_ACTIVITY_DATE' => NULL,
+  'AUTO_TIME_ZONE' => '',
+  'TIME_ZONE' => NULL,
+  'TIME_ZONE_OFFSET' => NULL,
+  'TITLE' => NULL,
+  'BX_USER_ID' => '9d49ac65dba7c7d078381df51d76f43c',
+  'LANGUAGE_ID' => NULL,
+  'IS_ONLINE' => 'N',
+)
+    OnAfterUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:229
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-15 17:37:41
+Module: id_event
+array (
+  'ID' => '4749',
+  'TIMESTAMP_X' => '15.05.2017 17:32:32',
+  'LOGIN' => 'spint-68@mail.ru',
+  'PASSWORD' => 'L5iysSXZ5e5204cda3e630bdecc6427186fbc49a',
+  'CHECKWORD' => 'J6o42G8Sfcef7d3e89f3e0d1a8e9e6fe3b238085',
+  'ACTIVE' => 'Y',
+  'NAME' => 'test',
+  'LAST_NAME' => NULL,
+  'EMAIL' => 'spint-68@mail.ru',
+  'LAST_LOGIN' => '15.05.2017 17:32:32',
+  'DATE_REGISTER' => '15.05.2017 17:32:32',
+  'LID' => 's1',
+  'PERSONAL_PROFESSION' => NULL,
+  'PERSONAL_WWW' => NULL,
+  'PERSONAL_ICQ' => NULL,
+  'PERSONAL_GENDER' => '',
+  'PERSONAL_BIRTHDATE' => NULL,
+  'PERSONAL_PHOTO' => NULL,
+  'PERSONAL_PHONE' => '34354',
+  'PERSONAL_FAX' => NULL,
+  'PERSONAL_MOBILE' => NULL,
+  'PERSONAL_PAGER' => NULL,
+  'PERSONAL_STREET' => NULL,
+  'PERSONAL_MAILBOX' => NULL,
+  'PERSONAL_CITY' => NULL,
+  'PERSONAL_STATE' => NULL,
+  'PERSONAL_ZIP' => NULL,
+  'PERSONAL_COUNTRY' => NULL,
+  'PERSONAL_NOTES' => NULL,
+  'WORK_COMPANY' => NULL,
+  'WORK_DEPARTMENT' => NULL,
+  'WORK_POSITION' => NULL,
+  'WORK_WWW' => NULL,
+  'WORK_PHONE' => NULL,
+  'WORK_FAX' => NULL,
+  'WORK_PAGER' => NULL,
+  'WORK_STREET' => NULL,
+  'WORK_MAILBOX' => NULL,
+  'WORK_CITY' => NULL,
+  'WORK_STATE' => NULL,
+  'WORK_ZIP' => NULL,
+  'WORK_COUNTRY' => NULL,
+  'WORK_PROFILE' => NULL,
+  'WORK_LOGO' => NULL,
+  'WORK_NOTES' => NULL,
+  'ADMIN_NOTES' => NULL,
+  'STORED_HASH' => NULL,
+  'XML_ID' => NULL,
+  'PERSONAL_BIRTHDAY' => NULL,
+  'EXTERNAL_AUTH_ID' => NULL,
+  'CHECKWORD_TIME' => '2017-05-15 17:32:32',
+  'SECOND_NAME' => NULL,
+  'CONFIRM_CODE' => '',
+  'LOGIN_ATTEMPTS' => '0',
+  'LAST_ACTIVITY_DATE' => NULL,
+  'AUTO_TIME_ZONE' => '',
+  'TIME_ZONE' => NULL,
+  'TIME_ZONE_OFFSET' => NULL,
+  'TITLE' => NULL,
+  'BX_USER_ID' => '9d49ac65dba7c7d078381df51d76f43c',
+  'LANGUAGE_ID' => NULL,
+  'IS_ONLINE' => 'N',
+)
+    OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-15 17:57:39
+Module: id_event
+array (
+  'ID' => '4750',
+  'TIMESTAMP_X' => '15.05.2017 17:38:27',
+  'LOGIN' => 'spint-68@mail.ru',
+  'PASSWORD' => 'Sonfe8Odefad3d659541d8ca688bb23b42c1cea1',
+  'CHECKWORD' => 'p2lM7vg575324b24657311e575b2ae0cf23fa453',
+  'ACTIVE' => 'Y',
+  'NAME' => 'test',
+  'LAST_NAME' => NULL,
+  'EMAIL' => 'spint-68@mail.ru',
+  'LAST_LOGIN' => '15.05.2017 17:38:27',
+  'DATE_REGISTER' => '15.05.2017 17:38:27',
+  'LID' => 's1',
+  'PERSONAL_PROFESSION' => NULL,
+  'PERSONAL_WWW' => NULL,
+  'PERSONAL_ICQ' => NULL,
+  'PERSONAL_GENDER' => '',
+  'PERSONAL_BIRTHDATE' => NULL,
+  'PERSONAL_PHOTO' => NULL,
+  'PERSONAL_PHONE' => '4545',
+  'PERSONAL_FAX' => NULL,
+  'PERSONAL_MOBILE' => NULL,
+  'PERSONAL_PAGER' => NULL,
+  'PERSONAL_STREET' => NULL,
+  'PERSONAL_MAILBOX' => NULL,
+  'PERSONAL_CITY' => NULL,
+  'PERSONAL_STATE' => NULL,
+  'PERSONAL_ZIP' => NULL,
+  'PERSONAL_COUNTRY' => NULL,
+  'PERSONAL_NOTES' => NULL,
+  'WORK_COMPANY' => NULL,
+  'WORK_DEPARTMENT' => NULL,
+  'WORK_POSITION' => NULL,
+  'WORK_WWW' => NULL,
+  'WORK_PHONE' => NULL,
+  'WORK_FAX' => NULL,
+  'WORK_PAGER' => NULL,
+  'WORK_STREET' => NULL,
+  'WORK_MAILBOX' => NULL,
+  'WORK_CITY' => NULL,
+  'WORK_STATE' => NULL,
+  'WORK_ZIP' => NULL,
+  'WORK_COUNTRY' => NULL,
+  'WORK_PROFILE' => NULL,
+  'WORK_LOGO' => NULL,
+  'WORK_NOTES' => NULL,
+  'ADMIN_NOTES' => NULL,
+  'STORED_HASH' => NULL,
+  'XML_ID' => NULL,
+  'PERSONAL_BIRTHDAY' => NULL,
+  'EXTERNAL_AUTH_ID' => NULL,
+  'CHECKWORD_TIME' => '2017-05-15 17:38:27',
+  'SECOND_NAME' => NULL,
+  'CONFIRM_CODE' => '',
+  'LOGIN_ATTEMPTS' => '0',
+  'LAST_ACTIVITY_DATE' => NULL,
+  'AUTO_TIME_ZONE' => '',
+  'TIME_ZONE' => NULL,
+  'TIME_ZONE_OFFSET' => NULL,
+  'TITLE' => NULL,
+  'BX_USER_ID' => '9d49ac65dba7c7d078381df51d76f43c',
+  'LANGUAGE_ID' => NULL,
+  'IS_ONLINE' => 'N',
+)
+    OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-15 17:59:04
+Module: id_event
+NULL
+    OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:15:00
+Module: id_event
+'spint-68@mail.ru'
+    OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:15:00
+Module: id_event
+'spint-68@mail.ru'
+    OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:17:33
+Module: id_event
+'spint-68@mail.ru'
+    OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:17:33
+Module: id_event
+'spint-68@mail.ru'
+    OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:33:13
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:33:13
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:35:56
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:35:56
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:36:54
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:36:54
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:38:35
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:38:35
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:40:59
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:40:59
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:41:52
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:41:52
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:42:47
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:42:47
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:44:38
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:44:38
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:49:17
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:49:17
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:51:25
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:51:25
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:52:47
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:52:47
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:54:06
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:54:06
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:54:33
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:54:33
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:55:06
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:55:06
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:56:15
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:56:15
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:56:39
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:56:39
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:56:49
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 10:56:49
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:00:38
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:00:38
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:01:15
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:01:15
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:01:38
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:01:38
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:02:25
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:02:25
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:03:37
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:03:37
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:04:02
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:04:02
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:05:28
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:05:28
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:06:30
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:06:30
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:07:35
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:07:35
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:08:10
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:08:10
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:11:32
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:11:32
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:13:05
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:13:05
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:13:29
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:13:29
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:15:49
+Module: id_event
+NULL
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:15:49
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:17:46
+Module: id_event
+NULL
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:17:46
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:18:19
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:18:19
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:18:33
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:18:33
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:18:50
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:18:50
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:20:49
+Module: id_event
+NULL
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------
+Host: www.kolchuga.ru
+Date: 2017-05-16 11:20:49
+Module: id_event
+'spint-68@mail.ru'
+    RegisterUserOnSite::OnBeforeUserRegisterHandler < call_user_func_array < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/module.php:475
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/main.register/component.php:172
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:548
+	/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/main/classes/general/component.php:591
+----------

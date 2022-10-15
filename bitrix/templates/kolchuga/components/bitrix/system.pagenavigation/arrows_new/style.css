@@ -1,0 +1,14 @@
+.arrow-left,
+.arrow-right{
+	width:8px;
+	height:14px;
+	background-repeat:no-repeat;
+	display:inline-block;
+	vertical-align:middle;
+}
+.arrow-left{
+	background-image:url('images/left.png');
+}
+.arrow-right{
+	background-image:url('images/right.png');
+}

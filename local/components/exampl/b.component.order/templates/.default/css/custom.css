@@ -1,0 +1,413 @@
+/* Прелоадер */
+#loader {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 999999;
+    background-color: rgba(246, 246, 246, 0.5);
+}
+
+#loader img {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#loader-city {
+    display: none;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 20px;
+}
+
+/* Корзина */
+#order_submit .total-price {
+    margin-bottom: 20px;
+}
+
+#order_submit .good-item__img img {
+    width: 64px;
+}
+
+#order_submit .basket-goods__container {
+    overflow-y: auto;
+    #max-height: 434px;
+}
+
+#order_submit .good-item {
+    width: auto;
+}
+
+/* Службы доставки */
+#order_submit .contacts-delivery-result-todoor {
+    display: none;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    overflow-y: auto;
+    max-height: 215px;
+    color: #000;
+    font-family: "Plumb", Arial, sans-serif;
+    border: 1px solid #C0C1C3;
+    border-bottom-width: 0 px;
+}
+
+#delivery-todoor {
+    display: block;
+    background-color: #949ca0;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #fff;
+    cursor: pointer;
+    text-align: center;
+}
+
+#order_submit .contacts-delivery-result-transport {
+    display: none;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    color: #000;
+    font-family: "Plumb", Arial, sans-serif;
+    border: 1px solid #C0C1C3;
+    border-bottom-width: 0 px;
+}
+
+#delivery-transport {
+    display: block;
+    background-color: #949ca0;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #fff;
+    cursor: pointer;
+    text-align: center;
+}
+
+#transport_table_wrapper {
+    overflow-y: auto;
+    max-height: 380px;
+}
+
+#order_submit table.get_delivery_todoor {
+    width: -webkit-fill-available;
+    margin-top: 0px;
+}
+
+#order_submit table.get_delivery_todoor thead {
+    display: none;
+}
+
+#order_submit table.get_delivery_transport {
+    width: -webkit-fill-available;
+    margin-top: 0px;
+    table-layout: fixed;
+
+    overflow-y: auto;
+}
+
+#order_submit table.get_delivery_transport thead {
+    display: none;
+}
+
+#order_submit .offer-item-layout {
+    width: 100%;
+    height: 80px;
+}
+
+#order_submit .offer-item-layout button {
+    padding: 10px;
+    border: 1px solid rgba(191, 153, 0, .8);
+    background-color: #ffdb4d;
+    cursor: pointer;
+    border-radius: 10px;
+    font-weight: 700;
+    box-shadow: 0 1px 2px rgba(32, 32, 32, .2);
+}
+
+#order_submit .offer-item-layout button.active {
+    padding: 10px;
+    border: 1px solid #37b34a;
+    background-color: #37b34a;
+    color: #fff;
+    cursor: pointer;
+}
+
+#order_submit .offer-item-layout .cell-stamp {
+    width: 0%;
+    display: none;
+}
+
+#order_submit .offer-item-layout .cell-icon {
+    text-align: -webkit-center;
+}
+
+#order_submit .offer-item-layout .cell-icon img {
+    width: 70px;
+    height: 60px;
+}
+
+#order_submit .offer-item-layout .cell-title {
+    text-align: -webkit-left;
+}
+
+#order_submit .offer-item-layout .cell-date {
+    text-align: -webkit-center;
+}
+
+#order_submit .offer-item-layout .cell-price {
+    text-align: -webkit-center;
+}
+
+#order_submit .offer-item-layout .cell-select {
+    text-align: -webkit-center;
+}
+
+/* Свечение кнопок */
+#order_submit button:active, button:focus {
+    outline: none;
+}
+
+#order_submit button::-moz-focus-inner {
+    border: 0;
+}
+
+/* Подсказки адреса */
+#suggest {
+    width: 100%;
+}
+
+/* Неактивные даты в календаре */
+.bx-calendar-range .disabled {
+    pointer-events: none;
+}
+
+/* Очистить дату в календаре */
+#order_submit .contacts-delivery {
+    position: relative;
+}
+
+#order_submit .contacts-delivery i.fa {
+    position: absolute;
+    top: 12px;
+    right: 14px;
+    color: #dee2e6;
+    cursor: pointer;
+}
+
+/*  */
+
+#order_submit .basket-goods__container {
+    width: 100%;
+}
+
+#order_submit .submit-result {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 14px;
+}
+
+/* Точки доставки на карте */
+#contacts-delivery-result-transport-map {
+    position: absolute;
+    width: 99.6%;
+    height: 200px;
+}
+
+#contacts-delivery-result-transport-container {
+    margin-top: 45px;
+    border-top: 1px solid #C0C1C3;
+}
+
+/*  */
+
+.offer-item-layout.map {
+    width: 100px !important;
+    height: 80px !important;
+}
+
+.offer-item-layout.map button {
+    padding: 10px;
+    border: 1px solid rgba(191, 153, 0, .8);
+    background-color: #ffdb4d;
+    cursor: pointer;
+}
+
+.offer-item-layout.map button.active {
+    padding: 10px;
+    border: 1px solid #37b34a;
+    background-color: #37b34a;
+    color: #fff;
+    cursor: pointer;
+}
+
+.offer-item-layout.map .cell-select {
+    text-align: -webkit-left !important;
+}
+
+button.btn.btn-secondar {
+    padding: 10px 0;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+/*  */
+
+#contacts-delivery-result-transport-select {
+    position: absolute;
+    width: 100%;
+    height: 30px;
+    margin-top: 15px;
+    margin-left: 8px;
+}
+
+#order_submit .dropdown {
+    position: relative;
+    width: 100%;
+    color: black;
+}
+
+#order_submit .dropdown-open {
+    font-size: 14px;
+    padding: 10px;
+    cursor: pointer;
+    background: #fff;
+    border-radius: 4px;
+    box-shadow: 0 1px 2px 1px rgba(0, 0, 0, .15), 0 2px 5px -3px rgba(0, 0, 0, .15);
+}
+
+#order_submit .dropdown span .fa {
+    margin-left: 5px;
+    color: #C0C1C3;
+}
+
+#order_submit .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    border: 1px solid #C0C1C3;
+    padding: 9px 6px;
+    z-index: 1;
+    top: 35px;
+    font-size: 14px;
+    width: 165px;
+}
+
+#order_submit .dropdown-content span {
+    cursor: pointer;
+    background-color: #ffdb4d;
+    border: 1px solid rgba(191, 153, 0, .8);
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    display: block;
+}
+
+#order_submit .dropdown-content span.active {
+    border: 1px solid #37b34a;
+    background-color: #37b34a;
+    color: #fff;
+}
+
+#order_submit .dropdown-content.open {
+    display: block;
+}
+
+/* Шапка оформления заказа */
+
+#header, .breadcrumbs {
+    display: none !important;
+}
+
+section.order.header {
+    position: relative;
+    margin-top: 10px !important;
+    font-size: 14px;
+}
+
+section.order.header .order__wrapper {
+    margin-right: 20px;
+
+}
+
+section.order.header .time {
+    margin-top: 10px;
+}
+
+section.order.header .phone {
+    position: absolute;
+    top: 12px;
+    right: 25px;
+}
+
+section.order.header .phone {
+    font-size: 15px;
+}
+
+section.order.header .phone .soc-serv {
+    margin-top: 0px;
+}
+
+section.order.header .phone .soc-item {
+    margin-top: 5px;
+    width: 25px;
+    height: 25px;
+}
+
+section.order.header .address {
+    position: absolute;
+    top: 70px;
+    right: 25px;
+}
+
+@media screen and (max-width: 450px) {
+
+    section.order.header .phone {
+        margin-top: 10px;
+        position: inherit;
+    }
+
+    section.order.header .address {
+        margin-top: 10px;
+        position: inherit;
+    }
+
+    #order_submit .contacts-delivery i.fa {
+        top: 60px;
+    }
+
+    #loader-city {
+        top: 40px;
+    }
+
+}
+
+/* Таблица */
+#order_submit table {
+    border-spacing: 0px;
+}
+
+#order_submit table td {
+    border-bottom: 1px solid #C0C1C3;
+}
+
+/* Яндекс.подсказки */
+.contacts-delivery .ymaps-search__suggest-item {
+    white-space: normal !important;
+    border-bottom: 1px solid #C0C1C3;
+}
+
+.contacts-delivery ymaps {
+    left: -0.5px !important;
+}
+

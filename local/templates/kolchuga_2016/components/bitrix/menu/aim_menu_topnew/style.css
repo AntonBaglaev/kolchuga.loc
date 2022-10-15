@@ -1,0 +1,26 @@
+.header__middle--center {
+    padding: 11px 0 0 0;
+    margin-left: -10px;
+}
+
+.header__middle--center .navbar__nav {
+    background-color: transparent;
+    padding: 0;
+    text-align: justify;
+    border: none;
+    line-height: 1;
+    font-size: 1px;
+    text-justify: newspaper;
+    zoom: 1;
+    text-align-last: justify
+}
+.header__middle--center .navbar__nav>li>a {
+    font-size: 18px;
+    text-decoration: none;
+    display: block;
+    padding: 5px 9px;
+	color:#fff;
+}
+@media (min-width: 540px){
+.aim_menu_topn li.lvl_1[data-submenu-id="id_46b806cb6646e5002d7604c7885ce34d"]{display:none;}
+}

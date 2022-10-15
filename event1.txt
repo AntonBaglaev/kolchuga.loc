@@ -1,0 +1,985 @@
+
+
+** 16.09.2021 13:31:08 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 181****E **row 1****
+
+
+** 16.09.2021 13:31:08 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 182****E **row 2****
+
+
+** 16.09.2021 13:33:10 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 148****E **row arParams****
+Array
+(
+    [FIELD] => $arProduct
+)
+
+
+** 16.09.2021 13:33:10 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 148****E **row arParams****
+Array
+(
+    [FIELD] => $arProduct
+)
+
+
+** 16.09.2021 13:50:05 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 148****E **row arParams****
+Array
+(
+    [FIELD] => $arProduct
+)
+
+
+** 16.09.2021 13:50:05 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 148****E **row arParams****
+Array
+(
+    [FIELD] => $arProduct
+)
+
+
+** 16.09.2021 13:53:15 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 148****E **row arParams****
+Array
+(
+    [FIELD] => $arProduct
+)
+
+
+** 16.09.2021 13:53:15 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 152****E **row arParams****
+
+
+** 16.09.2021 13:53:15 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 148****E **row arParams****
+Array
+(
+    [FIELD] => $arProduct
+)
+
+
+** 16.09.2021 13:53:15 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 152****E **row arParams****
+
+
+** 16.09.2021 13:53:23 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 182****E **row 1****
+$arProduct
+
+** 16.09.2021 13:53:23 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 183****E **row 2****
+
+
+** 16.09.2021 14:02:07 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 148****E **row arParams****
+Array
+(
+    [FIELD] => $arProduct
+)
+
+
+** 16.09.2021 14:02:07 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 148****E **row arParams****
+Array
+(
+    [FIELD] => $arProduct
+)
+
+
+** 16.09.2021 14:02:42 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 182****E **row 1****
+
+
+** 16.09.2021 14:02:42 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 183****E **row 2****
+
+
+** 16.09.2021 14:04:43 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 182****E **row 1****
+
+
+** 16.09.2021 14:04:43 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 183****E **row 2****
+
+
+** 16.09.2021 14:04:43 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 185****E **row 3****
+NULL
+
+** 16.09.2021 14:07:35 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 148****E **row arParams****
+Array
+(
+    [FIELD] => $arProduct
+)
+
+
+** 16.09.2021 14:07:35 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 148****E **row arParams****
+Array
+(
+    [FIELD] => $arProduct
+)
+
+
+** 16.09.2021 14:08:09 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 148****E **row arParams****
+Array
+(
+    [FIELD] => $arProduct
+)
+
+
+** 16.09.2021 14:08:09 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 148****E **row arParams****
+Array
+(
+    [FIELD] => $arProduct
+)
+
+
+** 16.09.2021 14:08:25 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 182****E **row 1****
+Array
+(
+    [ID] => 685272
+    [IBLOCK_ID] => 40
+    [SECTION_ID] => Array
+        (
+            [0] => 17827
+            [1] => 17828
+            [2] => 17830
+        )
+
+    [CODE] => tikka_t3x_lite_30_06_570mm
+    [XML_ID] => 140c5b51-8ab6-11ea-a66c-002590c1b0f5
+    [NAME] => Винтовка Tikka T3x Lite .30-06 570мм
+    [ACTIVE] => Y
+    [DATE_ACTIVE_FROM] => 
+    [DATE_ACTIVE_TO] => 
+    [SORT] => 500
+    [PREVIEW_TEXT] => 
+    [DETAIL_TEXT] => <p>Финская оружейная компания Tikka была основана в 1918 году. После ее слияния с другим оружейным брендом Sako, процесс изготовления каждого изделия от начала и до конца происходит на собственном предприятии. Полностью автоматизированный конструкторский отдел, применение современных технологий и настоящее скандинавское качество сделали охотничье и спортивное оружие Tikka одним из лучших в своем классе. Над впечатляющим дизайном оружия Tikka работает всемирно известное итальянское бюро Giugiaro (ItalDesign).</p>
+<p>Сравнительно недорогое, но очень качественное и надежное оружие Tikka пользуется заслуженной популярностью во всём мире. Перед поступлением в продажу, каждое изделие этой марки проходит тестирование и контрольный отстрел.</p>
+<p>Заводская гарантия на точность каждой винтовки — 1 MOA! Винтовки и карабины Tikka — это, в первую очередь, плавный ход затвора, привлекательный дизайн и уникальное сочетание цены и качества.</p>
+<h3>Серия Tikka T3x</h3>
+<p>Tikka T3x — это высокоточные винтовки с продольно-скользящим поворотным затвором, созданным на базе конструкции затворной группы Tikka T3, проверенной временем и высоко оцененной стрелками всего мира за точность при стрельбе на дальние дистанции.</p>
+<p>Модели из нового поступления Tikka T3x объединяет ряд общих качеств:</p>
+<p><strong>Модульная ложа</strong></p>
+<p>Ложа из армированного стекловолокном полимера ряда моделей T3x опционально комплектуется сменными пистолетными рукоятками, позволяющими менять хват при различных позициях стрельбы. Полимерное цевьё T3x оснащено дополнительными желобами крепления, которые позволяют использовать накладки, меняющими ширину детали для удобства стрелка.</p>
+<p><strong>Оптимальный микрорельеф</strong></p>
+<p>На сменные приклады и цевья T3x нанесен асимметричный микрорельеф, который был специально разработан для обеспечения надежного хвата в любых условиях стрельбы.</p>
+<p><strong>Новый затыльник приклада</strong></p>
+<p>Все модели T3x поставляются с новым затыльником приклада, который снижает воздействие отдачи на стрелка. Выполненный по новой технологии, он позволяет полностью сосредоточиться на точности ваших выстрелов.</p>
+<p><strong>Оптимизированное экстракционное окно</strong></p>
+<p>В ствольной коробке расширено окно удаления стреляных гильз.</p>
+<p><strong>Улучшенное крепление</strong></p>
+<p>Модели T3x имеют дополнительные отверстия для креплений в верхней части ствольной коробки, благодаря которым можно надёжно закрепить планку Пикатинни для использования любых, даже самых тяжелых, прицелов.</p>
+<p><strong>Металлическая муфта затвора</strong></p>
+<p>Металлическая муфта закрывает и защищает заднюю часть корпуса затвора и ударник.</p>
+<p><strong>Стальная лапа отдачи</strong></p>
+<p>Сверхпрочный механизм стальной лапы отдачи устойчив к деформациям даже при стрельбе патронами крупных калибров.</p>
+<h3>Tikka T3x LITE и SUPERLITE</h3>
+<p>T3x Superlite предлагает исключительно высокую производительность, воплощенную в суперлегком корпусе. Материал, из которого выполнен приклад – прочное стекловолокно. Модели поставляются с классической пистолетной рукояткой. У модели T3x Superlite хромированный ствол с каннелюрами и пластиковое ложе черного цвета.</p>
+    [TAGS] => 
+    [DATE_CREATE] => 1588891313
+    [TIMESTAMP_X] => 1631739081
+    [CREATED_BY] => 1
+    [MODIFIED_BY] => 11048
+    [CATALOG_QUANTITY] => 4
+    [CATALOG_WEIGHT] => 0
+    [CATALOG_VAT_ID] => 3
+    [CATALOG_VAT_INCLUDED] => Y
+    [PROPERTY_465_VALUE] => Array
+        (
+            [0] => 763388
+        )
+
+    [PROPERTY_246_VALUE] => Array
+        (
+            [0] => .30-06 Spr
+        )
+
+    [PROPERTY_333_VALUE] => Array
+        (
+            [0] => 619107
+        )
+
+    [PROPERTY_301_VALUE] => Array
+        (
+            [0] => 
+        )
+
+    [PROPERTY_343_VALUE] => Array
+        (
+            [0] => 
+        )
+
+    [PROPERTY_349_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_216_VALUE] => Array
+        (
+            [0] => ТребуетсяЛицензия
+        )
+
+    [PROPERTY_350_VALUE] => Array
+        (
+            [0] => 
+        )
+
+    [PROPERTY_351_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_355_VALUE] => Array
+        (
+            [0] => 
+        )
+
+    [PROPERTY_359_VALUE] => Array
+        (
+            [0] => 760992
+        )
+
+    [PROPERTY_414_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_416_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_218_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_352_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_356_VALUE] => Array
+        (
+            [0] => 
+        )
+
+    [PROPERTY_360_VALUE] => Array
+        (
+            [0] => 765756
+        )
+
+    [PROPERTY_415_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_206_VALUE] => Array
+        (
+            [0] => 7601290664205
+        )
+
+    [PROPERTY_207_VALUE] => Array
+        (
+            [0] => TFST31LL103
+        )
+
+    [PROPERTY_208_VALUE] => Array
+        (
+            [0] => 
+        )
+
+    [PROPERTY_210_VALUE] => Array
+        (
+            [0] => шт
+        )
+
+    [PROPERTY_211_VALUE] => Array
+        (
+            [0] => 20
+        )
+
+    [PROPERTY_214_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_219_VALUE] => Array
+        (
+            [0] => 
+        )
+
+    [PROPERTY_222_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_302_VALUE] => Array
+        (
+            [0] => 
+        )
+
+    [PROPERTY_308_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_309_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_310_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_348_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_353_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_361_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_481_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_362_VALUE] => Array
+        (
+            [0] => 761015
+        )
+
+    [PROPERTY_413_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_458_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_221_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_270_VALUE] => Array
+        (
+            [0] => 
+        )
+
+    [PROPERTY_303_VALUE] => Array
+        (
+            [0] => 
+        )
+
+    [PROPERTY_363_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_459_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_299_VALUE] => Array
+        (
+            [0] => 
+        )
+
+    [PROPERTY_364_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_460_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_248_VALUE] => Array
+        (
+            [0] => 
+        )
+
+    [PROPERTY_300_VALUE] => Array
+        (
+            [0] => 
+        )
+
+    [PROPERTY_365_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_461_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_249_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_306_VALUE] => Array
+        (
+            [0] => 618949
+        )
+
+    [PROPERTY_366_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_462_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_367_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_463_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_368_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_464_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_369_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_471_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_370_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_472_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_322_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_371_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_473_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_372_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_342_VALUE] => Array
+        (
+            [0] => 
+        )
+
+    [PROPERTY_373_VALUE] => Array
+        (
+            [0] => 760835
+        )
+
+    [PROPERTY_374_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_375_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_470_VALUE] => Array
+        (
+            [0] => 0d171c79-c4d9-11e5-825b-002590c1b0f5
+        )
+
+    [PROPERTY_376_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_377_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_378_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_379_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_380_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_381_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_253_VALUE] => Array
+        (
+            [0] => 298883
+        )
+
+    [PROPERTY_382_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_254_VALUE] => Array
+        (
+            [0] => 
+        )
+
+    [PROPERTY_383_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_305_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_384_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_385_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_386_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_387_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_388_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_389_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_390_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_391_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_392_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_393_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_394_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_395_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_396_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_397_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_398_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_399_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_400_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_401_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_402_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_403_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_404_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_405_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_406_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_521_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_610_VALUE] => Array
+        (
+            [0] => 
+        )
+
+    [PROPERTY_407_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_408_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_409_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_410_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_411_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_412_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_575_VALUE] => Array
+        (
+            [0] => 
+        )
+
+    [PROPERTY_417_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_421_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_422_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_423_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_424_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_425_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_418_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_426_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_419_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_427_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_420_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_428_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_431_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_432_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_433_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_434_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_435_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_436_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_429_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_437_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_430_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_438_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_439_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_440_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_441_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_442_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_443_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_444_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_445_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_446_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_447_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_448_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_449_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_450_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_451_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_452_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_453_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_454_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_455_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_456_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_457_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_607_VALUE] => Array
+        (
+            [0] => -1
+        )
+
+    [PROPERTY_550_VALUE] => Array
+        (
+            [0] => 
+        )
+
+    [PROPERTY_557_VALUE] => Array
+        (
+            [0] => 765900
+            [1] => 765724
+            [2] => 765725
+        )
+
+)
+
+
+** 16.09.2021 14:08:25 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 183****E **row 2****
+
+
+** 16.09.2021 14:08:25 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 185****E **row 3****
+NULL
+
+** 16.09.2021 14:25:12 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 172****E **row arParams****
+Array
+(
+    [FIELD] => $arProduct
+)
+
+
+** 16.09.2021 14:25:12 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 172****E **row arParams****
+Array
+(
+    [FIELD] => $arProduct
+)
+
+
+** 16.09.2021 14:25:49 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 172****E **row arParams****
+Array
+(
+    [FIELD] => $arProduct
+)

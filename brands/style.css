@@ -1,0 +1,10 @@
+.__sticky {
+    position: sticky !important;
+    z-index: 999;
+    top: 102px;
+}
+
+.title-page h1 {
+    line-height: 2!important;
+    margin-bottom: 0!important;
+}

@@ -1,0 +1,90 @@
+
+.modalMenu{overflow: hidden; display: none; position: fixed; top: 0; right: 0; bottom: 0; left: 0; z-index: 50;}
+	.menuBackground{background: #fff;}
+		.menuWrapper{max-width: 1200px; margin: 0 auto; overflow: hidden; padding: 35px 0;}
+		
+			.menuHeader{overflow: hidden; margin: 0 0 35px 0;}
+				.closeMenu{font-weight: 500; text-transform: uppercase; z-index: 2; float: right; cursor: pointer;}
+					.closeMenu span.cross {font-size: 22px; color: #212121; margin: 0 0 0 5px; vertical-align: middle; display: inline-block;}
+					.closeMenu span.closeText {transition: border .2s ease; vertical-align: middle;}
+					.closeMenu:hover span.closeText{}
+					
+			.menuMiddle{overflow: hidden;}
+				nav{}
+					nav > ul{width: 22%; margin: 0 4% 35px 0; display: inline-block; vertical-align: top; overflow: hidden; background: #F3F3F3;}
+					nav > ul:nth-child(4n){margin-right: 0;}
+						nav > ul > li{list-style-type: none; padding: 35px 35px 45px 35px;}
+							nav > ul > li > a{color: #131720; font-weight: 500; font-size: 19px; letter-spacing: 0.03em; text-decoration: underline;
+								text-transform: uppercase;
+							}
+							nav > ul > li > a.root-item-selected{text-decoration: none;}
+							nav > ul > li > a:hover{text-decoration: none;}
+					
+						nav ul li ul{margin: 30px 0 0 0;}
+							nav ul li ul li{list-style-type: none; margin: 0 0 14px 0;}
+							nav ul li ul li:last-child{margin: 0;}
+								nav ul li ul li a{color: #373c45; font-size: 17px; text-decoration: underline;}
+								nav ul li ul li a.item-selected{text-decoration: none;}
+								nav ul li ul li a:hover{text-decoration: none;}
+
+					.menuMore{background: none;}
+						.menuMoreItem{margin: 0 0 22px 0; padding: 0;}
+						.menuMoreItem.selected a{text-decoration: none;}
+						.menuMoreItem:last-child{margin: 0;}
+
+					.menuTopInfo{background: none;}
+						.menuTopInfo div{margin: 0 0 25px 0; font-size: 17px; font-weight: 500;}
+						.menuTopInfo div:last-child{margin: 0;}
+							.menuTopInfo div span{margin: 0 0 10px 0; color: #666; display: block;}
+							.menuTopInfo div a{color: #EF6C00; text-decoration: underline; display: inline-block;}
+
+
+.modalOpen .modalMenu {overflow-x: hidden; overflow-y: auto;}							
+
+
+.fadeIn{display: block; animation: topMenuShow .4s ease;}
+
+@keyframes topMenuShow{
+	from{
+		transform: translateY(-20px);
+	}
+	to{
+		transform: translateY(0);
+	}
+}
+
+
+@media all and (max-width: 1270px) {
+	.menuWrapper{padding: 35px 30px;}
+}
+
+@media all and (max-width: 1120px) {
+	nav > ul{width: 31%; margin: 0 3.5% 30px 0;}
+	nav > ul:nth-child(3n){margin-right: 0;}
+	nav > ul:nth-child(4n){margin-right: 3.5%;}
+}
+
+@media all and (max-width: 850px) {
+	nav > ul{width: 47.5%; margin: 0 5% 30px 0;}
+	nav > ul:nth-child(4n){margin-right: 5%;}
+	nav > ul:nth-child(3n){margin-right: 5%;}
+	nav > ul:nth-child(2n){margin-right: 0;}
+}
+
+@media all and (max-width: 830px) {
+	nav > ul > li{padding: 20px;}
+	.menuMoreItem a{font-size: 17px;}
+}
+
+@media all and (max-width: 600px) {
+	.menuWrapper{padding: 25px;}
+	.menuHeader{margin: 0 0 25px 0;}
+}
+
+@media all and (max-width: 500px) {
+	nav > ul{width: 100%; margin: 0 0 30px 0 !important;}
+}
+
+@media all and (max-width: 400px) {
+	.menuWrapper{padding: 20px;}
+}

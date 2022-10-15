@@ -1,0 +1,24 @@
+<?php
+$aMenuLinks = array(
+	array(
+		"Услуги", 
+		"#SITE_DIR#services/", 
+		array(), 
+		array(), 
+		"" 
+	),
+	array(
+		"Компания", 
+		"#SITE_DIR#company/", 
+		array(), 
+		array(), 
+		"" 
+	),
+	array(
+		"Контакты", 
+		"#SITE_DIR#contacts/", 
+		array(), 
+		array(), 
+		"" 
+	)
+);

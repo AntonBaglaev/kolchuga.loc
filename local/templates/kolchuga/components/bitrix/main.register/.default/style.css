@@ -1,0 +1,70 @@
+div.bx-auth-reg input.bx-auth-input {vertical-align:middle;}
+div.bx-auth-reg span.bx-auth-secure {background-color:#FFFAE3; border:1px solid #DEDBC8; padding:2px; display:inline-block; vertical-align:middle;}
+div.bx-auth-reg div.bx-auth-secure-icon {background-image:url(images/sec.png); background-repeat:no-repeat; background-position:center; width:19px; height:18px;}
+div.bx-auth-reg div.bx-auth-secure-unlock {background-image:url(images/sec-unlocked.png);}
+
+
+
+.error-msg {
+	margin-bottom: 12px;
+}
+.error-msg__text {
+	background: #f00;
+	padding: 7.5px 15px;
+	color: #fff;
+	font-size: 14px;
+	line-height: 1;
+	display: inline-block;
+}
+
+.starrequired {
+	color: #f00;
+}
+
+.table-register * {
+	box-sizing: border-box;
+}
+
+.table-register tr > td:first-child {
+	text-align: right;
+}
+
+.table-register td {
+	padding: 7.5px 2px;
+}
+
+.table-register input[type="text"],
+.table-register input[type="password"]{
+	padding: 5px 5px;
+	border: 2px solid #1d355b;
+	outline: none;
+	box-shadow: none;
+	display: block;
+	font-size: 14px;
+	width: 100%;
+}
+
+.table-register .captcha input[name="captcha_word"] {
+	display: inline-block;
+    height: 40px;
+    vertical-align: top;
+    width: 80px;
+    text-align: center;
+    margin-left: -4px;
+}
+.table-register input[type="submit"] {
+	display: inline-block;
+	outline: none;
+	box-shadow: none;
+	padding: 7.5px 15px;
+	line-height: 1;
+	border-radius: 3px;
+	border: 1px solid transparent;
+	background: #1d355b;
+	color: #fff;
+	font-size: 21px;
+	text-align: center;
+	text-transform: uppercase;
+	display: block;
+	width: 100%;
+}

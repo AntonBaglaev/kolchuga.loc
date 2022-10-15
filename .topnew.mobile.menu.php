@@ -1,0 +1,60 @@
+<?
+$aMenuLinks = Array(
+    Array(
+        "Каталог",
+        "/internet_shop/",
+        Array(),
+        Array("CLASS"=>"aim_catalog"),
+        ""
+    ),
+    Array(
+        "Оружейные салоны",
+        "/weapons_salons/",
+        Array(),
+        Array(),
+        ""
+    ),
+	Array(
+		"О компании", 
+		"/o-kompanii/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+    Array(
+        "Услуги",
+        "/services/",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Оплата",
+        "/sposoby-oplaty/",
+        Array(),
+        Array(),
+        ""
+    ),
+	Array(
+		"Сервисные центры", 
+		"/services_centers/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Доставка", 
+		"/information/dostavka.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Лояльность", 
+		"/programma-loyalnosti/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+);
+?>

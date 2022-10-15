@@ -1,0 +1,4 @@
+.new_bread{border-top:1px solid #EA5B35;margin-bottom:1em;}
+.new_bread div.bgbread{background-color: #EA5B35;}
+.new_bread ul{list-style: none;padding:0;margin:0;}
+.new_bread ul li{display:inline-block; font-family: 'PT Sans';font-size: 14px;margin-right:5px;}

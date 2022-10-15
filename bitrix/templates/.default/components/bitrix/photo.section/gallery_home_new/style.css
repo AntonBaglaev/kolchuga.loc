@@ -1,0 +1,89 @@
+.ghome{
+	position: relative;	
+	text-align:center;
+	margin:auto;
+	max-width:1255px;
+	padding:0 0px 10px 0px;
+}
+.home_block_gallery{
+	overflow: hidden;
+	padding:0 20px 0 30px;
+	/* margin-left:-30px; */
+	/* margin:auto;
+	width:130px; */
+}
+.block_gallery_content{
+	
+}
+.menu_home{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+.menu_home li{
+	/* display: inline-block;
+    float: none !important;
+    margin: 0;
+    text-align: center;
+    vertical-align: middle; */
+    width: 400px;
+	text-align:center;
+}
+.menu_home li div{
+    width:370px;
+	position:relative;
+	margin:auto;
+}
+.menu_home li img{
+    width: 100%;	
+	display:block;
+}
+.menu_home li div span{
+    display:none;
+	position:absolute;
+	bottom:0;
+	left:0;
+	right:0;
+	background:url(/images/bg_img_gal.png) 0 0 repeat;
+	color:#1C355B;
+	font-weight:bold;
+	padding:10px 20px;
+	-webkit-border-bottom-right-radius: 8px;
+	-webkit-border-bottom-left-radius: 8px;
+	-moz-border-radius-bottomright: 8px;
+	-moz-border-radius-bottomleft: 8px;
+	border-bottom-right-radius: 8px;
+	border-bottom-left-radius: 8px;
+	border-radius: 0px 0px 8px 8px;
+	behavior: url(/js/pie.htc);
+}
+.menu_home li:hover div span{
+    display:block;
+}
+.jcarousel-clip {
+    overflow: hidden;
+}
+.jcarousel-prev, 
+.jcarousel-next {
+    cursor: pointer;
+    display: block;
+    height: 40px;
+    position: absolute;
+    top: 50% !important;
+	margin-top:-20px;
+    width: 11px;
+	background: url(/images/ico_arrow.png) 0 center no-repeat;
+	opacity: 0.5;
+	filter: alpha(opacity=50);
+}
+.home_block_gallery .jcarousel-prev {
+    left: -10px !important;
+}
+.home_block_gallery .jcarousel-next {
+	background-position:-11px center;
+    right: -10px !important;
+}
+.jcarousel-prev:hover, .jcarousel-next:hover, .jcarousel-prev-disabled, .jcarousel-next-disabled {
+	opacity: 1;
+	filter: alpha(opacity=100);
+}

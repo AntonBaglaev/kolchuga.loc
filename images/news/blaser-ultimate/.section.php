@@ -1,0 +1,3 @@
+<?
+$sSectionName="blaser-ultimate";
+?>

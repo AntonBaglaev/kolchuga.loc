@@ -1,0 +1,106 @@
+.block_salon_baner .homelogo{ display: block; position: absolute; top: 15%; left: 50%; max-width: 17%; transform: translate(-50%, 0); }
+.block_salon_baner h3{ display: block; position: absolute; bottom: 20%; left: 50%; max-width: 400px; transform: translate(-50%, 0); color:#fff; font-size:32px;font-style: italic;}
+.block_salon_karta iframe {width:100%;height:400px;}
+.block_salon_time .list-group {border-radius: 0;}
+.block_salon_time .list-group-item:last-child {border-bottom-width: 0;}
+.block_salon_time .pull-right {float:right;}
+
+.form-group.input-material {
+	position: relative;
+	margin-top: 50px;
+	margin-bottom: 25px;
+}
+
+.form-group.input-material label {
+	color: #b1bbc4;
+	font-size: 16px;
+	font-weight: normal;
+	position: absolute;
+	pointer-events: none;
+	left: 5px;
+	top: 0px;
+	transition: 0.1s ease all;
+	-moz-transition: 0.1s ease all;
+	-webkit-transition: 0.1s ease all;
+}
+
+.form-group.input-material .form-control {
+	border: none;
+	border-bottom: 2px solid #ced4da;
+	border-radius: 0px;
+	background: transparent;
+	padding-left: 5px;
+	box-shadow: none;	
+}
+
+.form-group.input-material .form-control:required~label::after {
+	content: '*';
+	color: #dc3545;
+	padding-left: 2px;
+	font-size: 0.8em;
+}
+
+.form-group.input-material .form-control:focus,
+.form-group.input-material .form-control[value]:not([value=""]) {
+	border-bottom-color: #402e26;
+	color: #000;
+}
+
+.form-group.input-material .form-control:focus~label,
+.form-group.input-material .form-control[value]:not([value=""])~label {
+	top: -25px;
+	font-size: 14px;
+	color: #402e26;
+	font-weight: 500;
+}
+
+.form-group.input-material .form-control:focus.invalid,
+.form-group.input-material .form-control.invalid,
+.form-group.input-material .form-control:focus.parsley-error,
+.form-group.input-material .form-control[value]:not([value=""]).parsley-error {
+	border-bottom-color: #dc3545;
+}
+
+.form-group.input-material .form-control:focus.invalid~label,
+.form-group.input-material .form-control.invalid~label,
+.form-group.input-material .form-control:focus.parsley-error~label,
+.form-group.input-material .form-control[value]:not([value=""]).parsley-error~label {
+	color: #dc3545;
+}
+
+.form-group.input-material .parsley-errors-list {
+	color: #dc3545;
+	list-style: none;
+	font-size: 0.7em;
+	padding-left: 5px;
+}
+.block_salon_form p {font-size:24px;line-height:32px;color:#5c5c5c;}
+.btn.btn-cta {	
+    display: block;
+    width: 244px;
+    margin: 30px auto 0;
+    font-family: PT Sans;
+    font-size: 14px;
+    color: #21385E;
+    border: 1px solid #21385E;
+    text-align: center;
+    padding: 7px 0;
+    text-decoration: none;
+	border-radius: 0;
+}
+.btn.btn-cta:hover {
+    border: 1px solid #21385e;
+    background-color: rgb(33, 56, 94,1);
+    transition: all 1s ease 0s;
+    color: #fff;
+}
+.block_salon_slider .owl-theme .owl-nav .owl-prev { left: -0.5em; }
+	.block_salon_slider .owl-theme .owl-nav .owl-next { right: -0.5em; }
+@media only screen and (max-width: 415px){
+	.block_salon_karta iframe {height:150px;}
+}
+@media (max-width: 767px){
+	.block_salon_slider .recommend.owl-theme .owl-nav [class*=owl-] { top: 50%;}
+	.block_salon_slider .owl-theme .owl-nav .owl-prev { left: 0; }
+	.block_salon_slider .owl-theme .owl-nav .owl-next { right: 0; }
+}

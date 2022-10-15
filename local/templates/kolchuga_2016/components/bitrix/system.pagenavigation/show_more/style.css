@@ -1,0 +1,27 @@
+.load_more  {width:100%;clear:both;text-align:center;}
+.load_more a {
+
+    display: block;
+    margin: 0 auto;
+    font-family: PT Sans;
+    font-size: 14px;
+    color: #21385E;
+    border: 1px solid #21385E;
+    text-align: center;
+    padding: 8px 16px;
+    text-decoration: none;
+    width: fit-content;
+
+}
+.load_more a:hover {
+    border: 1px solid #21385e;
+    background-color: rgb(33, 56, 94,1);
+    transition: all 1s ease 0s;
+    color: #fff;
+	
+}
+.load_more a:active {
+    color: #FFFFFF;
+}
+
+.load_more a:link, .load_more a:hover, .load_more a:visited, .load_more a:focus  {text-decoration: none;}

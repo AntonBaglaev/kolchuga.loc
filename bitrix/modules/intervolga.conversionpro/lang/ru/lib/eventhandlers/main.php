@@ -1,0 +1,2 @@
+<?
+$MESS["INTERVOLGA_CONVERSIONPRO_ERROR_LOAD_MODULE"] = "Модуль #MODULE_NAME# не установлен";

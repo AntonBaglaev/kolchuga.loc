@@ -1,0 +1,4 @@
+<?php
+$MESS["REDCODE_MCORPORATE_TYPE_NAME"] = "REDCODE: корпоративный сайт (medium)";
+$MESS["REDCODE_MCORPORATE_ELEMENT_NAME"] = "Элементы";
+$MESS["REDCODE_MCORPORATE_SECTION_NAME"] = "Разделы";

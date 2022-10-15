@@ -1,0 +1,12 @@
+<?php
+$MESS["COMPONENT_FEEDBACK_NAME"] = "Ваше имя";
+$MESS["COMPONENT_FEEDBACK_SURNAME"] = "Ваша фамилия";
+$MESS["COMPONENT_FEEDBACK_PATRONYMIC"] = "Ваше отчество";
+$MESS["COMPONENT_FEEDBACK_SUBJECT"] = "Тема сообщения";
+$MESS["COMPONENT_FEEDBACK_PHONE"] = "Ваш телефон";
+$MESS["COMPONENT_FEEDBACK_EMAIL"] = "Ваш e-mail";
+$MESS["COMPONENT_FEEDBACK_MESSAGE"] = "Текст сообщения";
+$MESS["COMPONENT_FEEDBACK_FILE"] = "Файл";
+
+$MESS["COMPONENT_FORM_TITLE_DEFAULT"] = "Отправка резюме";
+$MESS["COMPONENT_FORM_NAME_SUBMIT_DEFAULT"] = "Отправить";

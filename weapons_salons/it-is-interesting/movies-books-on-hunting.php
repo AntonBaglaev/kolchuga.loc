@@ -1,0 +1,21 @@
+<?
+require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetPageProperty("tags", "Нарезное оружие, гладкоствольное оружие, ножи, оптика, бинокли, прицелы, пневматика, пневматическое оружие, травматическое оружие, электрошокеры, одежда для охоты, патроны, сувениры, сейфы, аксессуары для охоты, Anschutz, Armi Sport, Armsan, Benelli, Beretta, Blaser, Browning, Ceska Zbroovka, Companion, Cosmi, Fabarm, Fausti, Franchi, Krieghoff, Lanber, Mannlicher, Mauser, Merkel, Pedersoli, Remington, Sako, Sauer, SDI Waffen, SHR, Stoeger, Tikka, Walther, Winchester, Zoli");
+$APPLICATION->SetPageProperty("keywords_inner", "Нарезное оружие, гладкоствольное оружие, ножи, оптика, бинокли, прицелы, пневматика, пневматическое оружие, травматическое оружие, электрошокеры, одежда для охоты, патроны, сувениры, сейфы, аксессуары для охоты, Anschutz, Armi Sport, Armsan, Benelli, Beretta, Blaser, Browning, Ceska Zbroovka, Companion, Cosmi, Fabarm, Fausti, Franchi, Krieghoff, Lanber, Mannlicher, Mauser, Merkel, Pedersoli, Remington, Sako, Sauer, SDI Waffen, SHR, Stoeger, Tikka, Walther, Winchester, Zoli");
+$APPLICATION->SetPageProperty("keywords", "Фильмы об охоте");
+$APPLICATION->SetPageProperty("description", "Фильмы об охоте");
+$APPLICATION->SetTitle("Фильмы об охоте");
+?> Все материалы данного ресурса взяты из открытых источников - http://video.yandex.ru и http://youtube.com - и предназначены только для ознакомления. 
+<br />
+ Права на фильмы, ролики и видео принадлежат их законным правообладателям. 
+<br />
+ Сайт www.kolchuga.ru использует возможности, которые применяются в рамках прав, предоставленных пользователями, загрузившими ролики на сайты http://video.yandex.ru и http://youtube.com 
+<br />
+<br />
+ <object width="480" height="360"><param value="http://www.youtube.com/v/gL5cgPsbGiE?version=3&amp;hl=en_US&amp;rel=0" name="movie"></param><param value="true" name="allowFullScreen"></param><param value="always" name="allowscriptaccess"></param><embed type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://www.youtube.com/v/gL5cgPsbGiE?version=3&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true" ></embed></object> 
+<br /><br />
+ <object width="480" height="270"><param value="http://www.youtube.com/v/1ImuSegHQkw?version=3&amp;hl=en_US&amp;rel=0" name="movie"></param><param value="true" name="allowFullScreen"></param><param value="always" name="allowscriptaccess"></param><embed type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://www.youtube.com/v/1ImuSegHQkw?version=3&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" width="480" height="270" allowscriptaccess="always" allowfullscreen="true" ></embed></object> 
+<br /><br />
+ <object width="480" height="360"><param value="http://www.youtube.com/v/bdW4U-e2wxQ?version=3&amp;hl=en_US&amp;rel=0" name="movie"></param><param value="true" name="allowFullScreen"></param><param value="always" name="allowscriptaccess"></param><embed type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://www.youtube.com/v/bdW4U-e2wxQ?version=3&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true" ></embed></object> 
+<br /><br />
+ <object width="480" height="360"><param value="http://www.youtube.com/v/uZskKbX1sNc?version=3&amp;hl=en_US&amp;rel=0" name="movie"></param><param value="true" name="allowFullScreen"></param><param value="always" name="allowscriptaccess"></param><embed type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://www.youtube.com/v/uZskKbX1sNc?version=3&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true" ></embed></object><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

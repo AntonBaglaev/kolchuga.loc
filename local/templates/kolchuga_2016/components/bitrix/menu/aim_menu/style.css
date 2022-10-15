@@ -1,0 +1,94 @@
+.navbar__nav .aim_catalog{
+	position: relative;
+}
+.navbar__nav .aim_catalog>a{
+	padding-right: 23px;
+}
+.navbar__nav .aim_catalog>a::before{
+	display: block;
+	content: " ";
+	background: url('/images/m_arrow.png') no-repeat;
+	width: 11px;
+	height: 11px;
+	top: 15px;
+	right: 0;
+	position: absolute;
+	-webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+.navbar__nav .aim_catalog .aim_parent>a::before{
+	display: block;
+	content: " ";
+	background: url('/images/m_arrow.png') no-repeat;
+	width: 7px;
+	height: 11px;
+	top: 32%;
+	right: 7px;
+	position: absolute;
+}
+.navbar__nav .aim_catalog .aim_parent>a{
+	position: relative;
+}
+.navbar__nav .aim_catalog:hover>ul/*, .navbar__nav .aim_catalog .aim_parent:hover>ul*/{
+	display: block;
+}
+.navbar__nav .aim_catalog ul{
+	box-shadow: none;
+	background: #fff;
+	border: 1px solid #cbc9b6;
+	position: absolute;
+	width: 200px;
+	margin: 0;
+	padding: 0;
+	display: none;
+}
+.navbar__nav .aim_catalog ul li{
+	position: relative;
+	border: none;
+	margin: 0;
+	padding: 0;
+}
+.navbar__nav .aim_catalog ul a{
+	font-size: 16px;
+	color: #21385e;
+	border: 0;
+	line-height: 1.5;
+	padding: 5px 20px 5px 10px;
+}
+.navbar__nav .aim_catalog ul a:hover, .navbar__nav .aim_catalog ul a.active{
+	background-color: #e4e4da;
+	color: #21385e;
+}
+
+.navbar__nav .aim_catalog ul ul{
+	left: 198px;
+	top: -1px;
+}
+.navbar__nav .aim_catalog li.lvl_2,.navbar__nav .aim_catalog li.lvl_3{
+	position: static;
+}
+.navbar__nav .aim_catalog li.lvl_2>ul, .navbar__nav .aim_catalog li.lvl_3>ul{
+	/*min-height: 100%;*/
+	/* Firefox */
+	min-height: -moz-calc(100% + 2px);
+	/* WebKit */
+	min-height: -webkit-calc(100% + 2px);
+	/* Opera */
+	min-height: -o-calc(100% + 2px);
+	/* Standard */
+	min-height: calc(100% + 2px);
+}
+/*.navbar__nav .aim_catalog.lvl_1>ul{
+	border-top: 0;
+	border-bottom: 0;
+}
+.navbar__nav .aim_catalog.lvl_1>ul>li:first-child{
+	border-top: 1px solid #cbc9b6;
+}
+.navbar__nav .aim_catalog.lvl_1>ul>li:last-child{
+	border-bottom: 1px solid #cbc9b6;
+}*/
+li.red a {color:#ff0000;}

@@ -1,0 +1,307 @@
+<?
+require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetPageProperty("keywords", "магазин для охоты, товары для охоты");
+$APPLICATION->SetPageProperty("tags", "Нарезное оружие, гладкоствольное оружие, ножи, оптика, бинокли, прицелы, пневматика, пневматическое оружие, травматическое оружие, электрошокеры, одежда для охоты, патроны, сувениры, сейфы, аксессуары для охоты, Anschutz, Armi Sport, Armsan, Benelli, Beretta, Blaser, Browning, Ceska Zbroovka, Companion, Cosmi, Fabarm, Fausti, Franchi, Krieghoff, Lanber, Mannlicher, Mauser, Merkel, Pedersoli, Remington, Sako, Sauer, SDI Waffen, SHR, Stoeger, Tikka, Walther, Winchester, Zoli");
+$APPLICATION->SetPageProperty("description", "Каталог товаров, интернет-магазин \"Кольчуга\"");
+$APPLICATION->SetPageProperty("title", "Магазин для охоты \"Кольчуга\"");
+$APPLICATION->SetTitle("Товары для охоты");
+
+if ($_SERVER['REQUEST_URI'] == '/internet_shop/oruzhie/h%26k/') {
+header('HTTP/1.1 301 Moved Permanently');
+header('Location: https://www.kolchuga.ru/internet_shop/oruzhie/h&k/');
+exit;}
+
+   
+$pageUrl = $_SERVER['REQUEST_URI'];           
+if(preg_match('/[-]+/', $pageUrl)){
+    $redirectUrl = preg_replace('/[-]+/','_', $pageUrl);
+    header('HTTP/1.1 301 Moved Permanently');        
+    header('Location: https://www.kolchuga.ru'. $redirectUrl);
+exit;
+}
+
+    
+
+
+$GLOBALS['shopFilter'] = array(
+	'>CATALOG_PRICE_2' => 0,
+	'=PROPERTY_IS_SKU_VALUE' => 'Нет',
+	array(
+		'LOGIC' => 'OR',
+		'>CATALOG_QUANTITY' => 0,
+		'>PROPERTY_SKU_QUANTITY' => 0
+	)
+)
+?><noindex>
+<!-- 
+
+<p>
+	<span style="color: #F14E4A;">Уважаемые покупатели! В оружейных салонах и интернет-магазине проводится переоценка товара. Цены на сайте временно могут отличаться от цен в наших салонах. </span>
+</p>
+
+
+<p>
+	<span style="color: #008000;">Уважаемые покупатели! В интернет-магазине доступна оплата наличными и банковской картой курьеру (при доставке по Москве и Московской области). Заказы также можно оплатить банковской картой на нашем сайте.</span>
+</p>
+
+
+<p>
+	<span style="color: #F14E4A;">C 7 по 23 декабря временно недоступна оплата наличными и банковской картой курьеру (при доставке по Москве и Московской области). Заказы можно оплатить банковской картой на нашем сайте.</span>
+</p>
+-->
+
+</noindex>
+<?$APPLICATION->IncludeComponent(
+	"kolchuga:catalog", 
+	"ajax_new", 
+	array(
+		"ACTION_VARIABLE" => "action",
+		"ADD_ELEMENT_CHAIN" => "Y",
+		"ADD_PROPERTIES_TO_BASKET" => "N",
+		"ADD_SECTIONS_CHAIN" => "Y",
+		"AJAX_MODE" => "Y",
+		"AJAX_OPTION_ADDITIONAL" => "",
+		"AJAX_OPTION_HISTORY" => "Y",
+		"AJAX_OPTION_JUMP" => "N",
+		"AJAX_OPTION_STYLE" => "Y",
+		"ALSO_BUY_ELEMENT_COUNT" => "15",
+		"ALSO_BUY_MIN_BUYES" => "2",
+		"BASKET_URL" => "/internet_shop/basket/",
+		"CACHE_FILTER" => "Y",
+		"CACHE_GROUPS" => "Y",
+		"CACHE_NOTES" => "",
+		"CACHE_TIME" => "360000000",
+		"CACHE_TYPE" => "N",
+		"COMPONENT_TEMPLATE" => "ajax_new",
+		"CONVERT_CURRENCY" => "N",
+		"DETAIL_BACKGROUND_IMAGE" => "-",
+		"DETAIL_BROWSER_TITLE" => "-",
+		"DETAIL_CHECK_SECTION_ID_VARIABLE" => "N",
+		"DETAIL_META_DESCRIPTION" => "-",
+		"DETAIL_META_KEYWORDS" => "-",
+		"DETAIL_PROPERTY_CODE" => array(
+			0 => "BREND",
+			1 => "KALIBR",
+			2 => "STRANA",
+			3 => "DULNAYA_ENERGIYA",
+			4 => "POL",
+			5 => "TREBUETSYA_LITSENZIYA",
+			6 => "CML2_ARTICLE",
+			7 => "RAZMER",
+			8 => "CML2_BAR_CODE",
+			9 => "MATERIAL",
+			10 => "TSVET",
+			11 => "SEZON",
+			12 => "WE_RECOMEND_WITH_IT",
+			13 => "TSVET_1",
+			14 => "",
+		),
+		"DETAIL_SET_CANONICAL_URL" => "Y",
+		"DETAIL_SET_VIEWED_IN_COMPONENT" => "N",
+		"DISABLE_INIT_JS_IN_COMPONENT" => "N",
+		"DISPLAY_BOTTOM_PAGER" => "Y",
+		"DISPLAY_TOP_PAGER" => "N",
+		"ELEMENT_SORT_FIELD" => "name",
+		"ELEMENT_SORT_FIELD2" => "PROPERTY_NOVINKA",
+		"ELEMENT_SORT_ORDER" => "asc",
+		"ELEMENT_SORT_ORDER2" => "desc",
+		"EX_FILTER_IBLOCK_ID" => "48",
+		"FILE_404" => "",
+		"FILTER_FIELD_CODE" => array(
+			0 => "DETAIL_TEXT",
+			1 => "",
+		),
+		"FILTER_NAME" => "shopFilter",
+		"FILTER_PRICE_CODE" => array(
+			0 => "Розничная",
+		),
+		"FILTER_PROPERTY_CODE" => array(
+			0 => "",
+			1 => "KOLICHESTVO6",
+			2 => "",
+		),
+		"GIFTS_DETAIL_BLOCK_TITLE" => "Выберите один из подарков",
+		"GIFTS_DETAIL_HIDE_BLOCK_TITLE" => "N",
+		"GIFTS_DETAIL_PAGE_ELEMENT_COUNT" => "3",
+		"GIFTS_DETAIL_TEXT_LABEL_GIFT" => "Подарок",
+		"GIFTS_MAIN_PRODUCT_DETAIL_BLOCK_TITLE" => "Выберите один из товаров, чтобы получить подарок",
+		"GIFTS_MAIN_PRODUCT_DETAIL_HIDE_BLOCK_TITLE" => "N",
+		"GIFTS_MAIN_PRODUCT_DETAIL_PAGE_ELEMENT_COUNT" => "3",
+		"GIFTS_MESS_BTN_BUY" => "Выбрать",
+		"GIFTS_SECTION_LIST_BLOCK_TITLE" => "Подарки к товарам этого раздела",
+		"GIFTS_SECTION_LIST_HIDE_BLOCK_TITLE" => "N",
+		"GIFTS_SECTION_LIST_PAGE_ELEMENT_COUNT" => "3",
+		"GIFTS_SECTION_LIST_TEXT_LABEL_GIFT" => "Подарок",
+		"GIFTS_SHOW_DISCOUNT_PERCENT" => "Y",
+		"GIFTS_SHOW_IMAGE" => "Y",
+		"GIFTS_SHOW_NAME" => "Y",
+		"GIFTS_SHOW_OLD_PRICE" => "Y",
+		"HIDE_NOT_AVAILABLE" => "N",
+		"IBLOCK_ID" => "40",
+		"IBLOCK_TYPE" => "1c_catalog",
+		"INCLUDE_SUBSECTIONS" => "Y",
+		"LINE_ELEMENT_COUNT" => "3",
+		"LINK_ELEMENTS_URL" => "link.php?PARENT_ELEMENT_ID=#ELEMENT_ID#",
+		"LINK_IBLOCK_ID" => "",
+		"LINK_IBLOCK_TYPE" => "",
+		"LINK_PROPERTY_SID" => "",
+		"LIST_BROWSER_TITLE" => "-",
+		"LIST_META_DESCRIPTION" => "-",
+		"LIST_META_KEYWORDS" => "-",
+		"LIST_PROPERTY_CODE" => array(
+			0 => "SALE",
+			1 => "BESTPRICE",
+			2 => "NOVINKA",
+			3 => "SPECIAL_PRICE",
+			4 => "STARAYA_TSENA",
+			5 => "",
+		),
+		"MESSAGE_404" => "",
+		"PAGER_BASE_LINK_ENABLE" => "N",
+		"PAGER_DESC_NUMBERING" => "N",
+		"PAGER_DESC_NUMBERING_CACHE_TIME" => "36000",
+		"PAGER_SHOW_ALL" => "N",
+		"PAGER_SHOW_ALWAYS" => "N",
+		"PAGER_TEMPLATE" => "",
+		"PAGER_TITLE" => "Товары",
+		"PAGE_ELEMENT_COUNT" => "24",
+		"PARTIAL_PRODUCT_PROPERTIES" => "N",
+		"PRICE_CODE" => array(
+			0 => "Розничная",
+		),
+		"PRICE_VAT_INCLUDE" => "Y",
+		"PRICE_VAT_SHOW_VALUE" => "Y",
+		"PRODUCT_ID_VARIABLE" => "id",
+		"PRODUCT_PROPERTIES" => array(
+		),
+		"PRODUCT_PROPS_VARIABLE" => "prop",
+		"PRODUCT_QUANTITY_VARIABLE" => "quantity",
+		"SECTION_BACKGROUND_IMAGE" => "-",
+		"SECTION_COUNT_ELEMENTS" => "N",
+		"SECTION_ID_VARIABLE" => "SECTION_ID",
+		"SECTION_TOP_DEPTH" => "2",
+		"SEF_FOLDER" => "/internet_shop/",
+		"SEF_MODE" => "Y",
+		"SET_LAST_MODIFIED" => "N",
+		"SET_STATUS_404" => "N",
+		"SET_TITLE" => "Y",
+		"SHOW_404" => "Y",
+		"SHOW_DEACTIVATED" => "N",
+		"SHOW_PRICE_COUNT" => "1",
+		"SHOW_TOP_ELEMENTS" => "Y",
+		"TOP_ELEMENT_COUNT" => "8",
+		"TOP_ELEMENT_SORT_FIELD" => "name",
+		"TOP_ELEMENT_SORT_FIELD2" => "id",
+		"TOP_ELEMENT_SORT_ORDER" => "asc",
+		"TOP_ELEMENT_SORT_ORDER2" => "desc",
+		"TOP_LINE_ELEMENT_COUNT" => "3",
+		"TOP_PROPERTY_CODE" => array(
+			0 => "",
+			1 => "KOLICHESTVO6",
+			2 => "",
+		),
+		"USE_ALSO_BUY" => "Y",
+		"USE_COMPARE" => "N",
+		"USE_ELEMENT_COUNTER" => "Y",
+		"USE_FILTER" => "Y",
+		"USE_GIFTS_DETAIL" => "Y",
+		"USE_GIFTS_MAIN_PR_SECTION_LIST" => "Y",
+		"USE_GIFTS_SECTION" => "Y",
+		"USE_MAIN_ELEMENT_SECTION" => "N",
+		"USE_PRICE_COUNT" => "N",
+		"USE_PRODUCT_QUANTITY" => "N",
+		"USE_REVIEW" => "N",
+		"USE_STORE" => "N",
+		"SEF_URL_TEMPLATES" => array(
+			"sections" => "",
+			"section" => "#SECTION_CODE_PATH#/",
+			"element" => "#SECTION_CODE_PATH#/#ELEMENT_CODE#/",
+			"compare" => "compare.php?action=#ACTION_CODE#",
+			"smart_filter" => "",
+		),
+		"VARIABLE_ALIASES" => array(
+			"compare" => array(
+				"ACTION_CODE" => "action",
+			),
+		)
+	),
+	false,
+	array(
+		"ACTIVE_COMPONENT" => "Y"
+	)
+);?>
+<?$APPLICATION->IncludeComponent(
+	"bitrix:catalog.bigdata.products",
+	".default",
+	Array(
+		"ACTION_VARIABLE" => "action",
+		"ADDITIONAL_PICT_PROP_17" => "MORE_PHOTO",
+		"ADDITIONAL_PICT_PROP_3" => "MORE_PHOTO",
+		"ADDITIONAL_PICT_PROP_40" => "MORE_PHOTO",
+		"ADDITIONAL_PICT_PROP_41" => "",
+		"ADD_PROPERTIES_TO_BASKET" => "Y",
+		"BASKET_URL" => "/internet_shop/basket/",
+		"CACHE_GROUPS" => "Y",
+		"CACHE_TIME" => "3600",
+		"CACHE_TYPE" => "N",
+		"CART_PROPERTIES_17" => "",
+		"CART_PROPERTIES_3" => "",
+		"CART_PROPERTIES_40" => array(0=>"",1=>"",),
+		"CART_PROPERTIES_41" => "",
+		"COMPONENT_TEMPLATE" => ".default",
+		"CONVERT_CURRENCY" => "N",
+		"DEPTH" => "",
+		"DETAIL_URL" => "",
+		"HIDE_NOT_AVAILABLE" => "N",
+		"IBLOCK_ID" => "40",
+		"IBLOCK_TYPE" => "1c_catalog",
+		"ID" => $_REQUEST["PRODUCT_ID"],
+		"LABEL_PROP_17" => "-",
+		"LABEL_PROP_3" => "-",
+		"LABEL_PROP_40" => "-",
+		"LABEL_PROP_41" => "",
+		"LINE_ELEMENT_COUNT" => "3",
+		"MESS_BTN_BUY" => "Купить",
+		"MESS_BTN_DETAIL" => "Подробнее",
+		"MESS_BTN_SUBSCRIBE" => "Подписаться",
+		"PAGE_ELEMENT_COUNT" => "100",
+		"PARTIAL_PRODUCT_PROPERTIES" => "N",
+		"PRICE_CODE" => array(0=>"Розничная",),
+		"PRICE_VAT_INCLUDE" => "Y",
+		"PRODUCT_ID_VARIABLE" => "id",
+		"PRODUCT_PROPS_VARIABLE" => "prop",
+		"PRODUCT_QUANTITY_VARIABLE" => "",
+		"PRODUCT_SUBSCRIPTION" => "N",
+		"PROPERTY_CODE_17" => "",
+		"PROPERTY_CODE_3" => "",
+		"PROPERTY_CODE_40" => array(0=>"",1=>"",),
+		"PROPERTY_CODE_41" => "",
+		"RCM_TYPE" => "personal",
+		"SECTION_CODE" => "",
+		"SECTION_ELEMENT_CODE" => "",
+		"SECTION_ELEMENT_ID" => "",
+		"SECTION_ID" => "",
+		"SHOW_DISCOUNT_PERCENT" => "Y",
+		"SHOW_FROM_SECTION" => "N",
+		"SHOW_IMAGE" => "Y",
+		"SHOW_NAME" => "Y",
+		"SHOW_OLD_PRICE" => "N",
+		"SHOW_PRICE_COUNT" => "1",
+		"SHOW_PRODUCTS_17" => "N",
+		"SHOW_PRODUCTS_3" => "N",
+		"SHOW_PRODUCTS_40" => "Y",
+		"SHOW_PRODUCTS_41" => "N",
+		"TEMPLATE_THEME" => "blue",
+		"USE_PRODUCT_QUANTITY" => "N"
+	),
+false,
+Array(
+	'ACTIVE_COMPONENT' => 'N'
+)
+);
+
+global $newSeoh1;
+if($newSeoh1!=''){
+    $APPLICATION->SetPageProperty("description", $newSeoh1.' высокого качества в интернет-магазине Кольчуга. На нашем сайте вы можете подобрать и зарезервировать оружие от ведущих производителей по доступной цене. Посмотреть весь ассортимент и узнать подробности вы можете на сайте.');
+}
+?><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

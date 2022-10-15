@@ -1,0 +1,67 @@
+.block_salonBody{
+	width:400px;
+	margin:auto;
+}
+.block_salonBody img{
+	width:399px;
+}
+.salon_list{
+	padding-bottom:35px;
+	position:relative;
+	margin-top:-25px;
+}
+.table_salon_list{
+	border-collapse:collapse;
+	width:100%;
+}
+.table_salon_list td{
+	vertical-align:top;
+	padding:25px 10px 35px 0;
+	border-bottom:1px dotted #aaaaaa;
+}
+.table_salon_list h2 a{
+	text-decoration:none;
+}
+.address_info_right{
+	padding:5px 0 0 100px;
+	color:#888888;
+}
+.address_info_right p{
+	padding-bottom:8px;
+}
+.address_info_right p i{
+	font-style:normal;
+	color:#fff;
+	position:relative;
+	padding:0 4px 2px;
+	margin-right:9px;	
+	line-height:14px;
+}
+.address_info_right .metro_orange{
+	color:#ff5400;
+}
+.address_info_right .metro_orange i{
+	background:#ff5400;
+}
+.address_info_right .metro_purple{
+	color:#9609be;
+}
+.address_info_right .metro_purple i{
+	background:#9609be;
+}
+.block_menu_salon{
+	padding:10px 0 20px;
+}
+.menu_salon{
+	margin:0;
+	padding:0;
+	list-style:none;
+	position:relative;
+	overflow:hidden;
+}
+.menu_salon  li{
+	display:inline-block;	
+	padding:0px 17px 5px 16px;
+	margin-left:-10px;
+	background:url(/images/circle_blue5.png) 0 8px no-repeat;
+}

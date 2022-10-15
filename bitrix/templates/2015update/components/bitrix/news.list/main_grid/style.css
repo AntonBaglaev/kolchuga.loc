@@ -1,0 +1,27 @@
+.article_list{
+	list-style:none !important;
+	margin:0;
+	padding:0;
+}
+.article_list li{
+	padding-bottom:30px;
+	overflow:hidden;
+	list-style-image:none !important;
+}
+.article_list li img{
+	width:202px;	
+}
+.article_list li img{
+	width:202px;	
+}
+/**/
+.article_list li ul{
+	padding-left:20px;	
+	
+}
+.article_list li li{
+	padding-bottom:5px;
+	overflow:hidden;
+	list-style-type:disc;
+	overflow:visible;
+}

@@ -1,0 +1,13 @@
+
+** 18.03.2022 11:04:19 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/init.php 488**********
+Array
+(
+    [ACTIVE] => Y
+    [WF] => N
+    [WF_NEW] => 
+    [SEARCHABLE_CONTENT] => ОХОТНИЧИЙ ПАТРОН .30-06 NORMA 11.0 TIPSTRIKE 17434 (20)
+ОХОТНИЧЬИ ПАТРОНЫ .30-06 NORMA 11 TIPSTRIKE 17434
+
+    [IBLOCK_ID] => 40
+    [ID] => 659554
+)

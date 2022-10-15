@@ -1,0 +1,559 @@
+<!DOCTYPE HTML>
+<html lang="ru">
+<head>
+	<title>Оружейные салоны</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<link type="image/x-icon" href="favicon.ico" rel="icon">
+	<link type="image/x-icon" href="favicon.ico" rel="shortcut icon">
+	<link href='http://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic&subset=latin,cyrillic-ext,latin-ext,cyrillic' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="css/fonts.css">
+	<link rel="stylesheet" href="css/plugins.css">
+	<link rel="stylesheet" href="css/style.css">
+	
+	<script src="js/jquery.min.js"></script>
+	<script src="js/main.min.js"></script>
+	
+	<!--[if lt IE 10]>
+		<script type="text/javascript" src="js/fix/placeholder.js"></script>
+	<![endif]-->
+	<!--[if lt IE 9]>
+		<script type="text/javascript" src="js/fix/respond.min.js"></script>
+	<![endif]-->
+	<!--[if (gte IE 6)&(lte IE 8)]>
+		<script type="text/javascript" src="js/fix/selectivizr-min.js"></script>
+	<![endif]-->
+	<script src="js/init.js" type="text/javascript"></script>
+</head>
+<body>
+	<div class="main">
+		<nav id="mmenu" class="mobile-menu">
+		    <ul class="">
+		        <li>
+		            <a href="">О компании</a>
+		            <ul>
+		                <li><a href="">Продажа оружия</a></li>
+		                <li><a href="">Общественная деятельность</a></li>
+		                <li><a href="">Arms & Hunting</a></li>
+		                <li><a href="">Контакты</a></li>
+		            </ul>
+		        </li>
+		        <li>
+		            <a href="">Оружейные салоны</a>
+		            <ul>
+		                <li><a href="/weapons_salons/varvarka/">Варварка</a></li>
+		                <li><a href="/weapons_salons/leninsky-prospekt/">Ленинский проспект</a></li>
+		                <li><a href="/weapons_salons/volokolamskoe-shosse/">Волоколамское шоссе</a></li>
+		                <li><a href="/weapons_salons/lyubertsy/">Люберцы</a></li>
+		                <li><a href="/weapons_salons/prospekt-mira/">Проспект Мира</a></li>
+		            </ul>
+		        </li>
+		        <li>
+		            <a href="">Услуги</a>
+		        </li>
+		        <li class="active">
+		            <a href="">Каталог</a>
+		            <ul>
+		                <li><a class="" href="/internet_shop/basket/">Корзина</a></li>
+		                <li class="active"><a class="" href="/internet_shop/oruzhie/">Оружие</a></li>
+		                <li><a class="" href="/internet_shop/patrony/">Патроны</a></li>
+		                <li><a class="" href="/internet_shop/optika/">Оптика</a></li>
+		                <li><a class="" href="/internet_shop/oruzheynye-aksessuary/">Оружейные аксессуары</a></li>
+		                <li><a class="" href="/internet_shop/nozhi/">Ножи</a></li>
+		                <li><a class="active" href="/internet_shop/odezhda/">Одежда</a></li>
+		                <li><a class="" href="/internet_shop/obuv/">Обувь</a></li>
+		                <li><a class="" href="/internet_shop/aksessuary/">Аксессуары</a></li>
+		                <li><a class="" href="/internet_shop/soputstvuyushchie-tovary/">Сопутствующие товары</a></li>
+		                <li><a class="" href="/internet_shop/suveniry/">Сувениры</a></li>
+		                <li><a class="" href="/internet_shop/seyfy/">Сейфы</a></li>
+		                <li><a class="" href="/internet_shop/tovary-dlya-stendovoy-strelby/">Товары для стендовой стрельбы</a></li>
+		                <li><a class="" href="/internet_shop/tovary-dlya-vesenney-okhoty/">Товары для весенней охоты</a></li>
+		                <li><a class="" href="/internet_shop/finalnaya-tsena/">Финальная цена</a></li>
+		            </ul>
+		        </li>
+		        <li><a href="">Онлайн-магазин</a></li>
+		        <li><a href="">Дилеры</a></li>
+		        <li>
+		            <a href="">Ресторан</a>
+		            <ul>
+		                <li><a href="">Меню</a></li>
+		                <li><a href="">Услуги</a></li>
+		                <li><a href="">Контакты</a></li>
+		                <li><a href="">Охотничьи рецепты</a></li>
+		            </ul>
+		        </li>
+		    </ul>
+		</nav>
+		<script>
+		    $(document).ready(function(){
+				$("#mmenu").mmenu({
+					navbar:{
+						title: 'Меню'
+					}
+				});
+		    });
+		</script>
+		
+		
+		
+		
+		<header class="header">
+		    <div class="container">
+		        <div class="header__top">
+		            <div class="header__lang">
+		                <a href="" class="active">русский</a>
+		                <a href="">english</a>
+		            </div>
+		            <div class="header__auth">
+		                <a href="/logout.html">Выйти</a><a href="">Иванов И.В.</a>
+		            </div>
+		        </div>
+		        <div class="header__middle">
+		            <div class="header__middle--left">
+		                <ul>
+		                    <li>
+		                        <a href="/weapons_salons/gift_certificate/" title="Подарочный сертификат">
+		                            <span class="icon-gift"></span>
+		                            <em>Подарочный сертификат</em>
+		                        </a>
+		                    </li>
+		                    <li>
+		                        <a href="/weapons_salons/discount-program/" title="Дисконтная карта">
+		                            <span class="icon-credit-card-alt"></span>
+		                            <em>Дисконтная карта</em>
+		                        </a>
+		                    </li>
+		                    <li>
+		                        <a href="/about_company/contacts.php" title="Контакты">
+		                            <span class="icon-phone"></span>
+		                            <em>Контакты</em>
+		                        </a>
+		                    </li>
+		                </ul>
+		
+		                <div class="mobile-menu-bar">
+		                    <a id="hamburger" href="#mmenu"><span></span></a>
+		                </div>
+		
+		            </div>
+		            <div class="header__logo">
+		                <a href="/" class="logo"></a>
+		            </div>
+		            <div class="header__middle--right">
+		
+		                <div class="header__search">
+		                    <div class="search-toggle">
+		                        <span class="icon-search"></span>
+		                    </div>
+		                	<form class="form__search" action="/internet_shop/" _lpchecked="1">
+		    					<input type="text" class="input_inside" name="q" value="" size="15" placeholder="Поиск по сайту" maxlength="50">
+		        				<button class="btn__search" type="submit" name="s">
+		                            <span class="icon-search"></span>
+		                        </button>
+		                	</form>
+		                </div>
+		                <ul>
+		                    <li>
+		                        <a href="/internet_shop/basket/"><span id="bid" class="icon-shopping-bag js-cart-count"><b>2</b></span></a>
+		                    </li>
+		                    <li><a href=""><span class="icon-user"></span></a></li>
+		                    <li><a href=""><span class="icon-heart-o"><em>2</em></span></a></li>
+		                </ul>
+		
+		            </div>
+		        </div>
+		    </div>
+		</header>
+		<nav class="navbar" role="navigation">
+		    <div class="container">
+		        <ul class="navbar__nav">
+		            <li>
+		                <a href="">О компании</a>
+		                <ul>
+		                    <li><a href="">Продажа оружия</a></li>
+		                    <li><a href="">Общественная деятельность</a></li>
+		                    <li><a href="">Arms & Hunting</a></li>
+		                    <li><a href="">Контакты</a></li>
+		                </ul>
+		            </li>
+		            <li class="active">
+		                <a href="">Оружейные салоны</a>
+		                <ul>
+							<li><a href="/weapons_salons/varvarka/">Варварка</a></li>
+							<li><a href="/weapons_salons/leninsky-prospekt/">Ленинский проспект</a></li>
+		                    <li><a href="/weapons_salons/volokolamskoe-shosse/">Волоколамское шоссе</a></li>
+		                    <li><a href="/weapons_salons/lyubertsy/">Люберцы</a></li>
+		                    <li><a href="/weapons_salons/prospekt-mira/">Проспект Мира</a></li>
+						</ul>
+		            </li>
+		            <li>
+		                <a href="">Услуги</a>
+		            </li>
+		            <li>
+		                <a href="">Каталог</a>
+		                <ul>
+		                	<li><a class="" href="/internet_shop/basket/">Корзина</a></li>
+		                	<li><a class="" href="/internet_shop/oruzhie/">Оружие</a></li>
+		                	<li><a class="" href="/internet_shop/patrony/">Патроны</a></li>
+		                	<li><a class="" href="/internet_shop/optika/">Оптика</a></li>
+		                	<li><a class="" href="/internet_shop/oruzheynye-aksessuary/">Оружейные аксессуары</a></li>
+		                	<li><a class="" href="/internet_shop/nozhi/">Ножи</a></li>
+		                	<li><a class="active" href="/internet_shop/odezhda/">Одежда</a></li>
+		                	<li><a class="" href="/internet_shop/obuv/">Обувь</a></li>
+		                	<li><a class="" href="/internet_shop/aksessuary/">Аксессуары</a></li>
+		                	<li><a class="" href="/internet_shop/soputstvuyushchie-tovary/">Сопутствующие товары</a></li>
+		                	<li><a class="" href="/internet_shop/suveniry/">Сувениры</a></li>
+		                	<li><a class="" href="/internet_shop/seyfy/">Сейфы</a></li>
+		                	<li><a class="" href="/internet_shop/tovary-dlya-stendovoy-strelby/">Товары для стендовой стрельбы</a></li>
+		                	<li><a class="" href="/internet_shop/tovary-dlya-vesenney-okhoty/">Товары для весенней охоты</a></li>
+		                	<li><a class="" href="/internet_shop/finalnaya-tsena/">Финальная цена</a></li>
+		                </ul>
+		            </li>
+		            <li><a href="">Онлайн-магазин</a></li>
+		            <li><a href="">Дилеры</a></li>
+		            <li>
+		                <a href="">Ресторан</a>
+		                <ul>
+		                    <li><a href="">Меню</a></li>
+		                    <li><a href="">Услуги</a></li>
+		                    <li><a href="">Контакты</a></li>
+		                    <li><a href="">Охотничьи рецепты</a></li>
+		                </ul>
+		            </li>
+		        </ul>
+		
+		        <ul class="navbar__nav-sub">
+		            <li><a href="/weapons_salons/varvarka/">Варварка</a></li>
+		            <li><a href="/weapons_salons/leninsky-prospekt/">Ленинский проспект</a></li>
+		            <li><a href="/weapons_salons/volokolamskoe-shosse/">Волоколамское шоссе</a></li>
+		            <li><a href="/weapons_salons/lyubertsy/">Люберцы</a></li>
+		            <li><a href="/weapons_salons/prospekt-mira/">Проспект Мира</a></li>
+		        </ul>
+		    </div>
+		</nav>
+
+		<div class="main__inner">
+			<div class="container">
+
+				<div class="static-page">
+
+					<div class="title-page">
+						<h1>Оружейные салоны</h1>
+					</div>
+
+
+<div class="salon_list">
+	<div class="table_salon_list">
+		<div class="table_salon_list_td" id="">
+			<div class="block_salonBody">
+				<h2><a href="/weapons_salons/varvarka/">Варварка</a></h2>
+				<div>
+					<a href="/weapons_salons/varvarka/">
+						<img border="0" src="upload/salon_1.png" width="399" alt="Варварка" title="Варварка" class="bdr">
+					</a>
+				</div>
+				<div class="block_menu_salon">
+					<ul class="menu_salon">
+						<li>
+							<a href="/weapons_salons/varvarka/the-salon.php">О салоне</a>
+						</li>
+						<li>
+							<a href="/internet_shop/">Каталог товаров</a>
+						</li>
+						<li>
+							<a href="/weapons_salons/varvarka/legal-information.php">Юридическая информация</a>
+						</li>
+						<li>
+							<a href="/3dtours/vtour_02_v05_varvarka/index.html" target="_blank">3D-тур</a>
+						</li>
+						<li>
+							<a href="/weapons_salons/varvarka/contacts.php" target="_blank">Схема проезда</a>
+						</li>
+					</ul>
+				</div>
+				<div class="ov_hidden">
+					<h2 class="fl_left">Адрес</h2>
+					<div class="address_info_right">
+						<p>г. Москва, ул.Варварка д.3 </p>
+						<p class="metro_orange"><i class="bdr">м</i>Китай-город </p>
+						<p>
+							Телефон <a href="tel:+7(495)234-34-43">+7(495)234-34-43</a>, <a href="tel:+7(495)698-11-62">+7(495)698-11-62</a>, <a href="tel:+7(495)698-29-62">+7(495)698-29-62</a>
+							<br> Факс <a href="tel:+7(495)698-12-10">+7(495)698-12-10</a>
+							<br> Часы работы: Пн-сб: 10:00-20:00; Вс: 10:00-17:00
+							<br> e-mail <a href="mailto:info@kolchuga.ru">info@kolchuga.ru</a>
+							<br> Мастерская: Пн-пт: 10:00-20:00; Сб: 10:00-17:00; Вс: выходной
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="table_salon_list_td" id="">
+			<div class="block_salonBody">
+				<h2><a href="/weapons_salons/volokolamskoe-shosse/">Волоколамское шоссе</a></h2>
+				<div>
+					<a href="/weapons_salons/volokolamskoe-shosse/">
+						<img border="0" src="upload/salon_2.png" width="399" alt="Волоколамское шоссе" title="Волоколамское шоссе" class="bdr">
+					</a>
+				</div>
+				<div class="block_menu_salon">
+					<ul class="menu_salon">
+						<li>
+							<a href="/weapons_salons/volokolamskoe-shosse/the-salon.php">О салоне</a>
+						</li>
+						<li>
+							<a href="/internet_shop/">Каталог товаров</a>
+						</li>
+						<li>
+							<a href="/weapons_salons/volokolamskoe-shosse/legal-information.php">Юридическая информация</a>
+						</li>
+						<li>
+							<a href="/3dtours/vtour_03_v02/index.html" target="_blank">3D-тур</a>
+						</li>
+						<li>
+							<a href="/weapons_salons/volokolamskoe-shosse/contact.php" target="_blank">Схема проезда</a>
+						</li>
+					</ul>
+				</div>
+				<div class="ov_hidden">
+					<h2 class="fl_left">Адрес</h2>
+					<div class="address_info_right">
+						<p>
+							г. Москва, Волоколамское шоссе, д. 86 </p>
+						<p class="metro_purple">
+							<i class="bdr">м</i>Тушинская </p>
+						<p>
+							Телефон <a href="tel:+7(495)490-14-20,">+7(495)490-14-20</a>, <a href="tel:+7(495)490-19-20">+7(495)490-19-20</a>
+							<br> Факс <a href="tel:+7(495)190-21-33">+7(495)190-21-33</a>
+							<br> Часы работы: Пн-сб: 10:00-20:00; Вс: 10:00-17:00
+							<br> e-mail <a href="mailto:ohotniktv@mail.ru">ohotniktv@mail.ru</a>
+							<br> Мастерская: Вт, Ср, Пт: 10:00-19:00; </p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<hr class="tr_border">
+		<div class="table_salon_list_td" id="">
+			<div class="block_salonBody">
+				<h2><a href="/weapons_salons/leninsky-prospekt/">Ленинский проспект</a></h2>
+				<div>
+					<a href="/weapons_salons/leninsky-prospekt/">
+						<img border="0" src="upload/salon_3.png" width="399" alt="Ленинский проспект" title="Ленинский проспект" class="bdr">
+					</a>
+				</div>
+				<div class="block_menu_salon">
+					<ul class="menu_salon">
+						<li>
+							<a href="/weapons_salons/leninsky-prospekt/the-salon.php">О салоне</a>
+						</li>
+						<li>
+							<a href="/internet_shop/">Каталог товаров</a>
+						</li>
+						<li>
+							<a href="/weapons_salons/leninsky-prospekt/legal-information.php">Юридическая информация</a>
+						</li>
+						<li>
+							<a href="/3dtours/vtour_01_v10_leninsky/index.html" target="_blank">3D-тур</a>
+						</li>
+						<li>
+							<a href="/weapons_salons/leninsky-prospekt/contact.php" target="_blank">Схема проезда</a>
+						</li>
+					</ul>
+				</div>
+				<div class="ov_hidden">
+					<h2 class="fl_left">Адрес</h2>
+					<div class="address_info_right">
+						<p>г. Москва, Ленинский проспект, д. 44 </p>
+						<p class="metro_orange"><i class="bdr">м</i>Ленинский проспект </p>
+						<p>
+							Телефон <a href="tel:+7(499)137-73-18">+7(499)137-73-18</a>, <a href="tel:+7(499)137-11-94">+7(499)137-11-94</a>, <a href="tel:+7(495)651-25-00">+7(495)651-25-00</a>
+							<br> Факс <a href="tel:+7(499)137-52-18">+7(499)137-52-18</a>
+							<br> Часы работы: Пн-сб: 10:00-20:00; Вс: 10:00-17:00
+							<br> e-mail <a href="mailto:ohotamail@mail.ru">ohotamail@mail.ru</a>
+							<br> Мастерская: Пн-пт: 10:00-19:00; Сб-Вс: выходной </p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="table_salon_list_td" id="">
+			<div class="block_salonBody">
+				<h2><a href="/weapons_salons/lyubertsy/">Люберцы</a></h2>
+				<div>
+					<a href="/weapons_salons/lyubertsy/">
+						<img border="0" src="upload/salon_4.png" width="399" alt="Люберцы" title="Люберцы" class="bdr">
+					</a>
+				</div>
+				<div class="block_menu_salon">
+					<ul class="menu_salon">
+						<li>
+							<a href="/weapons_salons/lyubertsy/the-salon.php">О салоне</a>
+						</li>
+						<li>
+							<a href="/internet_shop/">Каталог товаров</a>
+						</li>
+						<li>
+							<a href="/weapons_salons/lyubertsy/legal-information.php">Юридическая информация</a>
+						</li>
+						<li>
+							<a href="/3dtours/vtour_04_v01/index.html" target="_blank">3D-тур</a>
+						</li>
+						<li>
+							<a href="/weapons_salons/lyubertsy/contact.php" target="_blank">Схема проезда</a>
+						</li>
+					</ul>
+				</div>
+				<div class="ov_hidden">
+					<h2 class="fl_left">Адрес</h2>
+					<div class="address_info_right">
+						<p>г. Люберцы, Котельническая улица, д. 24А </p>
+						<p class="metro_purple"><i class="bdr">м</i>Котельники </p>
+						<p>
+							Телефон <a href="tel:+7(495)554-22-40">+7(495)554-22-40</a>
+							<br> Факс <a href="tel:+7(495)554-22-40">+7(495)554-15-87</a>
+							<br> Часы работы: Пн-сб: 10:00-20:00; Вс: 10:00-17:00
+							<br> e-mail <a href="mailto:rosimpex@kolchuga.ru">rosimpex@kolchuga.ru</a>
+							<br> Мастерская: Пн-Сб: 10:00-20:00; Вс: 10:00-17:00 </p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<hr class="tr_border">
+		<div class="table_salon_list_td" id="">
+			<div class="block_salonBody">
+				<h2><a href="/weapons_salons/prospekt-mira/">Проспект Мира</a></h2>
+				<div>
+					<a href="/weapons_salons/prospekt-mira/">
+						<img border="0" src="upload/salon_5.png" width="399" alt="Проспект Мира" title="Проспект Мира" class="bdr">
+					</a>
+				</div>
+				<div class="block_menu_salon">
+					<ul class="menu_salon">
+						<li>
+							<a href="/weapons_salons/prospekt-mira/the-salon.php">О салоне</a>
+						</li>
+						<li>
+							<a href="/internet_shop/">Каталог товаров</a>
+						</li>
+						<li>
+							<a href="/weapons_salons/prospekt-mira/legal-information.php">Юридическая информация</a>
+						</li>
+						<li>
+							<a href="/weapons_salons/prospekt-mira/contact.php" target="_blank">Схема проезда</a>
+						</li>
+					</ul>
+				</div>
+				<div class="ov_hidden">
+					<h2 class="fl_left">Адрес</h2>
+					<div class="address_info_right">
+						<p>г. Москва, проспект Мира, д. 103 </p>
+						<p class="metro_orange"><i class="bdr">м</i>Алексеевская </p>
+						<p>
+							Телефон <a href="tel:7(495)682-42-09">7(495)682-42-09</a>, <a href="tel:7(495)682-43-09">7(495)682-43-09</a>, <a href="tel:7(495)682-62-09">7(495)682-62-09</a>
+							<br> Факс <a hrf="tel:7(495)616-60-87">7(495)616-60-87</a>
+							<br> Часы работы: Пн-сб: 10:00-20:00; Вс: 10:00-17:00
+							<br> e-mail <a href="mailto:infosmart@kolchuga.ru">infosmart@kolchuga.ru</a>
+							<br> Мастерская: Пн, Чт: 10:00-19:00 </p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				</div><!-- @end .static-page -->
+				<div class="clearfix"></div>
+
+			</div>
+		</div><!-- @end .main -->
+		<footer class="footer">
+		    <div class="container">
+		
+		        <div class="footer__top">
+		            <div class="footer__top--left">
+		                <div class="footer__top--header">Покупателям</div>
+		                <div class="footer__top--body js-mh">
+		                    <ul>
+		                        <li><a href="">Доставка</a></li>
+		                        <li><a href="">Оплата</a></li>
+		                        <li><a href="">Условия возврата</a></li>
+		                        <li><a href="">Скидочные карты</a></li>
+		                        <li><a href="">Подарочные сертификаты</a></li>
+		                    </ul>
+		                </div>
+		            </div>
+		            <div class="footer__top--right">
+		                <div class="footer__top--header">Контакты</div>
+		                <div class="footer__top--body js-mh">
+		                    <ul>
+		                        <li>Адрес: г. Москва, ул. Варварка, д.3</li>
+		                        <li>E-mail: <a href="mailto:info@kolchuga.ru">info@kolchuga.ru</a></li>
+		                        <li>Телефон: <a href="tel:+7(495)234-34-43">+7(495)234-34-43</a></li>
+		                    </ul>
+		                    <ul class="footer__top--icons">
+		                        <li><a href=""><img src="images/vk.png" alt=""></a></li>
+		                        <li><a href=""><img src="images/facebook.png" alt=""></a></li>
+		                        <li><a href=""><img src="images/instagram.png" alt=""></a></li>
+		                    </ul>
+		                </div>
+		            </div>
+		        </div>
+		
+		        <div class="footer__middle">
+		            <div class="footer__middle--body">
+		                <ul>
+		                    <li><a href="">Сервисное обслуживание</a></li>
+		                    <li><a href="">Гарантии</a></li>
+		                    <li><a href="">Законодательная база</a></li>
+		                    <li><a href="">Политика конфиденциальности</a></li>
+		                    <li><a href="">Вакансии</a></li>
+		                </ul>
+		            </div>
+		        </div>
+		
+		        <div class="footer__bottom">
+		            <div class="footer__bottom--left">
+		                <ul class="footer__bottom-payments">
+		                    <li><img class="visa" src="images/icon-visa.svg" alt="" width="56" height="18"></li>
+		                    <li><img class="mastercard" src="images/icon-mastercard.svg" alt="" width="44" height="26"></li>
+		                    <li><img class="maestro" src="images/icon-maestro.svg" alt="" width="44" height="26"></li>
+		                </ul>
+		           </div>
+		            <div class="footer__bottom--center">
+		                <div class="footer__bottom-copyrights">
+		                    &copy; 2005-2016 ЗАО «Фирма «Кольчуга»<br>Все права защищены
+		                </div>
+		            </div>
+		            <div class="footer__bottom--right">
+		
+		                <div class="footer__bottom-developer">
+		                    <a href="http://datainlife.ru"><span>Data</span><em>inlife</em></a>
+		                </div>
+		                <div class="footer__bottom-counter">
+		                    <a href="http://top100.rambler.ru/top100/">
+		                    	<img src="http://counter.rambler.ru/top100.cnt?685785" alt="" width=1 height=1 border=0>
+		                    </a>
+		                    <!--end of Top100 code-->
+		                    <!--begin of Top100 logo-->
+		                    <a href="http://top100.rambler.ru/top100/">
+		                    <img src="http://top100-images.rambler.ru/top100/banner-88x31-rambler-gray2.gif" alt="Rambler's Top100" width=88 height=31 border=0></a>
+		                    <!--end of Top100 logo -->
+		                    <!--LiveInternet counter--><script language="JavaScript"><!--
+		                    document.write('<a href="http://www.liveinternet.ru/click" '+
+		                    'target=_blank><img src="http://counter.yadro.ru/hit?t13.11;r'+
+		                    escape(document.referrer)+((typeof(screen)=='undefined')?'':
+		                    ';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+		                    screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+		                    ';'+Math.random()+
+		                    '" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодн\я" '+
+		                    'border=0 width=88 height=31></a>')//--></script><!--/LiveInternet-->
+		                </div>
+		
+		            </div>
+		        </div>
+		    </div>
+		</footer>
+	</div><!-- main-wrapper -->
+</body>
+</html>

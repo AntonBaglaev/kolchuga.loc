@@ -1,0 +1,41 @@
+<?php
+  $MESS['STARRYS.CASHBOX_NAME'] = 'Чек-онлайн';
+  $MESS['STARRYS.CASHBOX_OPTIONS_SERVER_LABEL'] = 'Сервер';
+  $MESS['STARRYS.CASHBOX_OPTIONS_ENDPOINT'] = 'Адрес устройства/сервера FCE<br>Адрес тестовго сервера https://fce.chekonline.ru:4443';
+  $MESS['STARRYS.CASHBOX_OPTIONS_GROUP'] = 'Группа устройств';
+  $MESS['STARRYS.CASHBOX_OPTIONS_CLIENT_ID'] = 'Идентификатор точки продажи';
+  $MESS['STARRYS.CASHBOX_OPTIONS_AUTH_LABEL'] = 'Пароли';
+  $MESS['STARRYS.CASHBOX_OPTIONS_CASHIER_PASSWORD'] = 'Пароль кассира';
+  $MESS['STARRYS.CASHBOX_OPTIONS_ADMIN_PASSWORD'] = 'Пароль админа';
+  $MESS['STARRYS.CASHBOX_OPTIONS_OPTIONS_LABEL'] = 'Опции';
+  $MESS['STARRYS.CASHBOX_OPTIONS_DOCS_IN_TURN'] = 'Количество документов в смене до автоматического закрытия';
+  $MESS['STARRYS.CASHBOX_OPTIONS_SEC_SINCE_TURN_OPEN'] = 'Длительность смены до автоматического закрытия(секунды)';
+  $MESS['STARRYS.CASHBOX_OPTIONS_CERT_LABEL'] = 'Сертификат';
+  $MESS['STARRYS.CASHBOX_OPTIONS_CERT_PATH'] = 'Путь до файла сертификата, от корня сайта';
+  $MESS['STARRYS.CASHBOX_OPTIONS_KEY_PATH'] = 'Путь до файла закрытого ключа, от корня сайта';
+  $MESS['STARRYS.CASHBOX_OPTIONS_CERT_PASSWORD'] = 'Пароль к сертификату';
+  $MESS['STARRYS.CASHBOX_OPTIONS_USN_6'] = 'УСН(доходы)';
+  $MESS['STARRYS.CASHBOX_OPTIONS_USN_15'] = 'УСН(доходы-расходы)';
+  $MESS['STARRYS.CASHBOX_ORDER_NUMBER'] = 'Номер заказа';
+  $MESS['STARRYS.CASHBOX_SUCCESS_STATUS'] = 'Соединение с кассой установлено';
+  $MESS['STARRYS.CASHBOX_ERROR_STATUS'] = "Код ответа: #CODE#\nОтвет: #ERROR#";
+  $MESS['STARRYS.CASHBOX_OPTIONS_CONTACT_FIELD'] = 'Отправка чека на';
+  $MESS['STARRYS.CASHBOX_OPTIONS_CONTACT_FIELD_EMAIL'] = 'Email';
+  $MESS['STARRYS.CASHBOX_OPTIONS_CONTACT_FIELD_PHONE'] = 'Телефон';
+  $MESS['STARRYS.CASHBOX_OPTIONS_FULLRESPONSE'] = 'Печатать чек на бумаге';
+  $MESS['STARRYS.CASHBOX_OPTIONS_FULLRESPONSE_NO'] = 'Нет';
+  $MESS['STARRYS.CASHBOX_OPTIONS_FULLRESPONSE_YES'] = 'Да';
+  $MESS['STARRYS.CASHBOX_OPTIONS_FFD105'] = 'Поддержка ФФД 1.05';
+  $MESS['STARRYS.CASHBOX_OPTIONS_FFD105_NO'] = 'Нет';
+  $MESS['STARRYS.CASHBOX_OPTIONS_FFD105_YES'] = 'Да';
+  $MESS['STARRYS.CASHBOX_OPTIONS_NDS'] = 'Настройки НДС';
+  $MESS['STARRYS.CASHBOX_OPTIONS_NDS_BITRIX'] = 'Берётся из настроек товара Битрикс';
+  $MESS['STARRYS.CASHBOX_OPTIONS_NDS_VAT_1'] = 'НДС 20%';
+  $MESS['STARRYS.CASHBOX_OPTIONS_NDS_VAT_2'] = 'НДС 10%';
+  $MESS['STARRYS.CASHBOX_OPTIONS_NDS_VAT_3'] = 'НДС 0%';
+  $MESS['STARRYS.CASHBOX_OPTIONS_NDS_VAT_4'] = 'Без НДС';
+  $MESS['STARRYS.CASHBOX_OPTIONS_NDS_VAT_5'] = 'НДС 20/120';
+  $MESS['STARRYS.CASHBOX_OPTIONS_NDS_VAT_6'] = 'НДС 10/110';
+  $MESS['STARRYS.CASHBOX_PRINT_ERROR'] = 'Чек-Онлайн: Ошибка печати чека';
+
+?>

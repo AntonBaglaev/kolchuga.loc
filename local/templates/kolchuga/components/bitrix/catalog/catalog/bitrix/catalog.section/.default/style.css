@@ -1,0 +1,30 @@
+.catalog-section_table{
+	border-collapse:collapse;
+	width:100%;
+	table-layout:fixed;
+}
+.catalog-section_table .element_catalog{
+	vertical-align:top;
+	padding:0 0 30px;
+}
+.catalog-section_table .element_catalog .content_section{
+	width:90%;
+}
+.catalog-section_table .element_catalog .content_section .info_section{
+	padding:0 10px;
+}
+.catalog-price {
+	font: normal 24px/28px;
+	color:#b2b2b2;
+}
+.catalog-no_price{
+	font: normal 14px/28px;
+	color:#666;
+}
+.catalog-section h3{
+	padding-bottom:5px;
+}
+.img_section{
+	width:200px;
+	height:150px;
+}

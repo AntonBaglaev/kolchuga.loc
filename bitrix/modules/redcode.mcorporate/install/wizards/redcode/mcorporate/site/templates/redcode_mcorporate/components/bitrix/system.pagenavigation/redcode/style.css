@@ -1,0 +1,41 @@
+
+.pagination {}
+	.paginationContainer {text-transform:uppercase;}
+		.paginationContainer ul {}
+			.paginationContainer ul li{display: inline-block; text-align: center; font-weight: 500; margin: 0 10px 15px 0;}
+				.paginationContainer ul li span{padding: 0 8px; display: block; height: 38px; min-width: 38px; box-sizing: border-box;
+					line-height: 39px; color: #757575; border-radius: 2px; transition: color .25s ease, opacity .3s ease;
+				}	
+
+.paginationContainer ul li.bx-active span{background: #555; color: #fff; box-shadow: 0 1px 1px rgba(0,0,0, .12);}	
+.paginationContainer ul li:not(.bx-pag-prev):not(.bx-pag-next) a:hover span{color: #EF6C00;}
+.paginationContainer ul li a span{color: #757575;}
+
+.paginationContainer ul li.bx-pag-prev, .paginationContainer ul li.bx-pag-next{position: relative; font-size: 13px; color: #757575;}
+.paginationContainer ul li.bx-pag-prev{margin: 0 10px 15px 0;}
+.paginationContainer ul li.bx-pag-next{margin: 0 0 15px 0;}
+	.paginationContainer ul li.bx-pag-prev span{padding: 0px 22px 0px 42px; background: #E0E0E0;}
+	.paginationContainer ul li.bx-pag-next span{padding: 0px 42px 0px 22px; background: #E0E0E0;}
+	.paginationContainer ul li.bx-pag-prev i{position: absolute; color: #757575; left: 4px; font-size: 29px; top: 50%; margin: -14.5px 0 0 0;}
+	.paginationContainer ul li.bx-pag-next i{position: absolute; color: #757575; right: 4px; font-size: 29px; top: 50%; margin: -14.5px 0 0 0;}
+	
+
+.paginationContainer ul li.bx-pag-prev a span, .paginationContainer ul li.bx-pag-next a span,
+.paginationContainer ul li.bx-pag-prev a i, .paginationContainer ul li.bx-pag-next a i
+{
+	opacity: 1;
+}
+.paginationContainer ul li.bx-pag-prev span, .paginationContainer ul li.bx-pag-next span,
+.paginationContainer ul li.bx-pag-prev i, .paginationContainer ul li.bx-pag-next i
+{
+	opacity: .5;
+}
+.paginationContainer ul li.bx-pag-prev a:hover span, .paginationContainer ul li.bx-pag-next a:hover span {}
+
+
+@media all and (max-width: 420px) {
+	.paginationContainer ul li{display: block; margin: 0 0 20px 0 !important;}
+		.paginationContainer ul li span{padding: 0;}
+		.paginationContainer ul li.bx-pag-next span, .paginationContainer ul li.bx-pag-prev span{padding: 0;}
+		.paginationContainer ul li.bx-pag-next i, .paginationContainer ul li.bx-pag-prev i{display: none;}
+}

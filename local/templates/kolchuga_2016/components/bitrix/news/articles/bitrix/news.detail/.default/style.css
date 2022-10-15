@@ -1,0 +1,28 @@
+div.news-detail img.detail_picture
+{
+	float:left;
+	margin:0 8px 6px 1px;
+}
+
+.teml_discount .procent_skidki_boll {
+	right:1.5em;
+}
+.teml_discount .item {
+    color: #1d355b;
+    display: inline-block;
+    background: #f5f5f5;
+    padding: 1em;
+    margin: 0 0 1.5em;
+    width: 100%;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-shadow: 2px 2px 4px 0 #efefef;
+}
+.teml_discount .imgitem{
+	display: block;
+    height: 250px;
+    width: 100%;
+    
+}
+.teml_discount .textitem{height:50px; overflow:hidden;margin-bottom:1em;}

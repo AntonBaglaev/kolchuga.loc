@@ -1,0 +1,25 @@
+.block_menu_sal{
+	padding:15px 0 0px;
+	overflow:hidden;
+	text-align:center;
+}
+.block_menu_sal ul{
+	margin:0;
+	padding:0;
+	list-style:none;
+	position:relative;
+	overflow:hidden;
+}
+.block_menu_sal ul li{
+	display:inline-block;	
+	padding:0px 7px 5px 16px;
+	background:url(/images/circle_blue5.png) 0 8px no-repeat;
+}
+.block_menu_sal ul  li.first_li {
+	background:none;
+}
+.block_menu_sal ul  li a.activ {
+	text-decoration:none;
+	color:#b2b2b2;
+	font-weight:bold;
+}

@@ -1,0 +1,55 @@
+
+.vacancies{margin: 0 0 75px 0;}
+	.vacancies > p{margin: 0 0 40px 0; line-height: 1.5; box-shadow: 0 1px 1px rgba(0,0,0, .12); border-radius: 1px; padding: 30px 40px 30px 95px;
+		background: #555; color: #fff; position: relative;
+	}
+		.vacancies > p i{position: absolute; top: 50%; left: 32px; font-size: 35px; margin: -17.5px 0 0 0;}
+	
+	.vacanciesSection{margin: 0 0 40px 0;}
+	.vacanciesSection:last-child{margin: 0;}
+		.vacanciesSection > h2{margin: 0 0 20px 0; font-size: 25px;}
+			
+		
+		.vacanciesElement{margin: 0 0 20px 0; padding: 20px; background: #fff; box-shadow: 0 1px 1px rgba(0,0,0, .12); transition: box-shadow .25s ease;}
+		.vacanciesElement:hover {box-shadow: rgba(0,0,0, .12) 0 35px 90px;}
+		.vacanciesElement:last-child{margin: 0;}
+
+			.VE_accordion{padding: 20px; font-weight: 700; }
+				.VE_accordion .name{font-size: 18px; margin: 0 0 15px 0; border-bottom: 1px dashed #c4c4c5; display: inline-block;
+					transition: border .2s ease; cursor: pointer; position: relative;
+				}
+				.VE_accordion .name:hover {border-bottom: 1px dashed #7d7d7d;}
+					.VE_accordion .name i{background: #EF6C00; padding: 3px; top: 2px; font-size: 18px; transition: transform .4s linear;
+						border-radius: 50%; position: absolute; right: -43px;
+					}
+					.VE_accordion.open .name i{transform: rotate(180deg);}
+				.VE_accordion .price{color: #EF6C00; font-size: 17px;}
+				
+			.vacanciesElement .text{padding: 25px 20px 20px 20px; display: none;}	
+				.vacanciesElement .text p{margin: 0 0 20px 0; font-weight: 700; font-size: 18px;}
+				.vacanciesElement .text ul{margin: 0 0 35px 0; max-width: 600px;}
+					.vacanciesElement .text li{margin: 0 0 10px 0; line-height: 1.6;}
+				.vacanciesButton{color: #EF6C00; text-transform: uppercase; border-radius: 2px; padding: 14px 21px; font-weight: 500;
+					cursor: pointer; margin: 20px 0 0 0; border: 1px solid #EF6C00; font-size: 13px; background: #fff;
+					font-family: "Rubik", sans-serif; outline: none; transition: color .25s ease, background .25s ease;
+				}
+					.vacanciesButton:hover{color: #fff; background: #EF6C00;}
+
+
+@media all and (max-width: 900px) {
+	.vacanciesElement{padding: 15px;}
+	.VE_accordion{position: relative; padding: 20px 60px 20px 20px; cursor: pointer;}
+		.VE_accordion .name{position: static; border: none !important; text-decoration: underline;}
+			.VE_accordion .name i{top: 50%; right: 5px; margin: -21.5px 0 0 0; padding: 9px; font-size: 25px;}
+}
+
+@media all and (max-width: 450px) {
+	.vacancies > p{padding: 60px 26px 26px 26px;}
+	.vacancies > p i{top: 14px; left: 24px; margin: 0;}
+	.VE_accordion{padding: 10px 60px 10px 10px;}
+	.vacanciesElement .text{padding: 10px;}
+}
+
+@media all and (max-width: 420px) {
+	.VE_accordion .name i{margin: -17px 0 0 0; padding: 6px; font-size: 22px;}
+}

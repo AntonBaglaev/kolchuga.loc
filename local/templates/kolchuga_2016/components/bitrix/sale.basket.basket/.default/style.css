@@ -1,0 +1,11 @@
+.warningBlock {
+    display: none;
+}
+.frw25{
+    float: right;
+    width: 25%;
+}
+.flw75{
+    float: left;
+    width: 75%;
+}

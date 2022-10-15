@@ -1,0 +1,1 @@
+&copy; 2005-<?=date('Y')?> JSC «Kolchuga» Firm<br>All rights reserved

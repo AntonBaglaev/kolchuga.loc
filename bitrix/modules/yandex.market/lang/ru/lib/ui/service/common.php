@@ -1,0 +1,4 @@
+<?php
+
+$MESS['YANDEX_MARKET_UI_SERVICE_COMMON_TITLE'] = 'Маркет и Беру';
+$MESS['YANDEX_MARKET_UI_SERVICE_COMMON_TITLE_GENITIVE'] = 'Маркета и Беру';

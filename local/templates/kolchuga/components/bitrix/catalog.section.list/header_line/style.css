@@ -1,0 +1,35 @@
+.block_top_menu_child{
+	background:#1d355b;
+}
+.top_menu_child{
+	margin:0 40px 0 45px;
+	padding:12px 0;
+	position:relative;
+	overflow:hidden;
+	font:14px/20px;
+	text-align: center;
+}
+.top_menu_child li{
+	display:inline-block;
+	padding:0 15px 4px 13px;
+	margin-left:-10px;
+	background:url(/images/circle_white.png) 0 9px no-repeat;
+}
+.top_menu_child li.first_li{
+	background:none;
+}
+
+/* .top_menu_child li.first_li{
+	padding:0 15px 4px 0px;
+} */
+.top_menu_child li a{
+	color:#fff;
+	text-decoration: none;
+}
+.top_menu_child li a:hover{
+	color:#9198A9;
+}
+.top_menu_child li a.activ{
+	text-decoration:none;
+	color: #b2b2b2;
+}

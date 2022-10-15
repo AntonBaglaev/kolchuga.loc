@@ -1,0 +1,7 @@
+<?php
+$MESS["REDCODE_CORPORATE_INSTALL_NAME"] = "REDCODE: корпоративный сайт";
+$MESS["REDCODE_CORPORATE_INSTALL_DESCRIPTION"] = "Мастер установки сайта";
+$MESS["REDCODE_CORPORATE_INSTALL_TITLE"] = "Установка модуля";
+$MESS["REDCODE_CORPORATE_UNINSTALL_TITLE"] = "Удаление модуля";
+$MESS["REDCODE_CORPORATE_SPER_PARTNER"] = 'Веб-студия "REDCODE"';
+$MESS["REDCODE_CORPORATE_PARTNER_URI"] = "http://redcode.studio/";

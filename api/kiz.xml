@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order>
+	<number>15797</number> - номер заказа
+	<items>
+		<item>
+			<name>Сапоги Monte Sport 1550 ж 37</name> - наименование товара
+			<guid>53b44550-fca3-11e1-be18-00025553e9f9</guid> - GUID товара
+			<store>dslkfjasklfjsdlaf-sdafskadjlf-adslfkjdskl-dsaflf1</store> - склад
+			<kizs>
+				<kiz>30121212121212121212123</kiz> - маркировочные коды
+				<kiz>200121212121212121212125</kiz>					
+			</kizs>
+		</item>
+		<item>
+			<name>ботинки 2</name>
+			<guid>dslkfjasklfjsdlaf-sdafskadjlf-adslfkjdskl-dsaflf2</guid>
+			<kizs>
+				<kiz>00121212121212121212124</kiz>
+				<kiz>200121212121212121212125</kiz>					
+			</kizs>
+		</item>
+	</items>
+</order>

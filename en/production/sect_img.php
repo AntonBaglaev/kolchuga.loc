@@ -1,0 +1,1 @@
+<img src="/upload/medialibrary/a8a/a8adbc60285126cacbd32749c07731d1.png" title="head_3_1280.png" border="0" alt="head_3_1280.png" width="855" height="298"  />

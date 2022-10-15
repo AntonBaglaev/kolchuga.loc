@@ -1,0 +1,6 @@
+
+.footerSocial .social{text-align: right;}
+	.footerSocial .social a{margin: 0 15px 0 0; display: inline-block; opacity: .68; transition: opacity .25s;}
+	.footerSocial .social a:hover{opacity: 1;}
+	.footerSocial .social a:last-child{margin: 0;}
+		.footerSocial .social a img{display: block; width: 22px; filter: invert(100%); -webkit-filter: invert(100%);}

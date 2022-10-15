@@ -1,0 +1,15 @@
+div.subscribe-edit .red {
+	color:red;
+}
+div.subscribe-edit .green {
+	color:green;
+}
+div.subscribe-edit .errorcolor {
+	color:red;
+}
+div.subscribe-edit .successcolor {
+	color:green;
+}
+
+table.data-table td{padding: 0 5px;}
+table.data-table tfoot input{margin-bottom: 1em;}

@@ -1,0 +1,7 @@
+
+.breadwrap{overflow: hidden; max-width: 1200px; margin: 0 auto;}
+	.bx-breadcrumb-item{float: left; color: #fff; font-size: 13px; margin: 0 7px 7px 0; font-weight: 500;}
+	.bx-breadcrumb-item:last-child{margin: 0;}
+		.bx-breadcrumb-item i{margin:0 7px 0 0; opacity: .6;}
+		.bx-breadcrumb-item a, .bx-breadcrumb-item > span{color: #fff; opacity: .6;}
+			.bx-breadcrumb-item a:hover{opacity: 1;}

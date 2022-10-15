@@ -1,0 +1,1 @@
+<img src="/en/include/banner.png"  />

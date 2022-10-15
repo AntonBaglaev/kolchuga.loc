@@ -1,0 +1,72 @@
+
+#switchOptions{position: fixed; z-index: 39; top: 0; bottom: 0; right: 0; color: #333; transform: translate3d(100%, 0, 0); transition: transform .35s;}
+	#switchOptions.animated #switchButton i{animation: rotate 1.9s linear infinite;}
+	
+	#switchButton{position: absolute; top: 20%; left: -65px; height: 65px; width: 65px; background: #424242; cursor: pointer;}
+		#switchButton i{font-size: 36px; margin: -18px 0 0 -18px; position: absolute; width: 36px; height: 36px; right: 0; top: 50%; left: 50%; bottom: 0;}
+	
+	.switchOptionsWrapper{width: 540px; height: 100%; color: #fff; box-sizing: border-box; padding: 80px 54px 50px 54px; background: #424242;
+		overflow-y: auto;
+	}
+	.switchOptionsWrapper::-webkit-scrollbar{width: 7px;}
+	.switchOptionsWrapper::-webkit-scrollbar-thumb{border-radius: 8px; width: 7px; background: #777;}
+
+		#switchOptions .elementOption{margin: 0 0 70px 0; overflow: hidden;}
+			#switchOptions .title{font-size: 16px; font-weight: 500; margin: 0 0 25px 0; color: #d9d9d9; text-transform: uppercase;}
+		
+				#buttonsColor div{width: 48px; height: 48px; border-radius: 50%; margin: 0 5px 13px 5px; cursor: pointer;
+					display: inline-block; vertical-align: top; box-sizing: border-box; border: 1px solid #707070;
+				}
+					#buttonsColor div span{width: 32px; height: 32px; border-radius: 50%; display: inline-block; margin: 7px;}
+					#buttonsColor div.active{border: 3px solid;}
+						#buttonsColor div.active span{margin: 5px;}
+				#buttonsColor #custom{line-height: 46px; font-size: 32px; text-align: center;}
+					#buttonsColor #custom.active{line-height: 42px; font-size: 27px;}
+		
+		#switchOptions input[type='checkbox']{display: none;}
+		#switchOptions .checkbox{float: left;}
+		#switchOptions .checkbox + .title{font-size: 15px; padding: 0 0 0 75px; margin: 0; text-transform: none;}
+		
+		/* on/off checkbox */
+		.checkboxSwitch{position: relative;}
+			.checkboxSwitchBar{width: 55px; height: 34px; border-radius: 30px; transition: background .35s; box-sizing: border-box;
+				border: 1px solid #686868;
+			}
+				.checkboxSwitchBar.checked{background: #1ab700; border: none;}
+			
+			.checkboxSwitchButton{width: 28px; height: 28px; border-radius: 50%; background: #e6f7e3; top: 3px; left: 3px; cursor: pointer;
+				box-sizing: border-box; position: absolute; transition: transform .35s; box-shadow: 0px 2px 8px 0px rgba(0,0,0, .47);
+			}
+				.checkboxSwitchButton.checked{transform: translate3d(21px, 0, 0);}
+				
+		
+		.blockSubmit{position: relative;}
+			#switchOptions input[type="submit"]{background: #4b4b4b; color: #d3d3d3; font-weight: 500; cursor: pointer; font-size: 17px;
+				padding: 30px 0; outline: none; border: 1px solid #6c6c6c; text-transform: uppercase;
+				font-family: "Rubik", sans-serif; -webkit-appearance: none; width: 100%;
+			}
+		
+#switchOptions.animated{transform: translate3d(0, 0, 0);}
+
+@keyframes rotate{
+	0% {
+		transform: rotate(360deg);
+	}
+}
+
+@media all and (max-width: 640px) {
+	#switchButton{left: -60px; height: 60px; width: 60px;}
+	.switchOptionsWrapper{padding: 22px 45px; width: 355px;}
+	#switchOptions .elementOption{margin: 0 0 50px 0;}
+	.switchOptionsWrapper input[type="submit"]{margin: 0 0 30px 0;}
+}
+
+@media all and (max-width: 470px) {
+	.switchOptionsWrapper{width: 300px; padding: 20px 18px;}
+		#switchOptions .elementOption{margin: 0 0 40px 0;}
+		.switchOptionsWrapper input[type="submit"]{margin: 0 0 20px 0;}
+}
+
+@media all and (max-width: 370px) {
+	.switchOptionsWrapper{width: 240px; padding: 20px 15px;}
+}

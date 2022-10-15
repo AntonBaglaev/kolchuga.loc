@@ -1,0 +1,75 @@
+
+.reviews{margin: 0 0 58px 0;}
+	.reviews > p{margin: 0 0 40px 0; line-height: 1.5; box-shadow: 0 1px 1px rgba(0,0,0, .12); border-radius: 1px; padding: 30px 40px 30px 95px;
+		background: #555; color: #fff; position: relative;
+	}
+		.reviews > p i{position: absolute; top: 50%; left: 32px; font-size: 35px; margin: -17.5px 0 0 0;}
+	
+	.reviewsElements{margin: 0 0 40px 0;}
+		.reviewsElement{margin: 0 0 30px 0; background: #fff; box-shadow: 0 1px 1px rgba(0,0,0,.12); padding: 20px 20px 20px 0;
+			border-radius: 1px;
+		}
+		.reviewsElement:last-child{margin: 0;}
+		
+			.reviewsImg{display: inline-block; vertical-align: middle; width: 23%; text-align: center;}
+				.reviewsImg div{width: 95px; height: 95px; border-radius: 100%; display: inline-block;}
+
+			.reviewsText{display: inline-block; vertical-align: middle; padding: 30px 20px 35px 0; width: 77%; box-sizing: border-box;
+				quotes: "\201c" "\201d";
+			}			
+				.reviewsText .title{font-size: 19px; font-weight: 700; margin: 0 0 10px 0;}
+					.reviewsText .title div, .reviewsText .title p{display: inline-block; vertical-align: middle;}
+					.reviewsText .title div:first-child{margin: 0 25px 10px 0;}
+					.reviewsText .title p{font-size: 11px; color: #fff; font-weight: 500; border-radius: 2px; padding: 6px 11px; background: #EF6C00;
+						margin: 0 22px 10px 0;
+					}
+					.reviewsText .reviewsDate{font-weight: 500; font-size: 13px; opacity: .4; position: relative; padding: 0 0 0 23px;
+						margin: 0 0 10px 0;
+					}
+					.reviewsText .reviewsDate i{position: absolute; color: #212121; font-size: 15px; left: 0;}
+					
+				.reviewsText q{font-size: 60px; font-family: "Arial", sans-serif; display: inline-block; vertical-align: top; color: #EF6C00;
+					margin: -6px 0 0 0; width: 6%;
+				}
+					.reviewsText q:after{content: "";}
+				
+				.reviewsText > p{line-height: 1.6; display: inline-block; vertical-align: top; width: 93%;}
+
+
+@media all and (max-width: 1000px) {
+	.reviewsElement{padding: 15px 15px 15px 0;}
+}
+
+@media all and (max-width: 970px) {
+	.reviewsText{padding: 10px 10px 10px 0;}
+}
+
+@media all and (max-width: 900px) {
+	.reviewsElement{padding: 20px 20px 20px 0;}
+	.reviewsText{padding: 20px 20px 20px 0;}
+}
+
+@media all and (max-width: 720px) {
+	.reviewsElement{padding: 15px 15px 15px 0;}
+	.reviewsText{padding: 10px 10px 10px 0;}
+}
+
+@media all and (max-width: 650px) {
+	.reviewsElement{padding: 26px;}
+	.reviewsImg{display: block; width: 100%; text-align: left;}
+		.reviewsImg div{width: 120px; height: 120px;}
+	.reviewsText{display: block; width: 100%;}
+}
+
+@media all and (max-width: 500px) {
+	.reviewsImg{margin: 0 0 20px 0;}
+		.reviewsImg div{width: 100px; height: 100px;}
+	.reviewsText{padding: 0;}
+		.reviewsText q{display: block; margin: 0; width: 100%;}
+		.reviewsText > p{display: block; margin: -30px 0 0 0; width: 100%;}
+}
+
+@media all and (max-width: 400px) {
+	.reviews > p{padding: 60px 26px 26px 26px;}
+	.reviews > p i{top: 14px; left: 24px; margin: 0;}
+}

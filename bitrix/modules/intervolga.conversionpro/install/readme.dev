@@ -1,0 +1,2 @@
+uglifyjs watcher.js -o watcher.min.js --source-map watcher.min.js.map --compress --mangle --support-ie8
+uglifyjs watcher.ecommerce.js -o watcher.ecommerce.min.js --source-map watcher.ecommerce.min.js.map --compress --mangle --support-ie8

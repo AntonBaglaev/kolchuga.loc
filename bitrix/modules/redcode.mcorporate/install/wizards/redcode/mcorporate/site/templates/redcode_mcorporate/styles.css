@@ -1,0 +1,42 @@
+/*
+
+THIS FILE IS OVERWRITTEN WHEN THE SOLUTION IS UPDATED
+--------
+FAIL ZATIRAETSY PRI OBNOVLENII RESHENIY
+
+*/
+
+/*--------------------------------------
+--- STYLES FOR THE VISUAL EDITOR ---
+------------------------------------*/
+
+.titleH2, .titleH3, .titleH4{color: #131720; font-weight: 700; line-height: 1.35; padding: 0 40px 20px 40px;}
+.titleH2{font-size: 23px;}
+.titleH3{font-size: 21px;}
+.titleH4{font-size: 18px;}
+
+.newsDetail a{text-decoration: underline;}
+.newsDetail .standartUl{line-height: 1.65; font-size: 15px; list-style-type: disc; margin: -11px 0 27px 0;}
+.newsDetail .standartUl span {font-weight: 500;}
+.newsDetail img.fullImage, img.fullImage{width: 100%; padding: 0 0 25px 0;}
+.newsDetail > div:not(.backAndShare), .newsDetail > p, .standartText{line-height: 1.6; color: #131720; padding: 0 40px 30px 40px;}
+.company .standartText ul{margin: 10px 0 0 20px;}
+
+
+.newsDetail q{padding: 32px 37px 32px 93px; font-style: italic; background: #f6f6f6; position: relative; display: block;
+	font-size: 15px; line-height: 1.6; margin:0 40px 30px 40px;
+}
+.newsDetail q:before{position: absolute; top: -10px; color: #EF6C00; left: 32px; content: "\201C"; font-size: 92px; font-style: normal;
+	font-family: "Arial", sans-serif; text-align: center;
+}
+.newsDetail q:after{display: none;}
+	.newsDetail q span{font-weight: 500;}
+	.newsDetail q a{display: inline-block; margin: 20px 0 0 0; color: #131720; font-size: 13px; font-style: normal; font-weight: 500;}
+	.newsDetail q a:hover{text-decoration: none;}
+	
+	
+@media all and (max-width: 550px) {
+	.titleH2, .titleH3, .titleH4{padding: 0 20px 20px 20px;}
+	.newsDetail > div:not(.backAndShare), .newsDetail > p, .standartText{padding: 0 20px 30px 20px;}
+	.newsDetail q{margin: 0 20px 30px 20px;}
+}

@@ -1,0 +1,16 @@
+.b-main-slider {
+    position: relative;
+    margin: 0 auto 0;
+    max-width: 1307px;
+    margin-bottom: 35px;
+}
+.b-main-slider .flex-control-nav{
+    bottom: -28px;
+}
+.b-main-slider .flex-direction-nav{
+    display: none;
+}
+.b-main-slider__item img{
+    width: 100%;
+    height: auto;
+}

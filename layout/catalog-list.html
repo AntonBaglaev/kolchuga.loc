@@ -1,0 +1,990 @@
+<!DOCTYPE HTML>
+<html lang="ru">
+<head>
+	<title>Обувь</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<link type="image/x-icon" href="favicon.ico" rel="icon">
+	<link type="image/x-icon" href="favicon.ico" rel="shortcut icon">
+	<link href='http://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic&subset=latin,cyrillic-ext,latin-ext,cyrillic' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="css/fonts.css">
+	<link rel="stylesheet" href="css/plugins.css">
+	<link rel="stylesheet" href="css/style.css">
+	
+	<script src="js/jquery.min.js"></script>
+	<script src="js/main.min.js"></script>
+	
+	<!--[if lt IE 10]>
+		<script type="text/javascript" src="js/fix/placeholder.js"></script>
+	<![endif]-->
+	<!--[if lt IE 9]>
+		<script type="text/javascript" src="js/fix/respond.min.js"></script>
+	<![endif]-->
+	<!--[if (gte IE 6)&(lte IE 8)]>
+		<script type="text/javascript" src="js/fix/selectivizr-min.js"></script>
+	<![endif]-->
+	<script src="js/init.js" type="text/javascript"></script>
+</head>
+<body>
+	<div class="main">
+		<nav id="mmenu" class="mobile-menu">
+		    <ul class="">
+		        <li>
+		            <a href="">О компании</a>
+		            <ul>
+		                <li><a href="">Продажа оружия</a></li>
+		                <li><a href="">Общественная деятельность</a></li>
+		                <li><a href="">Arms & Hunting</a></li>
+		                <li><a href="">Контакты</a></li>
+		            </ul>
+		        </li>
+		        <li>
+		            <a href="">Оружейные салоны</a>
+		            <ul>
+		                <li><a href="/weapons_salons/varvarka/">Варварка</a></li>
+		                <li><a href="/weapons_salons/leninsky-prospekt/">Ленинский проспект</a></li>
+		                <li><a href="/weapons_salons/volokolamskoe-shosse/">Волоколамское шоссе</a></li>
+		                <li><a href="/weapons_salons/lyubertsy/">Люберцы</a></li>
+		                <li><a href="/weapons_salons/prospekt-mira/">Проспект Мира</a></li>
+		            </ul>
+		        </li>
+		        <li>
+		            <a href="">Услуги</a>
+		        </li>
+		        <li class="active">
+		            <a href="">Каталог</a>
+		            <ul>
+		                <li><a class="" href="/internet_shop/basket/">Корзина</a></li>
+		                <li class="active"><a class="" href="/internet_shop/oruzhie/">Оружие</a></li>
+		                <li><a class="" href="/internet_shop/patrony/">Патроны</a></li>
+		                <li><a class="" href="/internet_shop/optika/">Оптика</a></li>
+		                <li><a class="" href="/internet_shop/oruzheynye-aksessuary/">Оружейные аксессуары</a></li>
+		                <li><a class="" href="/internet_shop/nozhi/">Ножи</a></li>
+		                <li><a class="active" href="/internet_shop/odezhda/">Одежда</a></li>
+		                <li><a class="" href="/internet_shop/obuv/">Обувь</a></li>
+		                <li><a class="" href="/internet_shop/aksessuary/">Аксессуары</a></li>
+		                <li><a class="" href="/internet_shop/soputstvuyushchie-tovary/">Сопутствующие товары</a></li>
+		                <li><a class="" href="/internet_shop/suveniry/">Сувениры</a></li>
+		                <li><a class="" href="/internet_shop/seyfy/">Сейфы</a></li>
+		                <li><a class="" href="/internet_shop/tovary-dlya-stendovoy-strelby/">Товары для стендовой стрельбы</a></li>
+		                <li><a class="" href="/internet_shop/tovary-dlya-vesenney-okhoty/">Товары для весенней охоты</a></li>
+		                <li><a class="" href="/internet_shop/finalnaya-tsena/">Финальная цена</a></li>
+		            </ul>
+		        </li>
+		        <li><a href="">Онлайн-магазин</a></li>
+		        <li><a href="">Дилеры</a></li>
+		        <li>
+		            <a href="">Ресторан</a>
+		            <ul>
+		                <li><a href="">Меню</a></li>
+		                <li><a href="">Услуги</a></li>
+		                <li><a href="">Контакты</a></li>
+		                <li><a href="">Охотничьи рецепты</a></li>
+		            </ul>
+		        </li>
+		    </ul>
+		</nav>
+		<script>
+		    $(document).ready(function(){
+				$("#mmenu").mmenu({
+					navbar:{
+						title: 'Меню'
+					}
+				});
+		    });
+		</script>
+		
+		
+		
+		
+		<header class="header">
+		    <div class="container">
+		        <div class="header__top">
+		            <div class="header__lang">
+		                <a href="" class="active">русский</a>
+		                <a href="">english</a>
+		            </div>
+		            <div class="header__auth">
+		                <a href="/logout.html">Выйти</a><a href="">Иванов И.В.</a>
+		            </div>
+		        </div>
+		        <div class="header__middle">
+		            <div class="header__middle--left">
+		                <ul>
+		                    <li>
+		                        <a href="/weapons_salons/gift_certificate/" title="Подарочный сертификат">
+		                            <span class="icon-gift"></span>
+		                            <em>Подарочный сертификат</em>
+		                        </a>
+		                    </li>
+		                    <li>
+		                        <a href="/weapons_salons/discount-program/" title="Дисконтная карта">
+		                            <span class="icon-credit-card-alt"></span>
+		                            <em>Дисконтная карта</em>
+		                        </a>
+		                    </li>
+		                    <li>
+		                        <a href="/about_company/contacts.php" title="Контакты">
+		                            <span class="icon-phone"></span>
+		                            <em>Контакты</em>
+		                        </a>
+		                    </li>
+		                </ul>
+		
+		                <div class="mobile-menu-bar">
+		                    <a id="hamburger" href="#mmenu"><span></span></a>
+		                </div>
+		
+		            </div>
+		            <div class="header__logo">
+		                <a href="/" class="logo"></a>
+		            </div>
+		            <div class="header__middle--right">
+		
+		                <div class="header__search">
+		                    <div class="search-toggle">
+		                        <span class="icon-search"></span>
+		                    </div>
+		                	<form class="form__search" action="/internet_shop/" _lpchecked="1">
+		    					<input type="text" class="input_inside" name="q" value="" size="15" placeholder="Поиск по сайту" maxlength="50">
+		        				<button class="btn__search" type="submit" name="s">
+		                            <span class="icon-search"></span>
+		                        </button>
+		                	</form>
+		                </div>
+		                <ul>
+		                    <li>
+		                        <a href="/internet_shop/basket/"><span id="bid" class="icon-shopping-bag js-cart-count"><b>2</b></span></a>
+		                    </li>
+		                    <li><a href=""><span class="icon-user"></span></a></li>
+		                    <li><a href=""><span class="icon-heart-o"><em>2</em></span></a></li>
+		                </ul>
+		
+		            </div>
+		        </div>
+		    </div>
+		</header>
+		<nav class="navbar" role="navigation">
+		    <div class="container">
+		        <ul class="navbar__nav">
+		            <li>
+		                <a href="">О компании</a>
+		                <ul>
+		                    <li><a href="">Продажа оружия</a></li>
+		                    <li><a href="">Общественная деятельность</a></li>
+		                    <li><a href="">Arms & Hunting</a></li>
+		                    <li><a href="">Контакты</a></li>
+		                </ul>
+		            </li>
+		            <li>
+		                <a href="">Оружейные салоны</a>
+		                <ul>
+							<li><a href="/weapons_salons/varvarka/">Варварка</a></li>
+							<li><a href="/weapons_salons/leninsky-prospekt/">Ленинский проспект</a></li>
+		                    <li><a href="/weapons_salons/volokolamskoe-shosse/">Волоколамское шоссе</a></li>
+		                    <li><a href="/weapons_salons/lyubertsy/">Люберцы</a></li>
+		                    <li><a href="/weapons_salons/prospekt-mira/">Проспект Мира</a></li>
+						</ul>
+		            </li>
+		            <li>
+		                <a href="">Услуги</a>
+		            </li>
+		            <li class="active">
+		                <a href="">Каталог</a>
+		                <ul>
+		                	<li><a class="" href="/internet_shop/basket/">Корзина</a></li>
+		                	<li><a class="" href="/internet_shop/oruzhie/">Оружие</a></li>
+		                	<li><a class="" href="/internet_shop/patrony/">Патроны</a></li>
+		                	<li><a class="" href="/internet_shop/optika/">Оптика</a></li>
+		                	<li><a class="" href="/internet_shop/oruzheynye-aksessuary/">Оружейные аксессуары</a></li>
+		                	<li><a class="" href="/internet_shop/nozhi/">Ножи</a></li>
+		                	<li><a class="active" href="/internet_shop/odezhda/">Одежда</a></li>
+		                	<li><a class="" href="/internet_shop/obuv/">Обувь</a></li>
+		                	<li><a class="" href="/internet_shop/aksessuary/">Аксессуары</a></li>
+		                	<li><a class="" href="/internet_shop/soputstvuyushchie-tovary/">Сопутствующие товары</a></li>
+		                	<li><a class="" href="/internet_shop/suveniry/">Сувениры</a></li>
+		                	<li><a class="" href="/internet_shop/seyfy/">Сейфы</a></li>
+		                	<li><a class="" href="/internet_shop/tovary-dlya-stendovoy-strelby/">Товары для стендовой стрельбы</a></li>
+		                	<li><a class="" href="/internet_shop/tovary-dlya-vesenney-okhoty/">Товары для весенней охоты</a></li>
+		                	<li><a class="" href="/internet_shop/finalnaya-tsena/">Финальная цена</a></li>
+		                </ul>
+		            </li>
+		            <li><a href="">Онлайн-магазин</a></li>
+		            <li><a href="">Дилеры</a></li>
+		            <li>
+		                <a href="">Ресторан</a>
+		                <ul>
+		                    <li><a href="">Меню</a></li>
+		                    <li><a href="">Услуги</a></li>
+		                    <li><a href="">Контакты</a></li>
+		                    <li><a href="">Охотничьи рецепты</a></li>
+		                </ul>
+		            </li>
+		        </ul>
+		
+		        <ul class="navbar__nav-sub">
+		            <li><a class="" href="/internet_shop/basket/">Корзина</a></li>
+		            <li><a class="" href="/internet_shop/oruzhie/">Оружие</a></li>
+		            <li><a class="" href="/internet_shop/patrony/">Патроны</a></li>
+		            <li><a class="" href="/internet_shop/optika/">Оптика</a></li>
+		            <li><a class="" href="/internet_shop/oruzheynye-aksessuary/">Оружейные аксессуары</a></li>
+		            <li><a class="" href="/internet_shop/nozhi/">Ножи</a></li>
+		            <li><a class="active" href="/internet_shop/odezhda/">Одежда</a></li>
+		            <li><a class="" href="/internet_shop/obuv/">Обувь</a></li>
+		            <li><a class="" href="/internet_shop/aksessuary/">Аксессуары</a></li>
+		            <li><a class="" href="/internet_shop/soputstvuyushchie-tovary/">Сопутствующие товары</a></li>
+		            <li><a class="" href="/internet_shop/suveniry/">Сувениры</a></li>
+		            <li><a class="" href="/internet_shop/seyfy/">Сейфы</a></li>
+		            <li><a class="" href="/internet_shop/tovary-dlya-stendovoy-strelby/">Товары для стендовой стрельбы</a></li>
+		            <li><a class="" href="/internet_shop/tovary-dlya-vesenney-okhoty/">Товары для весенней охоты</a></li>
+		            <li><a class="" href="/internet_shop/finalnaya-tsena/">Финальная цена</a></li>
+		        </ul>
+		    </div>
+		</nav>
+
+		<div class="main__inner">
+			<div class="container">
+
+				<div class="static-page">
+
+					<div class="title-page">
+		            	<h1>Обувь</h1>
+	              	</div>
+					<ul class="breadcrumb">
+						<li><a href="/"><span>Главная</span></a></li>
+						<li><a href="/"><span>Онлайн-магазин</span></a></li>
+						<li><span>Обувь</span></li>
+					</ul>
+
+
+					<div class="catalog">
+
+						<aside class="sidebar__catalog">
+							<div class="sidebar__block">
+								<div class="sidebar__menu accordion-menu">
+									<div class="sidebar__menu--title accordion-header accordion-open">
+										<span>Каталог товаров</span>
+										<i></i>
+									</div>
+									<ul class="js-mh">
+										<li><a href=""><span>Ботинки</span></a></li>
+										<li><a href=""><span>Сапоги</span></a></li>
+										<li><a href=""><span>Забродники</span></a></li>
+										<li><a href=""><span>Аксессуары для обуви</span></a></li>
+										<li><a href=""><span>Тапочки</span></a></li>
+									</ul>
+								</div>
+							</div>
+						</aside>
+
+						<div class="catalog__wrapper">
+							<!--
+							    Изменения в верстке Смарт фильтра!
+							    Все чекбоксы теперь обернуты в тег label:
+							    =======
+							    <label>
+							        <input type="checkbox" name="" value="Y">
+							        Beretta
+							    </label>
+							    ========
+							    После <span>Сортировать по</span> и <span>Выводить по</span> убран
+							    &nbsp;
+							    ========
+							    Изменено место в js в низу с:
+							    $('.b-filter__name span').click(function() {
+							        $(this).parent().toggleClass('active');
+							    })
+							
+							    на
+							
+							    $('.b-filter__name').click(function() {
+							        $(this).toggleClass('active');
+							    });
+							    =======
+							 --->
+							
+							
+							
+							<div id="filter" class="filter__block js-mh">
+							    <form class="b-filter" name="_form" action="/internet_shop/obuv/" method="get">
+							
+							        <div class="b-filter__row js-filter-row">
+							            <div class="b-filter__title">Фильтр товаров</div>
+							        </div>
+							        <div class="b-filter__row js-filter-row">
+							            <div class="b-filter__item b-filter__item_nob filter_price">
+							                <div class="b-filter__name b-filter__name_price js-price-item"><span>Цена</span></div>
+							                <div class="b-filter-options b-filter-price">
+							                    <span>от</span>
+							                    <input type="text" name="shopFilter_P2_MIN" value="500" class="js-range-in">
+							                    <span>до</span>
+							                    <input type="text" name="shopFilter_P2_MAX" value="75330" class="js-range-in">
+							                    <span>рублей</span>
+							                </div>
+							                <div class="price-slider" id="priceSlider_2"></div>
+							            </div>
+							        </div>
+							        <div class="b-filter__row js-filter-row">
+							            <div class="b-filter__item">
+							                <div class="b-filter__name"><span>Бренд</span></div>
+							                <div class="b-filter-options">
+							                    <div class="b-filter-options__item">
+							                        <label>
+							                            <input type="checkbox" name="shopFilter_247_601506276" value="Y">
+							                            Beretta
+							                        </label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_247_485565356" value="Y">
+							                        Blaser</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_247_444643179" value="Y">
+							                        Haix</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_247_1387062709" value="Y">
+							                        Jagdhund</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_247_1332062647" value="Y">
+							                        James Purdey</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_247_83247667" value="Y">
+							                        Lamellar</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_247_1004347515" value="Y">
+							                        Monte Sport</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_247_308943096" value="Y">
+							                        Rocky</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_247_2065423670" value="Y">
+							                        SWEDTEAM</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_247_1438720430" value="Y">
+							                        Sportchief</label>
+							                    </div>
+							
+							                </div>
+							            </div>
+							        </div>
+							        <div class="b-filter__row js-filter-row">
+							            <div class="b-filter__item">
+							                <div class="b-filter__name"><span>Пол</span></div>
+							                <div class="b-filter-options">
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_301_1304413253" value="Y">
+							                        Женская</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_301_1267747740" value="Y">
+							                        Мужская</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_301_1256323201" value="Y">
+							                        Унисекс</label>
+							                    </div>
+							
+							                </div>
+							            </div>
+							        </div>
+							        <div class="b-filter__row js-filter-row">
+							            <div class="b-filter__item">
+							                <div class="b-filter__name"><span>Размер</span></div>
+							                <div class="b-filter-options">
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_206169288" value="Y">
+							                        4</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_2068763730" value="Y">
+							                        5</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_498629140" value="Y">
+							                        6</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_1790921346" value="Y">
+							                        7</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_2003984331" value="Y">
+							                        8.5</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_100641005" value="Y">
+							                        8</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_1928894587" value="Y">
+							                        9</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_1587730975" value="Y">
+							                        10</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_698739337" value="Y">
+							                        11</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_1330857165" value="Y">
+							                        12</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_945058907" value="Y">
+							                        13</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_2047402582" value="Y">
+							                        36</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_219140800" value="Y">
+							                        37</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_1649356975" value="Y">
+							                        38</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_1244357821" value="Y">
+							                        39.5</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_357040185" value="Y">
+							                        39</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_601173596" value="Y">
+							                        40</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_638644802" value="Y">
+							                        41.5</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_1423056590" value="Y">
+							                        41</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_841265288" value="Y">
+							                        42</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_1159954462" value="Y">
+							                        43</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_630466092" value="Y">
+							                        43.5</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_616098371" value="Y">
+							                        44</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_555309726" value="Y">
+							                        45.5</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_1405082325" value="Y">
+							                        45</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_894006417" value="Y">
+							                        46</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_1112425479" value="Y">
+							                        47</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_580751088" value="Y">
+							                        47.5</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_755934826" value="Y">
+							                        48</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_700565965" value="Y">
+							                        48.5</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_630205792" value="Y">
+							                        M</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_1385635274" value="Y">
+							                        L</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_302_1288816664" value="Y">
+							                        XL</label>
+							                    </div>
+							
+							                </div>
+							            </div>
+							        </div>
+							        <div class="b-filter__row js-filter-row">
+							            <div class="b-filter__item">
+							                <div class="b-filter__name"><span>Сезон</span></div>
+							                <div class="b-filter-options">
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_220_803506682" value="Y">
+							                        Демисезон</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_220_1072616995" value="Y">
+							                        Зима</label>
+							                    </div>
+							                    <div class="b-filter-options__item">
+							                        <label><input type="checkbox" name="shopFilter_220_1310320656" value="Y">
+							                        Лето</label>
+							                    </div>
+							
+							                </div>
+							            </div>
+							        </div>
+							
+							
+							
+							        <div class="b-filter__row filter_result">
+							            <div class="filter_result_1 b-filter__item_nob">
+							                <div class="sort-item">
+							                    <span>Сортировать по</span>
+							                    <select class="js-sort-sel" name="sort_field">
+							                        <option value="NAME" data-order="asc">Названию &uarr;</option>
+							                        <option value="NAME" data-order="desc">Названию &darr;</option>
+							                        <option value="CATALOG_PRICE_2" data-order="asc">Цене &uarr;</option>
+							                        <option value="CATALOG_PRICE_2" data-order="desc">Цене &darr;</option>
+							                    </select>
+							                    <input type="hidden" name="sort_order" value="asc">
+							                </div>
+							                <div class="sort-item">
+							                    <span>Выводить по</span>
+							                    <select name="PAGEN_SIZE">
+							                        <option value="24">24 товара</option>
+							                        <option value="48">48 товаров</option>
+							                        <option value="99">99 товаров</option>
+							                        <option value="500">все товары</option>
+							                    </select>
+							                </div>
+							                <!--<div class="sort-item">
+							                    <label>
+							                        <input type="checkbox" name="PICTURE_ONLY" class="js-filter-pict" value="1" checked>
+							                        Только с фото
+							                    </label>
+							                </div>-->
+							            </div>
+							            <div class="filter_result_2">
+							                <a class="submit" href="/internet_shop/obuv/" class="submit">Сбросить фильтр</a>
+							                <input class="submit" type="submit" name="set_filter" value="Показать">
+							            </div>
+							        </div>
+							    </form>
+							</div>
+							
+							<script>
+							    $(document).ready(function() {
+							
+							        if ($('#priceSlider_2').length > 0) {
+							            var slider_2 = document.getElementById('priceSlider_2');
+							
+							            noUiSlider.create(slider_2, {
+							                start: [
+							                    500,
+							                    75330
+							                ],
+							                connect: true,
+							                range: {
+							                    'min': 500,
+							                    'max': 75330
+							                },
+							                step: 100,
+							                format: wNumb({
+							                    decimals: 0,
+							                    thousand: ' ',
+							                    postfix: ''
+							                })
+							            });
+							
+							            slider_2.noUiSlider.on('update', function(values, handle) {
+							                $('#priceSlider_2').parents('.js-filter-row').find('.js-range-in').eq(handle).val(values[handle]);
+							            });
+							
+							            $('.js-range-in').change(function() {
+							                var inputs = $('#priceSlider_2').parents('.js-filter-row').find('.js-range-in');
+							                slider_2.noUiSlider.set([inputs.eq(0).val(), $('.js-range-in').eq(1).val()]);
+							            });
+							        }
+							
+							        $('.b-filter__name').click(function() {
+							            $(this).toggleClass('active');
+							        });
+							        $('.js-sort-sel').change(function() {
+							            var order = $(this).find('option:selected').data('order');
+							            $(this).next().val(order);
+							        });
+							
+							        $('.b-filter').submit(function(e) {
+							            $(this).find('.js-range-in').each(function() {
+							                var _v = wNumb({
+							                    mark: '',
+							                    thousand: ' ',
+							                    prefix: '',
+							                    postfix: ''
+							                }).from($(this).val());
+							
+							                $(this).val(_v);
+							            })
+							        });
+							
+							    });
+							</script>
+							<div class="catalog__list">
+							    <div class="catalog__item">
+							        <div class="catalog__item-img">
+							            <a href="">
+							                <img src="upload/item_1.jpg" alt="">
+							            </a>
+							        </div>
+							        <div class="catalog__item-info">
+							            <div class="catalog__item-title"><a href="">Ботинки Jagdhund 6256-2</a></div>
+							            <div class="catalog__item-price">
+							                <span class="old-price">29 070 руб</span>
+							                <span class="price">26 163 руб</span>
+							            </div>
+							        </div>
+							    </div>
+							    <div class="catalog__item">
+							        <div class="catalog__item-img">
+							            <span class="sale">Финальная цена</span>
+							            <a href="">
+							                <img src="upload/item_2.jpg" alt="">
+							            </a>
+							        </div>
+							        <div class="catalog__item-info">
+							            <div class="catalog__item-title"><a href="">Ботинки Beretta SC30/0425/0807</a></div>
+							            <div class="catalog__item-price">
+							                <span class="price">6 375 руб</span>
+							            </div>
+							        </div>
+							    </div>
+							    <div class="catalog__item">
+							        <div class="catalog__item-img">
+							            <span class="sale">Финальная цена</span>
+							            <a href="">
+											<div class="no-photo"></div>
+							            </a>
+							        </div>
+							        <div class="catalog__item-info">
+							            <div class="catalog__item-title"><a href="">Ботинки Beretta стрелковые SC70/0474/085E</a></div>
+							            <div class="catalog__item-price">
+							                <span class="old-price">13 226 руб</span>
+							                <span class="price">11 903 руб</span>
+							            </div>
+							        </div>
+							    </div>
+							    <div class="catalog__item">
+							        <div class="catalog__item-img">
+							            <a href="">
+							                <img src="upload/item_4.jpg" alt="">
+							            </a>
+							        </div>
+							        <div class="catalog__item-info">
+							            <div class="catalog__item-title"><a href="">Сапоги Beretta ST20/0470/0999</a></div>
+							            <div class="catalog__item-price">
+							                <span class="old-price">42 300 руб</span>
+							                <span class="price">38 070 руб</span>
+							            </div>
+							        </div>
+							    </div>
+							    <div class="catalog__item">
+							        <div class="catalog__item-img">
+							            <a href="">
+							                <img src="upload/item_1.jpg" alt="">
+							            </a>
+							        </div>
+							        <div class="catalog__item-info">
+							            <div class="catalog__item-title"><a href="">Ботинки Jagdhund 6256-2</a></div>
+							            <div class="catalog__item-price">
+							                <span class="old-price">29 070 руб</span>
+							                <span class="price">26 163 руб</span>
+							            </div>
+							        </div>
+							    </div>
+							    <div class="catalog__item">
+							        <div class="catalog__item-img">
+							            <span class="sale">Финальная цена</span>
+							            <a href="">
+							                <img src="upload/item_2.jpg" alt="">
+							            </a>
+							        </div>
+							        <div class="catalog__item-info">
+							            <div class="catalog__item-title"><a href="">Ботинки Beretta SC30/0425/0807</a></div>
+							            <div class="catalog__item-price">
+							                <span class="price">6 375 руб</span>
+							            </div>
+							        </div>
+							    </div>
+							    <div class="catalog__item">
+							        <div class="catalog__item-img">
+							            <span class="sale">Финальная цена</span>
+							            <a href="">
+							                <img src="upload/item_3.jpg" alt="">
+							            </a>
+							        </div>
+							        <div class="catalog__item-info">
+							            <div class="catalog__item-title"><a href="">Ботинки Beretta стрелковые SC70/0474/085E</a></div>
+							            <div class="catalog__item-price">
+							                <span class="old-price">13 226 руб</span>
+							                <span class="price">11 903 руб</span>
+							            </div>
+							        </div>
+							    </div>
+							    <div class="catalog__item">
+							        <div class="catalog__item-img">
+							            <a href="">
+							                <img src="upload/item_1.jpg" alt="">
+							            </a>
+							        </div>
+							        <div class="catalog__item-info">
+							            <div class="catalog__item-title"><a href="">Ботинки Jagdhund 6256-2</a></div>
+							            <div class="catalog__item-price">
+							                <span class="old-price">29 070 руб</span>
+							                <span class="price">26 163 руб</span>
+							            </div>
+							        </div>
+							    </div>
+							    <div class="catalog__item">
+							        <div class="catalog__item-img">
+							            <span class="sale">Финальная цена</span>
+							            <a href="">
+							                <img src="upload/item_2.jpg" alt="">
+							            </a>
+							        </div>
+							        <div class="catalog__item-info">
+							            <div class="catalog__item-title"><a href="">Ботинки Beretta SC30/0425/0807</a></div>
+							            <div class="catalog__item-price">
+							                <span class="price">6 375 руб</span>
+							            </div>
+							        </div>
+							    </div>
+							</div>
+							<nav class="paginate">
+							    <ul class="pagination">
+							        <li class="prev"><a href=""><span>Предыдущая</span></a></li>
+							        <li><a href="#"><span>1</span></a></li>
+							        <li><a href="#"><span>2</span></a></li>
+							        <li><a href="#"><span>3</span></a></li>
+							        <li class="active"><span>4</span></li>
+							        <li><a href="#"><span>...</span></a></li>
+							        <li><a href="#"><span>30</span></a></li>
+							        <li class="next"><a href=""><span>Следующая</span></a></li>
+							    </ul>
+							</nav>
+
+							<h2>Рекомендуем</h2>
+							<div class="recommend__wrapper">
+							    <div class="recommend owl-carousel owl-theme js_recommend">
+							        <div class="recommend__item">
+										<div class="recommend__img">
+											<a href="/">
+												<img src="upload/recommend_1.jpg" alt="Брюки  Jagd  X5215/7733-2L-S05 Icelander 50">
+											</a>
+										</div>
+										<div class="recommend__title">
+							                <a href="/">Брюки  Jagd  X5215/7733-2L-S05 Icelander 50</a>
+							            </div>
+										<div class="recommend__price">28 917 руб</div>
+							        </div>
+							        <div class="recommend__item">
+							            <div class="recommend__img">
+											<a href="/">
+												<div class="no-photo"></div>
+											</a>
+										</div>
+										<div class="recommend__title">
+							                <a href="/">Балаклава Jagd  X3806/5529-M12 Wasilla L</a>
+							            </div>
+										<div class="recommend__price">5 022 руб</div>
+							        </div>
+							        <div class="recommend__item">
+							            <div class="recommend__img">
+											<a href="/">
+												<img src="upload/recommend_3.jpg" alt="Ботинки  Jagdhund 6383-2 38">
+											</a>
+										</div>
+										<div class="recommend__title">
+							                <a href="/">Ботинки  Jagdhund 6383-2 38</a>
+							            </div>
+										<div class="recommend__price">20 007 руб</div>
+							        </div>
+							        <div class="recommend__item">
+							            <div class="recommend__img">
+											<a href="/">
+												<img src="upload/recommend_4.jpg" alt="Нож Arno Bernard 1308 Hippo">
+											</a>
+										</div>
+										<div class="recommend__title">
+							                <a href="/">Нож Arno Bernard 1308 Hippo</a>
+							            </div>
+										<div class="recommend__price">41 715 руб</div>
+							        </div>
+							        <div class="recommend__item">
+							            <div class="recommend__img">
+											<a href="/">
+												<img src="upload/recommend_4.jpg" alt="Нож Arno Bernard 1308 Hippo">
+											</a>
+										</div>
+										<div class="recommend__title">
+							                <a href="/">Нож Arno Bernard 1308 Hippo</a>
+							            </div>
+										<div class="recommend__price">41 715 руб</div>
+							        </div>
+							
+							    </div>
+							</div>
+							<script>
+							    $(document).ready(function(){
+							        var owlbrand = $('.js_recommend');
+							        owlbrand.owlCarousel({
+							            loop:true,
+							            items:4,
+							            margin:10,
+							            dots:false,
+							            nav:true,
+							            navText:['<span class="icon-arrow-left3"></span>','<span class="icon-arrow-right3"></span>'],
+							            responsiveClass:true,
+							            responsive:{
+							                0:{
+							                    items:1
+							                },
+							                500:{
+							                    items:2
+							                },
+							                768:{
+							                    items:3
+							                },
+							                1024:{
+							                    items:4
+							                },
+							                1100:{
+							                    items:4
+							                }
+							            }
+							        });
+							    });
+							</script>
+						</div>
+
+					</div>
+
+
+
+				</div><!-- @end .static-page -->
+				<div class="clearfix"></div>
+
+			</div>
+		</div><!-- @end .main -->
+		<footer class="footer">
+		    <div class="container">
+		
+		        <div class="footer__top">
+		            <div class="footer__top--left">
+		                <div class="footer__top--header">Покупателям</div>
+		                <div class="footer__top--body js-mh">
+		                    <ul>
+		                        <li><a href="">Доставка</a></li>
+		                        <li><a href="">Оплата</a></li>
+		                        <li><a href="">Условия возврата</a></li>
+		                        <li><a href="">Скидочные карты</a></li>
+		                        <li><a href="">Подарочные сертификаты</a></li>
+		                    </ul>
+		                </div>
+		            </div>
+		            <div class="footer__top--right">
+		                <div class="footer__top--header">Контакты</div>
+		                <div class="footer__top--body js-mh">
+		                    <ul>
+		                        <li>Адрес: г. Москва, ул. Варварка, д.3</li>
+		                        <li>E-mail: <a href="mailto:info@kolchuga.ru">info@kolchuga.ru</a></li>
+		                        <li>Телефон: <a href="tel:+7(495)234-34-43">+7(495)234-34-43</a></li>
+		                    </ul>
+		                    <ul class="footer__top--icons">
+		                        <li><a href=""><img src="images/vk.png" alt=""></a></li>
+		                        <li><a href=""><img src="images/facebook.png" alt=""></a></li>
+		                        <li><a href=""><img src="images/instagram.png" alt=""></a></li>
+		                    </ul>
+		                </div>
+		            </div>
+		        </div>
+		
+		        <div class="footer__middle">
+		            <div class="footer__middle--body">
+		                <ul>
+		                    <li><a href="">Сервисное обслуживание</a></li>
+		                    <li><a href="">Гарантии</a></li>
+		                    <li><a href="">Законодательная база</a></li>
+		                    <li><a href="">Политика конфиденциальности</a></li>
+		                    <li><a href="">Вакансии</a></li>
+		                </ul>
+		            </div>
+		        </div>
+		
+		        <div class="footer__bottom">
+		            <div class="footer__bottom--left">
+		                <ul class="footer__bottom-payments">
+		                    <li><img class="visa" src="images/icon-visa.svg" alt="" width="56" height="18"></li>
+		                    <li><img class="mastercard" src="images/icon-mastercard.svg" alt="" width="44" height="26"></li>
+		                    <li><img class="maestro" src="images/icon-maestro.svg" alt="" width="44" height="26"></li>
+		                </ul>
+		           </div>
+		            <div class="footer__bottom--center">
+		                <div class="footer__bottom-copyrights">
+		                    &copy; 2005-2016 ЗАО «Фирма «Кольчуга»<br>Все права защищены
+		                </div>
+		            </div>
+		            <div class="footer__bottom--right">
+		
+		                <div class="footer__bottom-developer">
+		                    <a href="http://datainlife.ru"><span>Data</span><em>inlife</em></a>
+		                </div>
+		                <div class="footer__bottom-counter">
+		                    <a href="http://top100.rambler.ru/top100/">
+		                    	<img src="http://counter.rambler.ru/top100.cnt?685785" alt="" width=1 height=1 border=0>
+		                    </a>
+		                    <!--end of Top100 code-->
+		                    <!--begin of Top100 logo-->
+		                    <a href="http://top100.rambler.ru/top100/">
+		                    <img src="http://top100-images.rambler.ru/top100/banner-88x31-rambler-gray2.gif" alt="Rambler's Top100" width=88 height=31 border=0></a>
+		                    <!--end of Top100 logo -->
+		                    <!--LiveInternet counter--><script language="JavaScript"><!--
+		                    document.write('<a href="http://www.liveinternet.ru/click" '+
+		                    'target=_blank><img src="http://counter.yadro.ru/hit?t13.11;r'+
+		                    escape(document.referrer)+((typeof(screen)=='undefined')?'':
+		                    ';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+		                    screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+		                    ';'+Math.random()+
+		                    '" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодн\я" '+
+		                    'border=0 width=88 height=31></a>')//--></script><!--/LiveInternet-->
+		                </div>
+		
+		            </div>
+		        </div>
+		    </div>
+		</footer>
+	</div><!-- main-wrapper -->
+</body>
+</html>

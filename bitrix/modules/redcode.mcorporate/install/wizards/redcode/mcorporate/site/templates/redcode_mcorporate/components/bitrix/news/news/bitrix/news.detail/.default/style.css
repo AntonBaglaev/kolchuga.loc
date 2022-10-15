@@ -1,0 +1,8 @@
+
+.newsDetailTitle{padding: 36px 40px; font-weight: 500; font-size: 13px; color: #616161; background: #fff;}
+	.newsDetailTitle div{display: inline-block; vertical-align: middle;}
+	.newsDetailTitle div:nth-child(2){color: #EF6C00;}
+	.newsDetailTitle div:first-child{padding: 0 0 0 22px; margin: 0 20px 0 0; position: relative;}
+		.newsDetailTitle div:first-child i{position: absolute; color: #616161; left: 0; font-size: 15px;}
+
+.newsDetail{background: #fff; position: relative; padding: 0 0 10px 0;}

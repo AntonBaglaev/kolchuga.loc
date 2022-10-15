@@ -1,0 +1,1 @@
+importScripts("https://kolchugaru.push.world/https.serviceworker.js");

@@ -1,0 +1,9 @@
+
+.priceMenu{margin: 43px 0 44px 0;}
+	.priceMenu li{list-style-type: none; color: #555; font-weight:500; padding: 14px 23px 14px 23px; font-size: 15px;
+		cursor: pointer; transition: background .15s;
+	}
+	.priceMenu li:hover {background: #EAEAEA;}
+	.priceMenu li:last-child{margin: 0;}
+
+	.priceMenu li.selected{background: #E2E2E2;}

@@ -1,0 +1,85 @@
+
+/* header */
+	.logo_detail img{background: #F4511E;}
+	.slideTextDetail div a{background: #F4511E; box-shadow: 0 2px 8px rgba(244, 81, 30, .27);}
+
+	.mainTitle{background: #F4511E;}
+/* header */
+
+
+/* footer */
+	.footerMenu a:hover{color: #F4511E;}
+/* footer */
+
+
+/* modal */
+	.menuTopInfo div a{color: #F4511E;}
+	.menuHeader a img{background: #F4511E;}
+	.modalHeader{background: #F4511E;}
+	.modalClose{color: #F4511E;}
+	.modal .modalSend{background: #F4511E; box-shadow: 0 2px 8px rgba(244, 81, 30, .27);}
+	.buttonTop{background: #F4511E; box-shadow: 0 2px 8px rgba(244, 81, 30, .27);}
+/* modal */
+
+
+/* index */
+	.thesesItem img{background: #F4511E;}
+	.thesesItem .icon{color: #F4511E;}
+	
+	.indexServices_button{color: #F4511E;}
+	.indexServicesItem:hover .indexServices_button{background: #F4511E; box-shadow: 0 2px 8px rgba(244, 81, 30, .27);}
+	
+	.item_reviews.active .IR_position{color: #F4511E;}
+	.item_reviews.active q{color: #F4511E;}
+	.indexReviews .owl-nav div{box-shadow: 0 2px 8px rgba(244, 81, 30, .27); background: #F4511E;}
+	.indexReviews .reviewsDots .owl-dot.active, .indexReviews .reviewsDots .owl-dot:hover{background: #F4511E;}
+	
+	.indexNewsButton a{background: #F4511E; box-shadow: 0 2px 8px rgba(244, 81, 30, .27);}
+
+	.mapContacts{background: #F4511E;}
+	.mapCallback .modalSend{background: #F4511E; box-shadow: 0 2px 8px rgba(244, 81, 30, .27);}
+/* index */
+
+
+/* personal_info */
+	.personalInfo label a{color: #F4511E;}
+	.personalInfo label.ckecked:after{background-color: #F4511E;}
+/* personal_info */
+
+
+.projectsItem_img > p{background-color: #F4511E;}
+
+.paginationContainer ul li:not(.bx-pag-prev):not(.bx-pag-next) a:hover span{color: #F4511E;}
+
+.historyDate{color: #F4511E;}
+.partnersElement .text .email{color: #F4511E;}
+.documentsElement a i{background: #F4511E;}
+.reviewsText .title p{background: #F4511E;}
+.reviewsText q{color: #F4511E;}
+.VE_accordion .name i{background: #F4511E;}
+.VE_accordion .price{color: #F4511E;}
+.vacanciesButton{border-color: #F4511E; color: #F4511E;}
+	.vacanciesButton:hover{background: #F4511E;}
+
+.leftShareButton{background: #F4511E; box-shadow: 0 2px 8px rgba(244, 81, 30, .27);}
+.servicesItem_button{color: #F4511E;}
+.servicesItem:hover .servicesItem_button{background: #F4511E; box-shadow: 0 2px 8px rgba(244, 81, 30, .27);}
+#askQuestion a{background: #F4511E; box-shadow: 0 2px 8px rgba(244, 81, 30, .27);}
+#askQuestion .markQuestion p{color: #F4511E;}
+.onTopicArticle .img span{background: #F4511E;}
+.newsDetail q:before{color: #F4511E;}
+.tabulationHeader h2.active{background: #F4511E;}
+.priceHeader{color: #F4511E;}
+.priceHeader .td_1, .priceHeader .td_3{color: #F4511E;}
+.showMore .showMoreButton{background: #F4511E; box-shadow: 0 2px 8px rgba(244, 81, 30, .27);}
+.newsDetailTitle div:nth-child(2){color: #F4511E;}
+.elementNews .title .shareDate{color: #F4511E;}
+.newsDetailTitle .shareDate{color: #F4511E;}
+
+.priceSection > h2 i{background: #F4511E;}
+
+.mapCallback .modalBody .changeInput{border-bottom-color: #F4511E;}
+.inputField:focus + .inputLabel, .changeInput .inputLabel, .messageField:focus + .inputLabel{color: #F4511E;}
+.modal .modalBody .changeInput{border-bottom-color: #F4511E;}
+
+.modalSearch form:hover input[type="submit"]{background: #F4511E;}

@@ -1,0 +1,42 @@
+.brand {
+    width: 22%;
+    float: left;
+    border: 1px solid;
+    margin: 10px;
+}
+.simbol{
+    width: 30px;
+    height: 30px;
+    float: left;
+    border: 0px solid;
+    margin: 5px;
+    text-align: center;
+    line-height : 30px;
+    text-transform: uppercase;
+    text-decoration: none!important;
+}
+
+.simbol:hover {
+    background-color: #e4e4da;
+    color: #21385e;
+}
+
+.simbol:active {
+    background-color: #1d355b;
+    color: #ffffff;
+}
+
+.alf{
+    width: 100%;
+    height: 45px;
+    display: block;
+    padding: 0 5px;
+}
+.simbol.active{
+    background-color: #1d355b;
+    color: #ffffff;
+}
+
+.reports-result-list-wrap {
+    display: inline-block;
+}

@@ -1,0 +1,758 @@
+
+** 11.06.2021 11:16:57 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 257**********
+8 != 8
+** 11.06.2021 11:17:21 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 257**********
+ != 9
+** 11.06.2021 11:19:01 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 259**********
+0 != 9
+** 11.06.2021 11:38:48 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 260**********
+0 != 9
+** 11.06.2021 11:38:59 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 260**********
+0 != 9
+** 11.06.2021 11:39:06 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 260**********
+0 != 9
+** 11.06.2021 11:42:36 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 155**********
+
+** 11.06.2021 11:44:58 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 155**********
+
+** 11.06.2021 11:44:58 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 165**********
+166
+** 11.06.2021 11:59:29 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 235**********
+\Roztech\SaleDiscount\CatalogCondCtrlUserProps::checkUserField('GROUP_ID', '#FIELD# != #VALUE#', '10')
+** 11.06.2021 12:05:17 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 235**********
+Array
+(
+    [ID] => CondUserGroupas
+    [FIELD] => GROUP_ID
+    [FIELD_TYPE] => string
+    [LABEL] => ID группы Пользователя
+    [PREFIX] => поле ID группы Пользователя
+    [LOGIC] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 0
+                    [OP] => Array
+                        (
+                            [Y] => in_array(#VALUE#, #FIELD#)
+                            [N] => #FIELD# == #VALUE#
+                        )
+
+                    [PARENT] =>  || 
+                    [MULTI_SEP] =>  || 
+                    [VALUE] => Equal
+                    [LABEL] => равно
+                )
+
+            [1] => Array
+                (
+                    [ID] => 1
+                    [OP] => Array
+                        (
+                            [Y] => !in_array(#VALUE#, #FIELD#)
+                            [N] => #FIELD# != #VALUE#
+                        )
+
+                    [PARENT] =>  && 
+                    [MULTI_SEP] =>  && 
+                    [VALUE] => Not
+                    [LABEL] => не равно
+                )
+
+        )
+
+    [JS_VALUE] => Array
+        (
+            [type] => input
+        )
+
+    [PHP_VALUE] => 
+    [PARENT] => 1
+    [EXIST_HANDLER] => Y
+    [MODULE_ID] => mymodule
+    [MULTIPLE] => N
+    [GROUP] => N
+)
+
+** 11.06.2021 12:05:17 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 236**********
+\Roztech\SaleDiscount\CatalogCondCtrlUserProps::checkUserField('GROUP_ID', '#FIELD# != #VALUE#', '11')
+** 11.06.2021 12:07:55 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 235**********
+Array
+(
+    [ID] => 1
+    [OP] => Array
+        (
+            [Y] => !in_array(#VALUE#, #FIELD#)
+            [N] => #FIELD# != #VALUE#
+        )
+
+    [PARENT] =>  && 
+    [MULTI_SEP] =>  && 
+    [VALUE] => Not
+    [LABEL] => не равно
+)
+
+** 11.06.2021 12:07:55 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 236**********
+Array
+(
+    [ID] => CondUserGroupas
+    [FIELD] => GROUP_ID
+    [FIELD_TYPE] => string
+    [LABEL] => ID группы Пользователя
+    [PREFIX] => поле ID группы Пользователя
+    [LOGIC] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 0
+                    [OP] => Array
+                        (
+                            [Y] => in_array(#VALUE#, #FIELD#)
+                            [N] => #FIELD# == #VALUE#
+                        )
+
+                    [PARENT] =>  || 
+                    [MULTI_SEP] =>  || 
+                    [VALUE] => Equal
+                    [LABEL] => равно
+                )
+
+            [1] => Array
+                (
+                    [ID] => 1
+                    [OP] => Array
+                        (
+                            [Y] => !in_array(#VALUE#, #FIELD#)
+                            [N] => #FIELD# != #VALUE#
+                        )
+
+                    [PARENT] =>  && 
+                    [MULTI_SEP] =>  && 
+                    [VALUE] => Not
+                    [LABEL] => не равно
+                )
+
+        )
+
+    [JS_VALUE] => Array
+        (
+            [type] => input
+        )
+
+    [PHP_VALUE] => 
+    [PARENT] => 1
+    [EXIST_HANDLER] => Y
+    [MODULE_ID] => mymodule
+    [MULTIPLE] => N
+    [GROUP] => N
+)
+
+** 11.06.2021 12:07:55 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 237**********
+\Roztech\SaleDiscount\CatalogCondCtrlUserProps::checkUserField('GROUP_ID', '#FIELD# != #VALUE#', '8')
+** 11.06.2021 12:14:15 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 236**********
+Array
+(
+    [ID] => 0
+    [OP] => Array
+        (
+            [Y] => in_array(#VALUE#, #FIELD#)
+            [N] => #FIELD# == #VALUE#
+        )
+
+    [PARENT] =>  || 
+    [MULTI_SEP] =>  || 
+    [VALUE] => Equal
+    [LABEL] => равно
+)
+
+** 11.06.2021 12:14:15 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 237**********
+Array
+(
+    [ID] => CondUserGroupas
+    [FIELD] => GROUP_ID
+    [FIELD_TYPE] => string
+    [LABEL] => ID группы Пользователя
+    [PREFIX] => поле ID группы Пользователя
+    [LOGIC] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 0
+                    [OP] => Array
+                        (
+                            [Y] => in_array(#VALUE#, #FIELD#)
+                            [N] => #FIELD# == #VALUE#
+                        )
+
+                    [PARENT] =>  || 
+                    [MULTI_SEP] =>  || 
+                    [VALUE] => Equal
+                    [LABEL] => равно
+                )
+
+            [1] => Array
+                (
+                    [ID] => 1
+                    [OP] => Array
+                        (
+                            [Y] => !in_array(#VALUE#, #FIELD#)
+                            [N] => #FIELD# != #VALUE#
+                        )
+
+                    [PARENT] =>  && 
+                    [MULTI_SEP] =>  && 
+                    [VALUE] => Not
+                    [LABEL] => не равно
+                )
+
+        )
+
+    [JS_VALUE] => Array
+        (
+            [type] => input
+        )
+
+    [PHP_VALUE] => 
+    [PARENT] => 1
+    [EXIST_HANDLER] => Y
+    [MODULE_ID] => mymodule
+    [MULTIPLE] => N
+    [GROUP] => N
+)
+
+** 11.06.2021 12:14:15 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 238**********
+\Roztech\SaleDiscount\CatalogCondCtrlUserProps::checkUserField('GROUP_ID', 'Equal', '8')
+** 11.06.2021 12:15:37 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 236**********
+Array
+(
+    [ID] => 1
+    [OP] => Array
+        (
+            [Y] => !in_array(#VALUE#, #FIELD#)
+            [N] => #FIELD# != #VALUE#
+        )
+
+    [PARENT] =>  && 
+    [MULTI_SEP] =>  && 
+    [VALUE] => Not
+    [LABEL] => не равно
+)
+
+** 11.06.2021 12:15:37 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 237**********
+Array
+(
+    [ID] => CondUserGroupas
+    [FIELD] => GROUP_ID
+    [FIELD_TYPE] => string
+    [LABEL] => ID группы Пользователя
+    [PREFIX] => поле ID группы Пользователя
+    [LOGIC] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 0
+                    [OP] => Array
+                        (
+                            [Y] => in_array(#VALUE#, #FIELD#)
+                            [N] => #FIELD# == #VALUE#
+                        )
+
+                    [PARENT] =>  || 
+                    [MULTI_SEP] =>  || 
+                    [VALUE] => Equal
+                    [LABEL] => равно
+                )
+
+            [1] => Array
+                (
+                    [ID] => 1
+                    [OP] => Array
+                        (
+                            [Y] => !in_array(#VALUE#, #FIELD#)
+                            [N] => #FIELD# != #VALUE#
+                        )
+
+                    [PARENT] =>  && 
+                    [MULTI_SEP] =>  && 
+                    [VALUE] => Not
+                    [LABEL] => не равно
+                )
+
+        )
+
+    [JS_VALUE] => Array
+        (
+            [type] => input
+        )
+
+    [PHP_VALUE] => 
+    [PARENT] => 1
+    [EXIST_HANDLER] => Y
+    [MODULE_ID] => mymodule
+    [MULTIPLE] => N
+    [GROUP] => N
+)
+
+** 11.06.2021 12:15:37 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 238**********
+\Roztech\SaleDiscount\CatalogCondCtrlUserProps::checkUserField('GROUP_ID', 'Not', '8')
+** 11.06.2021 12:16:19 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 236**********
+Array
+(
+    [ID] => 1
+    [OP] => Array
+        (
+            [Y] => !in_array(#VALUE#, #FIELD#)
+            [N] => #FIELD# != #VALUE#
+        )
+
+    [PARENT] =>  && 
+    [MULTI_SEP] =>  && 
+    [VALUE] => Not
+    [LABEL] => не равно
+)
+
+** 11.06.2021 12:16:19 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 237**********
+Array
+(
+    [ID] => CondUserGroupas
+    [FIELD] => GROUP_ID
+    [FIELD_TYPE] => string
+    [LABEL] => ID группы Пользователя
+    [PREFIX] => поле ID группы Пользователя
+    [LOGIC] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 0
+                    [OP] => Array
+                        (
+                            [Y] => in_array(#VALUE#, #FIELD#)
+                            [N] => #FIELD# == #VALUE#
+                        )
+
+                    [PARENT] =>  || 
+                    [MULTI_SEP] =>  || 
+                    [VALUE] => Equal
+                    [LABEL] => равно
+                )
+
+            [1] => Array
+                (
+                    [ID] => 1
+                    [OP] => Array
+                        (
+                            [Y] => !in_array(#VALUE#, #FIELD#)
+                            [N] => #FIELD# != #VALUE#
+                        )
+
+                    [PARENT] =>  && 
+                    [MULTI_SEP] =>  && 
+                    [VALUE] => Not
+                    [LABEL] => не равно
+                )
+
+        )
+
+    [JS_VALUE] => Array
+        (
+            [type] => input
+        )
+
+    [PHP_VALUE] => 
+    [PARENT] => 1
+    [EXIST_HANDLER] => Y
+    [MODULE_ID] => mymodule
+    [MULTIPLE] => N
+    [GROUP] => N
+)
+
+** 11.06.2021 12:16:19 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 238**********
+\Roztech\SaleDiscount\CatalogCondCtrlUserProps::checkUserField('GROUP_ID', 'Not', '9')
+** 11.06.2021 12:23:35 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 236**********
+Array
+(
+    [ID] => 1
+    [OP] => Array
+        (
+            [Y] => !in_array(#VALUE#, #FIELD#)
+            [N] => #FIELD# != #VALUE#
+        )
+
+    [PARENT] =>  && 
+    [MULTI_SEP] =>  && 
+    [VALUE] => Not
+    [LABEL] => не равно
+)
+
+** 11.06.2021 12:23:35 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 237**********
+Array
+(
+    [ID] => CondUserGroupas
+    [FIELD] => GROUP_ID
+    [FIELD_TYPE] => string
+    [LABEL] => ID группы Пользователя
+    [PREFIX] => поле ID группы Пользователя
+    [LOGIC] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 0
+                    [OP] => Array
+                        (
+                            [Y] => in_array(#VALUE#, #FIELD#)
+                            [N] => #FIELD# == #VALUE#
+                        )
+
+                    [PARENT] =>  || 
+                    [MULTI_SEP] =>  || 
+                    [VALUE] => Equal
+                    [LABEL] => равно
+                )
+
+            [1] => Array
+                (
+                    [ID] => 1
+                    [OP] => Array
+                        (
+                            [Y] => !in_array(#VALUE#, #FIELD#)
+                            [N] => #FIELD# != #VALUE#
+                        )
+
+                    [PARENT] =>  && 
+                    [MULTI_SEP] =>  && 
+                    [VALUE] => Not
+                    [LABEL] => не равно
+                )
+
+        )
+
+    [JS_VALUE] => Array
+        (
+            [type] => input
+        )
+
+    [PHP_VALUE] => 
+    [PARENT] => 1
+    [EXIST_HANDLER] => Y
+    [MODULE_ID] => mymodule
+    [MULTIPLE] => N
+    [GROUP] => N
+)
+
+** 11.06.2021 12:23:35 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 238**********
+\Roztech\SaleDiscount\CatalogCondCtrlUserProps::checkUserField('GROUP_ID', 'Not', '10')
+** 11.06.2021 12:23:53 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 271**********
+0 != 9
+** 11.06.2021 12:39:23 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 132**********
+CondUserGroupas
+** 11.06.2021 12:40:47 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 136**********
+Array
+(
+    [ID] => CondUserGroupas
+    [FIELD] => GROUP_ID
+    [FIELD_TYPE] => text
+    [LABEL] => ID группы Пользователя
+    [PREFIX] => поле ID группы Пользователя
+    [LOGIC] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 0
+                    [OP] => Array
+                        (
+                            [Y] => in_array(#VALUE#, #FIELD#)
+                            [N] => #FIELD# == #VALUE#
+                        )
+
+                    [PARENT] =>  || 
+                    [MULTI_SEP] =>  || 
+                    [VALUE] => Equal
+                    [LABEL] => равно
+                )
+
+            [1] => Array
+                (
+                    [ID] => 1
+                    [OP] => Array
+                        (
+                            [Y] => !in_array(#VALUE#, #FIELD#)
+                            [N] => #FIELD# != #VALUE#
+                        )
+
+                    [PARENT] =>  && 
+                    [MULTI_SEP] =>  && 
+                    [VALUE] => Not
+                    [LABEL] => не равно
+                )
+
+        )
+
+    [JS_VALUE] => Array
+        (
+            [type] => input
+        )
+
+    [PHP_VALUE] => 
+    [PARENT] => 1
+    [MULTIPLE] => N
+)
+
+** 11.06.2021 12:42:18 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 136**********
+Array
+(
+    [ID] => CondUserGroupas
+    [FIELD] => GROUP_ID
+    [FIELD_TYPE] => text
+    [LABEL] => ID группы Пользователя
+    [PREFIX] => поле ID группы Пользователя
+    [LOGIC] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 0
+                    [OP] => Array
+                        (
+                            [Y] => in_array(#VALUE#, #FIELD#)
+                            [N] => #FIELD# == #VALUE#
+                        )
+
+                    [PARENT] =>  || 
+                    [MULTI_SEP] =>  || 
+                    [VALUE] => Equal
+                    [LABEL] => равно
+                )
+
+            [1] => Array
+                (
+                    [ID] => 1
+                    [OP] => Array
+                        (
+                            [Y] => !in_array(#VALUE#, #FIELD#)
+                            [N] => #FIELD# != #VALUE#
+                        )
+
+                    [PARENT] =>  && 
+                    [MULTI_SEP] =>  && 
+                    [VALUE] => Not
+                    [LABEL] => не равно
+                )
+
+        )
+
+    [JS_VALUE] => Array
+        (
+            [type] => input
+        )
+
+    [PHP_VALUE] => 
+    [PARENT] => 1
+    [MULTIPLE] => N
+)
+
+** 11.06.2021 12:42:40 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 136**********
+Array
+(
+    [ID] => CondUserGroupas
+    [FIELD] => GROUP_ID
+    [FIELD_TYPE] => text
+    [LABEL] => ID группы Пользователя
+    [PREFIX] => поле ID группы Пользователя
+    [LOGIC] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 0
+                    [OP] => Array
+                        (
+                            [Y] => in_array(#VALUE#, #FIELD#)
+                            [N] => #FIELD# == #VALUE#
+                        )
+
+                    [PARENT] =>  || 
+                    [MULTI_SEP] =>  || 
+                    [VALUE] => Equal
+                    [LABEL] => равно
+                )
+
+            [1] => Array
+                (
+                    [ID] => 1
+                    [OP] => Array
+                        (
+                            [Y] => !in_array(#VALUE#, #FIELD#)
+                            [N] => #FIELD# != #VALUE#
+                        )
+
+                    [PARENT] =>  && 
+                    [MULTI_SEP] =>  && 
+                    [VALUE] => Not
+                    [LABEL] => не равно
+                )
+
+        )
+
+    [JS_VALUE] => Array
+        (
+            [type] => input
+        )
+
+    [PHP_VALUE] => 
+    [PARENT] => 1
+    [MULTIPLE] => N
+)
+
+** 11.06.2021 12:44:40 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 136**********
+Array
+(
+    [ID] => CondUserGroupas
+    [FIELD] => GROUP_ID
+    [FIELD_TYPE] => text
+    [LABEL] => ID группы Пользователя
+    [PREFIX] => поле ID группы Пользователя
+    [LOGIC] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 0
+                    [OP] => Array
+                        (
+                            [Y] => in_array(#VALUE#, #FIELD#)
+                            [N] => #FIELD# == #VALUE#
+                        )
+
+                    [PARENT] =>  || 
+                    [MULTI_SEP] =>  || 
+                    [VALUE] => Equal
+                    [LABEL] => равно
+                )
+
+            [1] => Array
+                (
+                    [ID] => 1
+                    [OP] => Array
+                        (
+                            [Y] => !in_array(#VALUE#, #FIELD#)
+                            [N] => #FIELD# != #VALUE#
+                        )
+
+                    [PARENT] =>  && 
+                    [MULTI_SEP] =>  && 
+                    [VALUE] => Not
+                    [LABEL] => не равно
+                )
+
+        )
+
+    [JS_VALUE] => Array
+        (
+            [type] => input
+        )
+
+    [PHP_VALUE] => 
+    [PARENT] => 1
+    [MULTIPLE] => N
+)
+
+** 11.06.2021 12:49:29 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 136**********
+Array
+(
+    [ID] => CondUserGroupas
+    [FIELD] => GROUP_ID
+    [FIELD_TYPE] => text
+    [LABEL] => ID группы Пользователя
+    [PREFIX] => поле ID группы Пользователя
+    [LOGIC] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 0
+                    [OP] => Array
+                        (
+                            [Y] => in_array(#VALUE#, #FIELD#)
+                            [N] => #FIELD# == #VALUE#
+                        )
+
+                    [PARENT] =>  || 
+                    [MULTI_SEP] =>  || 
+                    [VALUE] => Equal
+                    [LABEL] => равно
+                )
+
+            [1] => Array
+                (
+                    [ID] => 1
+                    [OP] => Array
+                        (
+                            [Y] => !in_array(#VALUE#, #FIELD#)
+                            [N] => #FIELD# != #VALUE#
+                        )
+
+                    [PARENT] =>  && 
+                    [MULTI_SEP] =>  && 
+                    [VALUE] => Not
+                    [LABEL] => не равно
+                )
+
+        )
+
+    [JS_VALUE] => Array
+        (
+            [type] => input
+        )
+
+    [PHP_VALUE] => 
+    [PARENT] => 1
+    [MULTIPLE] => N
+)
+
+** 11.06.2021 12:50:01 ****/var/www/admin/data/www/kolchuga.ru/html/local/php_interface/SaleDiscount/CatalogCondCtrlUserProps.php 136**********
+Array
+(
+    [ID] => CondUserGroupas
+    [FIELD] => GROUP_ID
+    [FIELD_TYPE] => text
+    [LABEL] => ID группы Пользователя
+    [PREFIX] => поле ID группы Пользователя
+    [LOGIC] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 0
+                    [OP] => Array
+                        (
+                            [Y] => in_array(#VALUE#, #FIELD#)
+                            [N] => #FIELD# == #VALUE#
+                        )
+
+                    [PARENT] =>  || 
+                    [MULTI_SEP] =>  || 
+                    [VALUE] => Equal
+                    [LABEL] => равно
+                )
+
+            [1] => Array
+                (
+                    [ID] => 1
+                    [OP] => Array
+                        (
+                            [Y] => !in_array(#VALUE#, #FIELD#)
+                            [N] => #FIELD# != #VALUE#
+                        )
+
+                    [PARENT] =>  && 
+                    [MULTI_SEP] =>  && 
+                    [VALUE] => Not
+                    [LABEL] => не равно
+                )
+
+        )
+
+    [JS_VALUE] => Array
+        (
+            [type] => input
+        )
+
+    [PHP_VALUE] => 
+    [PARENT] => 1
+    [MULTIPLE] => N
+)

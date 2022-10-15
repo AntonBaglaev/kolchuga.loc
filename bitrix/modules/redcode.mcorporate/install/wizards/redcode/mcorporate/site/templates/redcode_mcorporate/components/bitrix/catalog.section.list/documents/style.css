@@ -1,0 +1,68 @@
+
+.documents{margin: 0 0 50px 0;}
+	.documentsSection{margin: 0 0 40px 0;}
+	.documentsSection:last-child{margin: 0;}
+
+		.documentsTitle{display: inline-block; width: 31.33%; margin: 0 3% 3% 0; background: #555; color: #fff; box-sizing: border-box;
+			height: 350px; overflow: hidden; padding: 30px;
+		}
+			.documentsTitle h2{padding: 0 0 22px 0; font-size: 23px;}	
+			.documentsTitle p{line-height: 1.5;}
+
+		.documentsElement{display: inline-block; vertical-align: top; width: 31.33%; padding: 35px 30px 0 30px; box-sizing: border-box;
+			background: #fff; box-shadow: 0 1px 1px rgba(0,0,0, .12); border-radius: 1px; margin:0 3% 3% 0; min-height: 350px; transition: box-shadow .25s;
+		}
+		.documentsElement:hover{box-shadow: rgba(0,0,0, .12) 0 35px 90px;}
+		.documentsElement:nth-child(3n){margin-right: 0;}
+
+			.documentsElement .text{text-align: center;}
+				.documentsElement a{margin:0 0 20px 0; display: inline-block; position: relative;}
+					.documentsElement a i{position: absolute; top: 50%; left: 50%; background: #EF6C00; font-size: 28px;
+						padding: 16px; border-radius: 50%; margin: -30px 0 0 -30px; opacity: 0; transition: opacity .2s;
+					}
+						.documentsElement:hover a i{opacity: 1;}
+					.documentsElement img{max-height: 210px;}
+				.documentsElement .name{font-weight: 700;}
+
+
+@media all and (max-width: 1100px) {
+	.documentsTitle h2{font-size: 20px;}
+}
+
+@media all and (max-width: 1020px) {
+	.documentsTitle, .documentsElement{width: 47%; margin: 0 6% 6% 0;}
+	.documentsElement:nth-child(3n){margin-right: 6%;}
+	.documentsElement:nth-child(2n){margin-right: 0;}
+	.documentsTitle h2{font-size: 23px;}
+}
+
+@media all and (max-width: 900px) {
+	.documentsTitle, .documentsElement{width: 31.33%; margin: 0 3% 3% 0;}
+	.documentsElement:nth-child(2n){margin-right: 3%;}
+	.documentsElement:nth-child(3n){margin-right: 0;}
+}
+
+@media all and (max-width: 850px) {
+	.documentsTitle h2{font-size: 20px;}
+}
+
+@media all and (max-width: 740px) {
+	.documentsTitle, .documentsElement{width: 47%; margin: 0 6% 6% 0;}
+	.documentsElement:nth-child(3n){margin-right: 6%;}
+	.documentsElement:nth-child(2n){margin-right: 0;}
+	.documentsTitle h2{font-size: 23px;}
+}
+
+@media all and (max-width: 580px) {
+	.documentsTitle h2{font-size: 20px;}
+}
+
+@media all and (max-width: 550px) {
+	.documentsTitle, .documentsElement{width: 47.5%; margin: 0 5% 5% 0;}
+	.documentsElement:nth-child(3n){margin-right: 5%;}
+}
+
+@media all and (max-width: 510px) {
+	.documentsTitle, .documentsElement{width: 100%; margin: 0 0 20px 0 !important;}
+	.documentsTitle h2{font-size: 23px;}
+}

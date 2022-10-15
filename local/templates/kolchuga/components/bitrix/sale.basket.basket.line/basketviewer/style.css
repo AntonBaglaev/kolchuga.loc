@@ -1,0 +1,31 @@
+.basketviewer{
+	font: normal 14px/18px;
+	color:#1d355b;
+	position:absolute;
+	bottom:39px;
+	left:612px;
+z-index:100;
+}
+/*Table*/
+table.table-basket-line
+{
+	/* padding:3px;
+	font-size:12px; */
+	border-collapse:collapse;
+}
+table.table-basket-line td
+{
+	vertical-align:top;
+}
+table.table-basket-line td a
+{
+	color:#fff !important;
+}
+
+.basket-line-personal, .basket-line-basket
+{
+	width:16px; height:16px; background-repeat:no-repeat; display:block;
+}
+
+.basket-line-personal {background-image: url(images/personal.gif)}
+.basket-line-basket {background-image: url(images/basket.gif)}

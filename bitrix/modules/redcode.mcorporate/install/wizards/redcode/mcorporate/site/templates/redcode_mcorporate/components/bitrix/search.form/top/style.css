@@ -1,0 +1,69 @@
+
+.modalSearch{background-color: #fff; position: fixed; top: 200px; right: 0; left: 0; max-width: 790px; display:none; border-radius: 2px;
+	box-sizing: border-box; margin: 0 auto; z-index: 51; box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 6px 0px, rgba(0, 0, 0, .4) 0px 0px 1px 0px;
+}
+.modalSearch form:hover{box-shadow: rgba(0,0,0,.09) 0 35px 90px, rgba(0, 0, 0, .3) 0px 0px 1px 0px;}
+.modalSearch form:hover input[type="submit"]{background-color: #EF6C00;}
+
+	.modalSearch form{padding: 22px 22px 22px 35px; transition: box-shadow .12s ease;}
+		.modalSearch input[type="text"] {outline: none; border: none; padding: 10px 0; font-size: 26px; background: transparent; font-weight: 500;
+			width: 86%; box-sizing: border-box; margin: 0 3% 0 0; display: inline-block; vertical-align: middle; font-family: "Rubik", sans-serif;
+		}
+		.modalSearch .submit{width: 8%; display: inline-block; vertical-align: middle; text-align: right;}
+			.modalSearch input[type="submit"]{background: #555; font-size: 34px; width: 58px; transition: background-color .12s ease;
+				outline: none; border: none; height: 58px; border-radius: 50%; cursor: pointer; padding: 0; line-height: 58px;
+				-webkit-appearance: none;
+			}
+
+.searchCross{cursor: pointer; position: absolute; top: -37px; right: 19px; font-size: 17px; color: #fff; font-weight: 500;}
+	.searchCross:before, .searchCross:after{content: ""; position: absolute; width: 14px; height: 2px; background: #fff; top: 10px; right: -20px;}
+	.searchCross:before{transform: rotate(45deg);}
+	.searchCross:after{transform: rotate(-45deg);}
+
+
+.modalSearch input[type="text"]::-webkit-input-placeholder       {color: #bdbdbd; opacity: 1; transition: opacity .3s ease;}
+.modalSearch input[type="text"]::-moz-placeholder                {color: #bdbdbd; opacity: 1; transition: opacity .3s ease;}
+.modalSearch input[type="text"]:-moz-placeholder                 {color: #bdbdbd; opacity: 1; transition: opacity .3s ease;}
+.modalSearch input[type="text"]:-ms-input-placeholder            {color: #bdbdbd; opacity: 1; transition: opacity .3s ease;}
+.modalSearch input[type="text"]:focus::-webkit-input-placeholder {opacity: 0; transition: opacity .3s ease;}
+.modalSearch input[type="text"]:focus::-moz-placeholder          {opacity: 0; transition: opacity .3s ease;}
+.modalSearch input[type="text"]:focus:-moz-placeholder           {opacity: 0; transition: opacity .3s ease;}
+.modalSearch input[type="text"]:focus:-ms-input-placeholder      {opacity: 0; transition: opacity .3s ease;}	
+
+	
+@media all and (max-width: 865px) {
+	.modalSearch{right: 30px; left: 30px;}
+		.modalSearch .submit{width: 13%;}
+		.modalSearch input[type="text"]{width: 81%;}
+}
+
+@media all and (max-width: 630px) {
+	.modalSearch .submit{width: 19%;}
+	.modalSearch input[type="text"]{width: 78%; margin: 0;}
+}
+
+@media all and (max-width: 540px) {
+	.modalSearch .submit{width: 21%;}
+	.modalSearch input[type="text"]{width: 75%; font-size: 23px;}
+}
+
+@media all and (max-width: 500px) {
+	.modalSearch input[type="text"]{font-size: 21px;}
+}
+
+@media all and (max-width: 460px) {
+	.modalSearch form{padding: 12px 12px 12px 20px;}
+	.modalSearch input[type="submit"]{width: 44px; height: 44px; font-size: 26px; line-height: 44px;}
+}
+
+@media all and (max-width: 400px) {
+	.modalSearch{right: 20px; left: 20px;}
+}
+
+@media all and (max-width: 380px) {
+	.modalSearch input[type="text"]{font-size: 17px;}
+}
+
+@media all and (max-width: 340px) {
+	.modalSearch input[type="submit"]{width: 40px; height: 40px; font-size: 24px; line-height: 40px;}
+}

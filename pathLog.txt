@@ -1,0 +1,1 @@
+/var/www/admin/data/www/kolchuga.ru/html/bitrix/modules/sale/install/components/bitrix/sale.personal.order/templates/.default/bitrix//var/www/admin/data/www/kolchuga.ru/html/bitrix/components/bitrix/sale.personal.order/templates/.default/bitrix/

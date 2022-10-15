@@ -1,0 +1,33 @@
+.catalog-top{
+	border-collapse:collapse;
+	width:100%;
+	table-layout:fixed;
+}
+.catalog-top .element_catalog,
+.catalog-top .data-cell{
+	vertical-align:top;
+}
+.catalog-top .data-cell{
+	padding:0 10px 30px;
+}
+.catalog-top .element_catalog .content_section{
+	width:90%;
+}
+.catalog-top .element_catalog .content_section .info_section{
+	padding:0 10px;
+}
+.catalog-price {
+	font:italic normal 24px/28px Georgia, tahoma, arial, sans-serif;
+	color:#b2b2b2;
+}
+.catalog-no_price{
+	font:italic normal 14px/28px Georgia, tahoma, arial, sans-serif;
+	color:#666;
+}
+.catalog-section h3{
+	padding-bottom:5px;
+}
+.img_section{
+	width:200px;
+	height:150px;
+}

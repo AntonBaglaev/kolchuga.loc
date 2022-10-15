@@ -1,0 +1,24 @@
+<?php
+$aMenuLinks = array(
+	array(
+		"Статьи", 
+		"#SITE_DIR#articles/", 
+		array(), 
+		array(), 
+		"" 
+	),
+	array(
+		"Новости", 
+		"#SITE_DIR#news/", 
+		array(), 
+		array(), 
+		"" 
+	),
+	array(
+		"Акции", 
+		"#SITE_DIR#shares/", 
+		array(), 
+		array(), 
+		"" 
+	),
+);

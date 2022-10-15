@@ -1,0 +1,95 @@
+.profile-block-hidden
+{
+	display: none;
+}
+
+.profile-block-shown
+{
+	display:block;
+}
+
+.profile-table
+{
+	width: 100%;
+}
+
+.profile-link
+{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: bold;
+}
+
+.profile-table td {
+	vertical-align: top;
+	width:50%;
+}
+
+div.bx-auth-profile input.bx-auth-input {vertical-align:middle;}
+div.bx-auth-profile span.bx-auth-secure {background-color:#FFFAE3; border:1px solid #DEDBC8; padding:2px; display:inline-block; vertical-align:middle;}
+div.bx-auth-profile div.bx-auth-secure-icon {background-image:url(images/sec.png); background-repeat:no-repeat; background-position:center; width:19px; height:18px;}
+div.bx-auth-profile div.bx-auth-secure-unlock {background-image:url(images/sec-unlocked.png);}
+
+
+.w50 {
+	float: left;
+	width: 50%;
+}
+
+.req {
+	color: #f00;
+}
+
+.form-profile {
+	max-width: 350px;
+}
+
+.form-profile * {
+	box-sizing: border-box;
+}
+
+.form-profile .form-group {
+	margin-bottom: 12px;
+}
+
+.form-profile input[type="text"],
+.form-profile input[type="password"],
+.form-profile textarea{
+	padding: 5px 5px;
+	border: 1px solid #ccc;
+	outline: none;
+	box-shadow: none;
+	display: block;
+	font-size: 14px;
+	width: 100%;
+}
+
+.form-profile .captcha input[name="captcha_word"] {
+	display: inline-block;
+    height: 40px;
+    vertical-align: top;
+    width: 80px;
+    text-align: center;
+    margin-left: -4px;
+}
+.form-profile input[type="submit"] {
+	display: inline-block;
+	outline: none;
+	box-shadow: none;
+	padding: 7.5px 15px;
+	line-height: 1;
+	border-radius: 3px;
+	border: 1px solid transparent;
+	background: #1d355b;
+	color: #fff;
+	font-size: 21px;
+	text-align: center;
+	text-transform: uppercase;
+	display: block;
+	width: 100%;
+}
+.form-profile input[type="submit"]:hover {
+	cursor: pointer;
+}

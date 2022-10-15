@@ -1,0 +1,3 @@
+
+#global_menu_redcode_mcorporate .adm-main-menu-item-icon{background: url("../../images/redcode.mcorporate/logo.png") no-repeat center; opacity: 0.9;}
+#global_menu_redcode_mcorporate.adm-main-menu-item-active .adm-main-menu-item-icon, #global_menu_redcode_mcorporate:hover .adm-main-menu-item-icon{opacity: 1;}

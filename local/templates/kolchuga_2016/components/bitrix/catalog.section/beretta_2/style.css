@@ -1,0 +1,28 @@
+/* Position child elements relative to this element */
+.block_bereta_items2 .aspect-ratio-box {
+    position: relative;
+	display: block;
+}
+
+/* Create a pseudo element that uses padding-bottom to take up space */
+.block_bereta_items2 .aspect-ratio-box::after {
+    display: block;
+    content: '';
+    /* 16:9 aspect ratio 
+    padding-bottom: 56.25%;
+    padding-bottom: 86,78%;
+    padding-bottom: 57.58%;*/
+    padding-bottom: 66.66%;
+}
+
+/* Image is positioned absolutely relative to the parent element */
+.block_bereta_items2 .aspect-ratio-box img {
+    /* Image should match parent box size */
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.block_bereta_items2 .flex-direction-nav a {z-index:0}

@@ -1,0 +1,60 @@
+
+.staff{margin: 0 0 45px 0;}
+	.staffSection{margin: 0 0 40px 0;}
+	.staffSection:last-child{margin: 0;}
+
+		.staffTitle{display: inline-block; height: 305px; width: 31.33%; margin: 0 3% 3% 0; background:#555; color: #fff; box-sizing: border-box;
+			overflow: hidden; padding: 30px;
+		}
+			.staffTitle h2{padding: 0 0 22px 0; font-size: 23px;}	
+			.staffTitle p{line-height: 1.5;}
+			
+		.staffElement{display: inline-block; vertical-align: top; width: 31.33%; box-sizing: border-box; margin: 0 3% 3% 0; height: 305px;
+			position: relative; background-size: cover; background-repeat: no-repeat; background-position: center;
+		}
+		.staffElement:nth-child(3n){margin-right: 0;}
+
+			.staffText{font-size: 13px; color:#fff; position: absolute; left: 0; bottom: 0; right: 0; padding: 0 15px 15px 15px;
+				background: linear-gradient(to bottom, rgba(0,0,0, .0), rgba(0,0,0, .7));
+			}
+				.staffText .post{padding: 70px 0 0 0; opacity: .7;}
+				.staffText .name{font-weight: 700; padding: 3px 0 0 0; font-size: 17px;}
+				.staffText .blockTitle{padding: 6px 0 0 0; opacity: .7;}
+					.staffText .phone{margin: 0 0 4px 0;}
+
+
+.bannerVacancies{border-left: 6px solid #eb5e28; padding: 0 0 0 60px; margin: 0 0 70px 0;}
+	.bannerVacancies p{color: #4f4f4f; font-size: 16px; width: 76%; display: inline-block; vertical-align: middle; line-height: 1.5;}
+		.bannerVacancies p span{font-weight: 700; color: #131720; font-size: 20px; margin: 0 0 8px 0; display: block;}
+	.bannerVacancies div{width: 24%; display: inline-block; vertical-align: middle; text-align: right;}
+		.bannerVacancies div a{background: #eb5e28; font-size: 13px; font-weight: 500; text-transform: uppercase; padding: 15px 52px;
+			border-radius: 30px; color: #fff; border: none; display: inline-block;
+		}
+
+
+@media all and (max-width: 1020px) {
+	.staffTitle, .staffElement{width: 47%; margin: 0 6% 6% 0;}
+	.staffElement:nth-child(3n){margin-right: 6%;}
+	.staffElement:nth-child(2n){margin-right: 0;}
+}
+
+@media all and (max-width: 900px) {
+	.staffTitle, .staffElement{width: 31.33%; margin: 0 3% 3% 0;}
+	.staffElement:nth-child(2n){margin-right: 3%;}
+	.staffElement:nth-child(3n){margin-right: 0;}
+}
+
+@media all and (max-width: 730px) {
+	.staffTitle, .staffElement{width: 47%; margin: 0 6% 6% 0;}
+	.staffElement:nth-child(3n){margin-right: 6%;}
+	.staffElement:nth-child(2n){margin-right: 0;}
+}
+
+@media all and (max-width: 550px) {
+	.staffTitle, .staffElement{width: 47.5%; margin: 0 5% 5% 0;}
+	.staffElement:nth-child(3n){margin-right: 5%;}
+}
+
+@media all and (max-width: 500px) {
+	.staffTitle, .staffElement{width: 100%; margin: 0 0 20px 0 !important;}
+}

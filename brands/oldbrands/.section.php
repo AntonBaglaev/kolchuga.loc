@@ -1,0 +1,6 @@
+<?
+$sSectionName = "oldbrands";
+$arDirProperties = Array(
+
+);
+?>

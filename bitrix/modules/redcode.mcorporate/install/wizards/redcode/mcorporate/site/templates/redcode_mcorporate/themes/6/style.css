@@ -1,0 +1,85 @@
+
+/* header */
+	.logo_detail img{background: #3F51B5;}
+	.slideTextDetail div a{background: #3F51B5; box-shadow: 0 2px 8px rgba(63,81,181, .27);}
+
+	.mainTitle{background: #3F51B5;}
+/* header */
+
+
+/* footer */
+	.footerMenu a:hover{color: #3F51B5;}
+/* footer */
+
+
+/* modal */
+	.menuTopInfo div a{color: #3F51B5;}
+	.menuHeader a img{background: #3F51B5;}
+	.modalHeader{background: #3F51B5;}
+	.modalClose{color: #3F51B5;}
+	.modal .modalSend{background: #3F51B5; box-shadow: 0 2px 8px rgba(63,81,181, .27);}
+	.buttonTop{background: #3F51B5; box-shadow: 0 2px 8px rgba(63,81,181, .27);}
+/* modal */
+
+
+/* index */
+	.thesesItem img{background: #3F51B5;}
+	.thesesItem .icon{color: #3F51B5;}
+	
+	.indexServices_button{color: #3F51B5;}
+	.indexServicesItem:hover .indexServices_button{background: #3F51B5; box-shadow: 0 2px 8px rgba(63,81,181, .27);}
+	
+	.item_reviews.active .IR_position{color: #3F51B5;}
+	.item_reviews.active q{color: #3F51B5;}
+	.indexReviews .owl-nav div{box-shadow: 0 2px 8px rgba(63,81,181, .27); background: #3F51B5;}
+	.indexReviews .reviewsDots .owl-dot.active, .indexReviews .reviewsDots .owl-dot:hover{background: #3F51B5;}
+	
+	.indexNewsButton a{background: #3F51B5; box-shadow: 0 2px 8px rgba(63,81,181, .27);}
+
+	.mapContacts{background: #3F51B5;}
+	.mapCallback .modalSend{background: #3F51B5; box-shadow: 0 2px 8px rgba(63,81,181, .27);}
+/* index */
+
+
+/* personal_info */
+	.personalInfo label a{color: #3F51B5;}
+	.personalInfo label.ckecked:after{background-color: #3F51B5;}
+/* personal_info */
+
+
+.projectsItem_img > p{background-color: #3F51B5;}
+
+.paginationContainer ul li:not(.bx-pag-prev):not(.bx-pag-next) a:hover span{color: #3F51B5;}
+
+.historyDate{color: #3F51B5;}
+.partnersElement .text .email{color: #3F51B5;}
+.documentsElement a i{background: #3F51B5;}
+.reviewsText .title p{background: #3F51B5;}
+.reviewsText q{color: #3F51B5;}
+.VE_accordion .name i{background: #3F51B5;}
+.VE_accordion .price{color: #3F51B5;}
+.vacanciesButton{border-color: #3F51B5; color: #3F51B5;}
+	.vacanciesButton:hover{background: #3F51B5;}
+
+.leftShareButton{background: #3F51B5; box-shadow: 0 2px 8px rgba(63,81,181, .27);}
+.servicesItem_button{color: #3F51B5;}
+.servicesItem:hover .servicesItem_button{background: #3F51B5; box-shadow: 0 2px 8px rgba(63,81,181, .27);}
+#askQuestion a{background: #3F51B5; box-shadow: 0 2px 8px rgba(63,81,181, .27);}
+#askQuestion .markQuestion p{color: #3F51B5;}
+.onTopicArticle .img span{background: #3F51B5;}
+.newsDetail q:before{color: #3F51B5;}
+.tabulationHeader h2.active{background: #3F51B5;}
+.priceHeader{color: #3F51B5;}
+.priceHeader .td_1, .priceHeader .td_3{color: #3F51B5;}
+.showMore .showMoreButton{background: #3F51B5; box-shadow: 0 2px 8px rgba(63,81,181, .27);}
+.newsDetailTitle div:nth-child(2){color: #3F51B5;}
+.elementNews .title .shareDate{color: #3F51B5;}
+.newsDetailTitle .shareDate{color: #3F51B5;}
+
+.priceSection > h2 i{background: #3F51B5;}
+
+.mapCallback .modalBody .changeInput{border-bottom-color: #3F51B5;}
+.inputField:focus + .inputLabel, .changeInput .inputLabel, .messageField:focus + .inputLabel{color: #3F51B5;}
+.modal .modalBody .changeInput{border-bottom-color: #3F51B5;}
+
+.modalSearch form:hover input[type="submit"]{background: #3F51B5;}

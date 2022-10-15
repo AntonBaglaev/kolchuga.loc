@@ -1,0 +1,57 @@
+/*Table*/
+table.sale_basket_basket,
+.table_bot
+{
+	width:100%;
+	border-collapse:collapse;
+	font-size:15px;
+}
+
+/*Table head*/
+table.sale_basket_basket th
+{
+	text-align: left;
+	color:#888888;
+	font-weight:normal;
+	padding:12px 20px;
+}
+
+/* Table cells and heads*/
+table.sale_basket_basket th, table.sale_basket_basket td
+{
+	border-bottom:1px dotted #ababab;
+	vertical-align:top;
+}
+table.sale_basket_basket td{
+	padding: 15px 20px;
+}
+/* .basket_inf .dib{
+	vertical-align:top;
+} */
+.basket_inf  img{
+	margin-right:30px;
+}
+.basket_inf .dib.info_good{
+	max-width:310px;
+	padding-top:5px;
+	overflow:hidden;
+	/* min-width:180px; */
+}
+table.sale_basket_basket h2{
+	color:#888;
+	font-size:20px;
+	padding-bottom:0;
+}
+table.sale_basket_basket .price_all{
+	color:#888;
+	font-size: 24px;
+}
+table.sale_basket_basket .last_tr td{
+	border-bottom:none;
+}
+.table_bot td{
+	vertical-align:top;
+}
+.sale_basket_basket .input_inside{
+	text-align:right;
+}

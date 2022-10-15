@@ -1,0 +1,41 @@
+.img_block_gallery{
+    overflow: hidden;
+    /*margin:0 50px;*/
+    position: relative;
+}
+.menu_img{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+.menu_img li{
+	/* display: inline-block;
+    float: none !important;
+    margin: 0;
+    text-align: center;
+    vertical-align: middle; */
+    width: 160px;
+	
+}
+.jcarousel-clip {
+    overflow: hidden;
+}
+.jcarousel-prev, .jcarousel-next {
+    cursor: pointer;
+    display: block;
+    height: 38px;
+    position: absolute;
+    top: 6px;
+    width: 38px;
+}
+.jcarousel-prev {
+   /* background: url("/images/prev-horizontal.png") no-repeat scroll 0 0 transparent;*/
+    left: -40px;
+}
+.jcarousel-next {
+   /* background: url("/images/next-horizontal.png") no-repeat scroll 0 0 transparent;*/
+    right: -40px;
+}
+.jcarousel-prev:hover, .jcarousel-next:hover, .jcarousel-prev-disabled, .jcarousel-next-disabled {
+   /* background-position: 100% 0;*/
+}

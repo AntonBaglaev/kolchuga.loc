@@ -1,0 +1,675 @@
+/*
+
+THIS FILE IS OVERWRITTEN WHEN THE SOLUTION IS UPDATED
+--------
+FAIL ZATIRAETSY PRI OBNOVLENII RESHENIY
+
+*/
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {display: block;}
+ol,ul{list-style-position: inside;}
+ul, menu, dir{margin: 0; padding: 0;}
+h1,h2,h3,h4,h5,h6 {font-weight: 700; margin: 0;}
+p{margin: 0;}
+a {color: #067ec3; text-decoration: none;}
+img {border: none;}
+.clear {clear: both;}
+html{height: 100%;}
+body{color: #212121; font-size: 15px; background: #F6f6f6; font-family: "Rubik", sans-serif; margin: 0;}
+
+
+
+/*------------------
+--- ICONS CLASS ---
+----------------*/
+
+.materialIcons {font-family: "Material Icons"; font-weight: normal; font-style: normal; font-size: 24px; display: inline-block; line-height: 1;
+	text-transform: none; letter-spacing: normal; word-wrap: normal; white-space: nowrap; direction: ltr; color: #fff;
+	/* Support for all WebKit browsers. */
+	-webkit-font-smoothing: antialiased;
+	/* Support for Safari and Chrome. */
+	text-rendering: optimizeLegibility;
+	/* Support for Firefox. */
+	-moz-osx-font-smoothing: grayscale;
+	/* Support for IE. */
+	font-feature-settings: "liga";
+}
+
+
+
+/*------------------
+--- DOP STYLES ---
+----------------*/
+
+.indexWrapper{max-width: 1200px; margin: 0 auto;}
+	.backgroundWhite{background: #fff;}
+.indexBackground{background: #F6f6f6;}
+
+.mainTitle{padding: 45px 0 100px 0; background: #EF6C00; color: #fff;}
+	.mainTitle h1 {font-size: 42px; line-height: 1; margin: 36px auto 0 auto; max-width: 1200px;}
+	.mainTitle h1.max{font-size: 48px;}
+	.mainTitle h1.min{font-size: 37px;}
+
+.workArea{max-width: 1200px; margin: 0 auto; position: relative;}
+	main{float: right; width: 73.4%; margin-top: -50px;}
+	main.fullMain{float: none; width: 100%;}
+		main.fullMain .company{padding: 30px 0 1px 0;}
+		main .boxShadow, main.boxShadow{box-shadow: 0 1px 1px rgba(0,0,0, .12); margin-bottom: 75px;}
+	.sidebar{float: left; width: 23%;}
+
+
+
+/*------------------
+-- HEADER SITE ---
+----------------*/
+
+body.detailed header{position: inherit; background: none;}
+	body.detailed header .request_call{color: #F6F6F6; box-shadow: 0 2px 5px rgba(0,0,0, .17); background: #555; padding: 13px 0 14px 0;}
+	
+	body.detailed header .topMenu{opacity: .68; color: #000;}
+		body.detailed header .topMenu:hover{opacity: 1;}
+	
+	 body.detailed header #topSearch {opacity: .68; color: #000;}
+		body.detailed header #topSearch:hover {opacity: 1;}
+		
+	body.detailed header .headerWrap {padding: 27px 0;}
+	
+	.headerMenu .triangle{border: none;}
+		.headerMenu > ul > li > a{color: #fff;}
+	body.detailed .headerMenu .triangle{border: 1px solid #d8d8d8;}
+		body.detailed .headerMenu > ul > li > a{color: #555;}
+
+
+header {position: absolute; z-index: 10; left: 0; right: 0; background: linear-gradient(to top, rgba(0,0,0, .0), rgba(0,0,0, .5))}
+	.headerWrap{max-width: 1200px; margin: 0 auto; padding: 27px 0 70px 0;}
+	.headerWrap > div{display: inline-block; min-width: 12px; vertical-align: middle;}
+		.logo, .logo_detail{margin: 0 41px 0 0;}
+			.logo img{max-width: 100%; max-height: 60px; display: block;}
+			.logo_detail .logoNoBackground img{background: none;}
+			.logo_detail img{max-width: 100%; max-height: 60px; display: block; background: #EF6C00;}
+			
+		header .topMenu{font-size: 32px; cursor: pointer; margin: 0 10px 0 0;}
+
+		#topSearch{float: right; font-size: 28px; cursor: pointer; margin: 17px 0 0 0;}
+
+		.top_callBack{float: right; margin: 7px 35px 0 0;}
+			.request_call{width: 175px; color: #fff; padding: 13px 0 14px 0; text-align: center; background: rgba(255,255,255, .2); cursor: pointer;
+				font-weight: 500; transition: background .25s ease; font-size: 15px; border-radius: 2px;
+			}
+			.request_call:hover {background: rgba(255,255,255, .3);}
+		
+/*------------------
+-- HEADER SITE ---
+----------------*/
+
+
+
+/*------------------------
+------- FOOTER SITE -------
+------------------------*/
+
+body.detailed footer{background: #eee; padding: 55px 0 30px 0;}
+
+footer{padding: 130px 0 30px 0; background: #fff;}
+	.footerWrap{max-width: 1200px; margin: 0 auto;}
+		.footerHeader{margin: 0 0 40px 0;}
+			.footerBlock{display: inline-block; vertical-align: top;}	
+				.footerBlock p{margin: 0 0 4px 0;}
+		
+		.footerCopyright{width: 20%; color: #b5b5b5; font-weight: 400; font-size: 13px; line-height: 1.5; padding: 0 30px 0 0; box-sizing: border-box;}
+			.footerCopyright div{margin: 0 0 10px 0;}
+			.footerCopyright a{color: #555; text-decoration: underline; font-weight: 500;}
+			.footerCopyright a:hover{text-decoration: none;}
+			
+		.footerContacts{width:33%; margin: -4px 5% 0 0; color: #555;}
+			.footerContacts div{ line-height: 1.6; margin: 0 0 9px 0;}
+			.footerContacts div:last-child{margin: 0;}
+				.footerContacts span{font-weight: 700;}
+
+		.footerMenu{width: 22%; overflow: hidden; margin-top: -1px;}
+
+		.footerSocial{width: 20%;}
+
+.buttonPosition{position: fixed; right: 31px; bottom: -61px; z-index: 30; transition: bottom .3s ease; min-width: 12px;}
+.buttonTop{width: 50px; border-radius: 50%; height: 50px; text-align: center; line-height: 51px; box-shadow: 0 2px 8px rgba(239,108,0, .27);
+	cursor: pointer; background: #EF6C00; font-size: 32px;
+}
+.buttonMenu{position: fixed; right: 36px; bottom: -61px; width: 47px; border-radius: 50%; height: 47px; transition: bottom .3s ease;
+	cursor: pointer; background: #fff; z-index: 30; box-shadow: 0 4px 7px 0 rgba(0,0,0,.15), rgba(0, 0, 0, .2) 0px 0px 1px 0px;
+	color: #000; font-size: 28px; text-align: center; line-height: 47px; display: none;
+}
+.buttonSearch{position: fixed; right: 36px; bottom: -61px; width: 47px; border-radius: 50%; height: 47px; transition: bottom .3s ease;
+	cursor: pointer; background: #fff; z-index: 30; box-shadow: 0 4px 7px 0 rgba(0,0,0, .15), rgba(0, 0, 0, .2) 0px 0px 1px 0px;
+	color: #000; font-size: 27px; text-align: center; line-height: 47px; display: none;
+}
+
+/*------------------------
+------- FOOTER SITE -------
+------------------------*/
+
+
+
+/*--------------------------------
+--- ABOUT THE COMPANY (DETAILED) ---
+--------------------------------*/
+
+.company{margin: 0 0 80px 0; background: #fff; box-shadow: 0 1px 1px rgba(0,0,0,.12); padding-top: 28px; padding-bottom: 1px;}
+
+/*--------------------------------
+--- ABOUT THE COMPANY (DETAILED) ---
+--------------------------------*/
+
+
+
+/*----------------------------
+--- MAP WITH CONTACTS (HOME) ---
+----------------------------*/
+
+.map{position: relative;}
+	.wrapper_map{position: absolute; left: 50%; top: -45px; width: 1200px; margin-left: -600px; z-index: 1; height: 0;}
+		.map_inside{max-width: 660px; position: relative;}
+			.mapContacts{position: absolute; right: -30px; top: 86px; background: #EF6C00; color: #fff; padding: 35px 65px 192px 30px; box-sizing: border-box;
+				width: 292px; cursor: pointer; transition: right .2s ease; box-shadow: rgba(0, 0, 0, .19) 0px 12px 40px 0px; display: none;
+			}
+			.mapContacts.open{right: -292px;}
+			.mapContacts:not(.open):hover{right: -80px;}
+			
+				.mapContacts h2{font-size: 21px; font-weight: 700; margin: 0 0 33px 0;}
+				.contactAddress, .contactPhone, .contactEmail{line-height: 1.5; margin: 0 0 19px 0; font-weight: 300; display:none;}
+				.mapContacts div:last-child{margin: 0;}
+					.contactAddress span, .contactPhone span, .contactEmail span{font-weight: 300; }
+				
+
+	.mapCallback{padding: 40px 50px 29px 50px; background: #fff; position: relative; box-shadow: rgba(0, 0, 0, 0.12) 0px 20px 60px 0px, rgba(0, 0, 0, 0.4) 0px 0px 1px 0px;}
+		.mapCallback h3{color: #191919; font-size: 23px; font-weight: 700; margin: 0 0 70px 0;}
+		.mapCallback_wrapper{position: relative;}
+				
+				.mapCallback .modalBody > div.miniBlock{display: inline-block; vertical-align: top; width: 45%; margin: 0 10% 0 0;}
+					.mapCallback .modalBody > div.miniBlock:nth-child(2n){margin-right: 0;}
+				.map .mapCallback .bigBlock > div{margin: 0 0 54px 0;}
+			
+					.mapCallback .modalBody > div > div{margin: 0 0 73px 0; position: relative; border-bottom: 1px solid #E4E4E4;}
+						 .mapCallback .messageField{min-height: 100px;}
+
+
+	.mapCallback .buttonAnimation{position: absolute; right: 50px; border-radius: 50%; bottom: -36px; background: #fff; width: 73px;
+		height: 73px; transition: background .25s;
+	}
+		.mapCallback .modalSend{color: #fff; font-size: 28px; padding: 0 0 0 6px; line-height: 73px; background-color: transparent; height: 73px;
+			border: 0; cursor: pointer; outline: none; width: 73px; background: #EF6C00; box-shadow: 0 2px 8px rgba(239,108,0, .27);
+			border-radius: 50%; -webkit-appearance: none;
+		}
+
+		.mapCallback .moreAnimationBlock{display: none; top: 49%;}
+			.mapCallback .moreAnimationBlock:after{display: none;}
+			.mapCallback .moreAnimationBlock:before{height: 44px; width: 44px; margin: -23px 0 0 -23px;}
+			
+/*----------------------------
+--- MAP WITH CONTACTS (HOME) ---
+----------------------------*/
+
+
+
+/*--------------------------------------------------
+--- STYLES OF THE LIST OF NEWS, ARTICLES AND SHARES ---
+---------------------------------------------------*/
+
+.allNews{margin: -40px 0 75px 0;}
+	.elementNews{display: inline-block; width: 31.33%; background: #fff; box-shadow: 0 1px 1px rgba(0,0,0, .12);
+		box-sizing: border-box; margin: 0 3% 3% 0; font-weight: 500; vertical-align: top; transition: box-shadow .25s;
+	}
+	.elementNews:hover{box-shadow: rgba(0,0,0, .09) 0 35px 90px;}
+	.elementNews:nth-child(3n){margin-right: 0;}
+	.elementNews:nth-last-child(1), .elementNews:nth-last-child(2), .elementNews:nth-last-child(3){margin-bottom: 0;}
+		.elementNews .img{margin: 0 0 25px 0; height: 230px; display: block;}
+		.elementNews .allText{margin: 0 33px 33px 33px;}
+			.elementNews .title{margin: 0 0 17px 0; font-size: 11px;}
+				.elementNews .tag{color: #fff; background: #555555; padding: 7px 12px; font-size: 9px; border-radius: 2px; display: inline-block; margin: 0 15px 0 0; text-transform: uppercase;}
+				.elementNews .date{color: #bbb; display: inline-block;}
+				
+			.elementNews .newsName{margin: 0 0 45px 0; font-size: 17px; font-weight: 500; color: #212121;}
+				.elementNews a.newsName:hover{text-decoration: underline;}
+
+.showMore{text-align: center; margin: 0 0 65px 0; position:relative;}
+	.showMore .showMoreButton{border-radius: 2px; padding: 13px 25px 14px 25px; display: inline-block;
+		font-weight: 500; color: #fff; cursor: pointer; background: #EF6C00; box-shadow: 0 2px 8px rgba(239,108,0, .27);
+	}
+	.showMoreButton.fade{display: none;}
+	.showMore .showMoreButton:hover{}
+
+.hidden{display: none;}
+
+.moreAnimation{display: none; height: 52px;}
+	.moreAnimationBlock, .moreAnimationBlock::before, .moreAnimationBlock::after{position: absolute; top: 50%; left: 50%;
+		border: 1px solid rgb(204,204,204); border-left-color: rgb(0,0,0); border-radius: 1124px;
+	}
+	.moreAnimationBlock{margin: -29px 0 0 -29px; height: 56px; width: 56px; animation: moreAnimation 1600ms linear infinite;}
+	.moreAnimationBlock::before{content: ""; margin: -26px 0 0 -26px; height: 50px; width: 50px; animation: moreAnimation 1600ms linear infinite;}
+	.moreAnimationBlock::after{content: ""; margin: -33px 0 0 -33px; height: 63px; width: 63px; animation: moreAnimation 3200ms linear infinite;}
+
+@keyframes moreAnimation {
+	100% {
+		transform: rotate(360deg);
+	}
+}
+
+/*--------------------------------------------------
+--- STYLES OF THE LIST OF NEWS, ARTICLES AND SHARES ---
+---------------------------------------------------*/
+
+
+
+/*--------------------------
+--- BLOCK SHARE / BACK PAGE ---
+---------------------------*/
+
+.backAndShare{position: absolute; right: 72px; bottom: -30px;}
+.backAndShare > div{display: inline-block; vertical-align: middle;}
+	.buttonBack{margin: 13px 40px 0 0; display: none !important;}
+		.buttonBack a{font-weight: 500; color: #EB5E28; position: relative; padding: 0px 0 0 50px; transition: color .3s ease;}
+		.buttonBack a:before{background: #EB5E28 url("img/buttonBack.png") no-repeat center; border-radius: 50%; position: absolute; left: 0;
+			padding: 17px; content: ""; top: -8px;
+		}
+		.buttonBack a:hover{color: #EB5E28}
+
+	.leftShare{position: relative;}
+		.leftShareButton{background: #ef6c00; padding: 20px 21px 20px 19px; border-radius: 50%; color: #fff; font-size: 21px; cursor: pointer;
+			box-shadow: 0 2px 8px rgba(239,108,0, .27);
+		}
+		.modalShare{display: none; position: absolute; right: 85px; top: 3px;}
+			.modalShareWrapper{position: relative; width: 235px; box-shadow: 0 2px 11px 0 rgba(0,0,0,.2), rgba(0, 0, 0, 0.37) 0px 0px 1px 0px;}
+				.modalShare .triangle{position: absolute; width: 24px; height: 24px; right: -7px; background: #fff; transform: rotate(-45deg);
+					border: 1px solid #d8d8d8; top: 15px;
+				}
+				.modalShare .ya-share2{padding: 10px; background: #fff; position: relative;}
+					.leftShare .ya-share2__container_size_m .ya-share2__item{margin: 6px;}
+					
+				.ya-share2 .ya-share2__badge{background: none !important;}
+				.ya-share2__container_size_m .ya-share2__icon{-webkit-filter: invert(100%); filter: invert(100%); transition: opacity .25s;
+					opacity: .68;
+				}
+				.ya-share2__container_size_m .ya-share2__icon:hover{opacity: 1;}
+				.ya-share2__container_size_m .ya-share2__counter{display: none;}
+
+/*--------------------------
+--- BLOCK SHARE / BACK PAGE ---
+---------------------------*/
+
+
+
+/*----------------------------------
+--- CONTACTS - DETAILED PAGE ---
+-----------------------------------*/
+
+.requisitesWriteUs{margin: 90px 0; position: relative;}
+
+	.requisitesWriteUs .contactsData{font-size: 17px; margin: 0 0 55px 0;}
+		.requisitesWriteUs .contactsData span{background: #555; color: #fff; font-weight: 500; padding: 7px 16px; margin: 0 10px 0 0;
+			display: inline-block; font-size: 17px; vertical-align: middle; border-radius: 2px;
+		}
+		.requisitesWriteUs .contactsData p{display: inline-block; max-width: 260px; vertical-align: middle;}
+		
+	.requisitesWriteUs .mapCallback{position: absolute; right: 0; top: -130px; z-index: 2; max-width: 720px; box-sizing: border-box;
+		padding: 40px 50px 60px 50px;
+	}
+		.requisitesWriteUs .mapCallback div.miniBlock > div{margin: 0 0 65px 0;}
+		.requisitesWriteUs .mapCallback .bigBlock > div{margin: 0;}
+		.requisitesWriteUs .mapCallback .buttonAnimation{bottom: -36px; right: 50px;}
+.contactMap {height: 560px; overflow: hidden;}
+
+/*----------------------------------
+--- CONTACTS - DETAILED PAGE ---
+-----------------------------------*/
+
+
+
+/*------------------------
+--- MODAL WINDOWS ---
+------------------------*/
+
+.modal{display: none; position: fixed; overflow: hidden; bottom: 0; right: 0; left: 0; top: 0; z-index: 50;}
+	.modalWrapper{width: 100%; margin: 80px auto; background: #fff; max-width: 410px;}
+	
+		.modalHeader{position: relative; padding: 45px; background: #EF6C00;}
+			.modalHeader h3{font-weight: bold; font-size: 21px; color: #fff;}
+			.modalClose{background: #fff; width: 47px; height: 47px; cursor: pointer; border-radius: 50%; line-height: 48px; text-align: center;
+				position: absolute; top: -23.5px; right: -23.5px; box-shadow: 0 2px 2px 0 rgba(0,0,0, .16), 0 0 0 1px rgba(0,0,0, .08); color: #EF6C00;
+				font-size: 26px;
+			}
+
+		.modal .modalBody{padding: 65px 46px 0 46px; margin: 0 0 30px 0;}
+			.modal .modalBody > div{margin:0 0 60px 0; position: relative; border-bottom: 1px solid #E1E1E1;}
+			.modal .modalBody > div:last-child{margin: 0;}
+			
+				.inputField{font-size: 16px; color: #121822; outline: none; position: relative; display: block; width: 100%;
+					padding: 0 0 9px 0; font-weight: 500; border: none; font-family: "Rubik", sans-serif;
+				}
+				.inputLabel{position: absolute; top: 0; color: #9B9B9B; font-size: 17px; width: 100%; pointer-events: none; font-weight: 400;
+					transform-origin: 0 0; transition: transform .2s; transition-timing-function: ease-out;
+				}
+				.messageField{font-weight: 500; font-size: 17px; color: #121822; outline: none; min-height: 20px; padding: 0 0 8px 0;}
+				.fileForm{border-bottom: 1px solid #E4E4E4; padding: 3px 0;}
+					.fileForm input[name='userFile']{position: absolute; top: 0; left: 0; right: 0; bottom: 0; filter: alpha(opacity=0); opacity: 0;}
+					.fileForm span{display: block; height: 20px;}
+				.fileID{display: none;}
+				
+				.inputField:focus + .inputLabel, .changeInput .inputLabel, .messageField:focus + .inputLabel{
+					color: #eb5e28; transform: translate3d(0, -23px, 0) scale3d(0.75, 0.75, 1); font-weight: 400;
+				}
+				.modal .modalBody .changeInput{border-bottom: 2px solid #eb5e28;}
+				
+		.modalFooter{text-align: center; padding: 35px 45px;}
+			.modal .buttonAnimation{margin: 0 0 40px 0; position: relative; min-height: 45px;}
+				.modal .buttonAnimation .moreAnimationBlock{top: -6px; margin: 0 0 0 -28px; display: none;}
+				.modal .modalSend{background: #EF6C00; color: #fff; font-size: 15px; border-radius: 2px; padding: 13px 0 14px 0; border: 0;
+					cursor: pointer; font-weight: 500; letter-spacing: 0.5px; outline: none; width: 180px; -webkit-appearance: none;
+					font-family: "Rubik", sans-serif; box-shadow: 0 2px 8px rgba(239,108,0, .27);
+				}
+				.modal .disabled{cursor: not-allowed; background: #ccc !important; box-shadow: none !important;}
+				
+			.buttonAnimation.active .modalSend{display: none;}
+			.buttonAnimation.active .moreAnimationBlock{display: block;}
+			
+			.buttonAnimation.send .modalSend{display: none;}
+			.buttonAnimation.send .sendOkey{display: inline-block;}			
+			
+			.modalFooterSocial .social{margin: 0 0 15px 0;}
+				.modalFooterSocial div a{display: inline-block; margin: 0 6px 0 0; border-radius: 50%; padding: 5px; width: 20px;
+					opacity: .68; transition: opacity .25s;
+				}
+				.modalFooterSocial div a:hover{opacity: 1;}
+				.modalFooterSocial div a:last-child{margin: 0;}
+					.modalFooterSocial img{filter: invert(100%); -webkit-filter: invert(100%); display: block; width: 100%;}
+			.modalFooterSocial .workingHours{color: #404040; font-weight: 500; font-size: 13px;}
+
+.mapCallback .modalBody .changeInput{border-bottom-color: #EF6C00; border-bottom-width: 2px;}
+.modalBody .errorInput{border-bottom-color: #D50000;}
+.errorInput .inputLabel{color: #D50000;}
+
+.sendOkey{background: #494949; font-size: 34px; display: none; border-radius: 2px; line-height: 45px; width: 180px; height: 45px;}
+.mapCallback .sendOkey{background: #494949; font-size: 34px; padding: 0; display: none; border-radius: 50%; line-height: 73px;
+	width: 73px; height: 73px; text-align: center;
+}
+
+#blackBack {position: fixed; top: 0; right: 0; bottom: 0; left: 0; z-index: 40; background:rgba(0,0,0, .5); display: none;}
+
+.modalOpen{overflow: hidden;}
+	.modalOpen .modal{overflow-x: hidden; overflow-y: auto;}
+	
+.modal .sendSummary{max-width: 400px;}
+
+/*------------------------
+--- MODAL WINDOWS ---
+------------------------*/
+
+
+
+/*------------------------
+------ ERROR 404 ------
+------------------------*/
+
+.error404{padding: 70px 0 50px 0;}
+	.error404 > div{display: inline-block; vertical-align: bottom; color: #616161; box-sizing: border-box; width: 50%;}
+	.error404 > div:first-child{font-weight: 700; font-size: 50px; text-transform: uppercase; text-align: right; padding: 0 60px 0 0;}
+	.error404 > div:last-child{padding: 0 0 60px 0;}
+		.error404 > div:first-child span{font-size: 260px;}
+		.error404 .description404{font-size: 20px; font-weight: 700; margin: 0 0 100px 0;}
+		.error404 a{display: inline-block; font-weight: 500;}
+		.url404{padding: 15px 30px 12px 62px; color: #fff; margin: 0 30px 0 0; border-radius: 25px; background: #616161; position: relative;}
+			.url404 i{position: absolute; left: 24px; top: 50%; font-size: 20px; margin: -10px 0 0 0;}
+		.back404{color: #616161; text-decoration: underline;}
+			.back404:hover{text-decoration: none;}
+
+/*------------------------
+------ ERROR 404 ------
+------------------------*/
+
+
+
+/*---------------------------------------
+------ PERSONAL_INFO (FORMS/FOOTER) ------
+---------------------------------------*/
+
+.modal .personalInfo{padding: 0 46px; font-size: 13px;}
+	.modal .personalInfo label:after{top: 1px;}
+.personalInfo{margin: 30px 0 0 0;}
+	.checkboxError{display: none; color: #d41b1b; font-size: 12px; margin: 0 0 10px 0;}
+	.personalInfo input{display: none;}
+	.personalInfo label{color: #555; cursor: pointer; position: relative; padding: 0 0 0 40px; display: inline-block;}
+		.personalInfo a:hover{text-decoration: underline;}
+		.personalInfo label:after{background-color: #fff; border: 1px solid #E1E1E1; position: absolute; height: 20px; width: 20px;
+			content: ""; left: 0; box-sizing: border-box; top: -1px;
+		}
+		.personalInfo label.ckecked:after{line-height: 20px; font-family: FontAwesome; text-align: center; border: none; content: "\f00c";
+			color: #fff; font-size: 14px;
+		}
+		.personalInfo label:hover:after{background-color: #E1E1E1;}
+	
+/*---------------------------------------
+------ PERSONAL_INFO (FORMS/FOOTER) ------
+---------------------------------------*/
+
+
+
+/*------------------------------------
+------ ADAPTIVE SITE LAYOUT ------
+------------------------------------*/
+
+@media all and (max-width: 1270px) {
+	body.detailed header .headerWrap{padding: 30px;}
+	.headerWrap{padding: 30px 30px 90px 30px;}
+	
+	.mainTitle{padding: 30px 30px 80px 30px;}
+	.workArea{padding: 0 30px;}
+	.indexWrapper{padding: 0 30px;}
+	
+	body.detailed footer{padding: 40px 30px;}
+	footer{padding: 40px 30px;}
+	
+	.error404 > div:first-child span{font-size: 230px;}
+}
+
+@media all and (max-width: 1190px) {
+	.requisitesWriteUs{margin: -35px 0 -20px 0; z-index: 2;}
+		.requisitesWriteUs > div{margin: 0 0 50px 0; background: #fff; padding: 30px; box-shadow: 0 1px 1px rgba(0,0,0, .12); border-radius: 1px;}
+			.requisitesWriteUs .contactsData{display: inline-block; width: 31%; vertical-align: top; margin: 0 3.5% 0 0;}
+				.requisitesWriteUs .contactsData span{margin: 0 0 10px 0;}
+				.requisitesWriteUs .contactsData p{display: block; max-width: 100%;}
+			.requisitesWriteUs .contactsData:last-child{margin: 0;}
+		
+		.requisitesWriteUs .mapCallback{position: relative; max-width: 920px; margin: 0 auto; top: 0;}
+			.requisitesWriteUs .mapCallback .buttonAnimation{right: 46px;}
+			.mapCallback h3{margin: 0 0 40px 0;}
+}
+
+@media all and (max-width: 1100px) {
+	.sidebar{width: 25%;}
+	main{width: 71%;}
+
+	.footerCopyright{width: 31%;}
+	.footerContacts{width: 31%; margin: 0 7% 0 0;}
+	.footerMenu{width: 31%;}
+	.footerSocial{width: 100%; display: block; margin: 30px 0 0 0;}
+		.footerSocial .social{text-align: left;}
+	.footerHeader{margin: 0;}
+		
+	.error404 > div:first-child{font-size: 40px;}
+		.error404 > div:first-child span{font-size: 200px;}
+}
+
+@media all and (max-width: 1023px) {
+	.headerMenu{display:none !important;}
+}
+
+@media all and (max-width: 1000px) {
+	.elementNews{width: 48%; margin: 0 4% 40px 0;}
+	.elementNews:nth-child(3n){margin-right: 4%;}
+	.elementNews:nth-child(2n){margin-right: 0;}
+	.elementNews:nth-last-child(3){margin-bottom: 4%;}
+		.elementNews .img{background-size: cover;}
+		
+	.error404 > div:first-child span{font-size: 170px;}
+	.error404 .description404{margin: 0 0 60px 0;}
+	.error404 > div:last-child{padding: 0 0 35px 0;}
+}
+
+@media all and (max-width: 900px) {
+	.sidebar{display:none;}
+	main{width: 100%;}
+	
+	.error404 > div:first-child{font-size: 30px;}
+		.error404 > div:first-child span{font-size: 140px;}
+}
+
+@media all and (max-width: 760px) {
+	.footerCopyright{display: none;}
+	.footerContacts{width: 45%; margin: 0 10% 0 0;}
+		.footerContacts div{margin: 0 0 15px 0;}
+	.footerMenu{width: 45%;}
+	
+	.requisitesWriteUs .contactsData{width: 47%; margin: 0 6% 6% 0;}
+	.requisitesWriteUs .contactsData:nth-child(2n){margin-right: 0;}
+	.contactMap{height: 460px;}
+	
+	.mainTitle h1{font-size: 48px !important;}
+	
+	.error404{padding: 50px 0;}
+		.error404 > div{display: block; width: 100%;}
+		.error404 > div:first-child{padding: 0; text-align: left;}
+		.error404 > div:last-child{padding: 0; margin: 30px 0 0 0; max-width: 600px;}
+			.error404 .description404{margin: 0 0 30px 0;}
+}
+
+@media all and (max-width: 690px) {
+	.allNews{margin: -40px 60px 60px 60px;}
+		.elementNews{width: 100%; margin: 0 0 40px 0;}
+		.elementNews:nth-last-child(3), .elementNews:nth-last-child(2){margin-bottom: 40px;}
+		.elementNews:last-child{margin: 0;}
+		
+	.mainTitle h1{font-size: 45px !important;}
+}
+
+@media all and (max-width: 580px) {
+	body.detailed header .headerWrap{overflow: hidden;}
+		.headerWrap .logo, .headerWrap .logo_detail{margin: 0 0 20px 0; display: block; text-align: left;}
+		.top_callBack{margin: 0;}
+		.headerWrap #topSearch{margin: 10px 0 0 0; float: none;}
+		.headerWrap .topMenu{margin: 10px 10px 0 0;}
+}
+
+@media all and (max-width: 550px) {
+	.headerWrap{padding: 20px;}
+	body.detailed header .headerWrap{padding: 20px;}
+	.workArea{padding: 0 20px;}
+	.indexWrapper{padding: 0 20px;}
+	footer{padding: 40px 20px;}
+	.mainTitle{padding: 30px 20px 80px 20px;}
+	.footerContacts{width: 100%; margin: 0 0 30px 0;}
+	.footerMenu{width: 100%;}
+	
+	.requisitesWriteUs .mapCallback{padding: 20px 30px 60px 30px;}
+
+	.elementNews .title{margin: 0 0 14px 0;}
+	.elementNews .tag{margin: 0 15px 10px 0;}
+
+	.backAndShare{right: 45px;}
+	
+	.mainTitle h1{font-size: 40px !important;}	
+	
+	.newsDetailTitle{padding: 30px 20px;}
+	
+	.buttonTop, .buttonMenu, .buttonSearch{right: 20px;}
+}
+
+@media all and (max-width: 500px) {
+	.modalWrapper{max-width: 350px;}
+		.modalHeader{padding: 35px;}
+		.modal .modalBody{padding: 45px 35px 20px 35px; margin: 0;}
+		.modalFooter{padding: 35px;}
+
+	.allNews{margin: -40px 0 60px 0;}
+
+	.mainTitle h1{font-size: 34px !important;}
+	
+	.newsDetail q{padding: 25px 30px 25px 80px;}
+		.newsDetail q:before{left: 25px; font-size: 85px;}
+	
+	.mapCallback .modalBody > div.miniBlock{width: 100%; display: block; margin: 0;}
+	.requisitesWriteUs .contactsData{width: 100%; margin: 0 0 30px 0;}
+	
+	.modalShareWrapper{width: 200px;}
+}
+
+@media all and (max-width: 440px) {
+	.modalWrapper{max-width: 330px;}
+		.modalHeader{padding: 30px;}
+		.modal .modalBody{padding: 40px 30px 10px 30px;}
+		.modalFooter{padding: 30px;}
+
+	.contactMap{height: 400px;}
+	
+	.newsDetail q{padding: 60px 20px 20px 20px;}
+		.newsDetail q:before{left: 20px; top: -15px;}
+}
+
+@media all and (max-width: 430px) {
+	.modalClose{width: 40px; height: 40px; line-height: 40px; top: 5px; right: 5px; background: none; box-shadow: none; color: #fff !important;
+		font-size: 30px; border-radius: 0;
+	}
+	
+	.mainTitle h1{font-size: 29px !important;}
+	
+	.newsDetailTitle{padding: 30px 20px 15px 20px;}
+		.newsDetailTitle div{display: block;}
+		.newsDetailTitle div:first-child{padding: 0 0 15px 22px; margin: 0;}
+	
+	.modalShareWrapper{width: 165px;}
+	
+	.error404 > div:first-child{font-size: 25px;}
+		.error404 > div:first-child span{font-size: 120px;}
+	.error404 > div:last-child{margin: 20px 0 0 0;}
+		.error404 a{display: block;}
+		.url404{padding: 15px 0 15px 60px; margin: 0 0 30px 0; width: 128px;}
+		.error404 .back404{display: inline-block;}
+}
+
+@media all and (max-width: 400px) {
+	.requisitesWriteUs .mapCallback{padding: 20px 20px 60px 20px;}
+	.requisitesWriteUs > div{padding: 20px;}
+}
+
+@media all and (max-width: 374px) {
+	.modalWrapper{max-width: 300px;}
+	.modalShareWrapper{width: 128px;}
+	
+	.mainTitle h1{font-size: 26px !important;}
+}
+
+@media all and (max-width: 350px) {
+	.modalWrapper{max-width: 280px;}
+	.modalHeader{padding: 25px;}
+	.modal .modalBody{padding: 40px 25px 10px 25px;}
+	.modalFooter{padding: 25px;}
+	
+	.top_callBack{float: none; display: block !important; margin: 20px 0 0 0;}
+	.headerWrap #topSearch{margin: 0;}
+	.headerWrap .topMenu{margin: 0 10px 0 0;}
+}
+
+
+
+/*------------------------
+-------- FONT --------
+------------------------*/
+
+@font-face {
+	font-family: "Material Icons";
+	font-style: normal;
+	font-weight: 400;
+	src: url(fonts/MaterialIcons-Regular.eot); /* For IE 6-8 */
+	src: local("Material Icons"),
+		 local("MaterialIcons-Regular"),
+		 url(fonts/MaterialIcons-Regular.woff2) format("woff2"),
+		 url(fonts/MaterialIcons-Regular.woff) format("woff"),
+		 url(fonts/MaterialIcons-Regular.ttf) format("truetype");
+}

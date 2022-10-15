@@ -1,0 +1,6 @@
+
+.footerMenu li{list-style: none; display: inline-block; padding: 0 0 14px 0; text-align: left; font-size: 15px; width: 50%;
+	vertical-align: top; font-weight: 700;
+}
+	.footerMenu a{color: #555;}
+	.footerMenu a:hover{color: #eb5e28;}

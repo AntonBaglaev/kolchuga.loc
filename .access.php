@@ -1,0 +1,13 @@
+<?
+$PERM["elektronnye-podarochnie-karti"]["2"]="D";
+$PERM["video"]["*"]="R";
+$PERM["online"]["*"]="R";
+$PERM["desktop_app"]["*"]="R";
+$PERM["upload"]["18"]="T_8";
+$PERM["personal"]["6"]="W";
+$PERM["catalog"]["6"]="W";
+$PERM["news"]["6"]="W";
+$PERM["about"]["6"]="W";
+$PERM["index.php"]["6"]="W";
+$PERM["/"]["*"]="R";
+?>

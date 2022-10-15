@@ -1,0 +1,39 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Барвиха", 
+		"/weapons_salons/barvikha/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Варварка", 
+		"/weapons_salons/varvarka/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Волоколамское шоссе", 
+		"/weapons_salons/volokolamskoe-shosse/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Ленинский проспект", 
+		"/weapons_salons/leninsky-prospekt/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Люберцы", 
+		"/weapons_salons/lyubertsy/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

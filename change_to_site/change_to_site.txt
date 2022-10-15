@@ -1,0 +1,64 @@
+/local/templates/kolchuga_2016/components/kolchuga/catalog/ajax_new/section.php
+
+    <?
+
+        /*if($_SERVER['REMOTE_ADDR'] == '91.219.103.184'){
+            var_dump($CHECK_ALT_VIEW);
+        }*/
+
+     ?>
+
+     >>>>>>>>>>>>>>>>>
+     to->
+     >>>>>>>>>>>>>>>>>>>>
+
+     <?
+         // популярные страны для гладкоствольного оружия
+         if($sectionId == 17835){
+
+             $allIds = array();
+             //выбираем все подразделы 17835
+             $sql_section = CIBlockSection::GetList(Array(), Array('IBLOCK_ID'=>'40', 'ACTIVE'=>'Y', 'SECTION_ID'=>'17835'), false, Array('*'));
+             while($m = $sql_section->GetNext())
+             {
+                 $allIds[] = $m['ID'];
+             }
+             ?>
+             <div class="exFilterList">
+                 <div class="fName">
+                     Популярные страны:
+                 </div>
+                 <ul>
+                     <?
+                     $allCountries = array();
+                     $r = CIBLockElement::GetList (Array(), Array('IBLOCK_SECTION_ID'=>$allIds, 'ACTIVE'=>'Y', 'IBLOCK_ID' => '40'), false, false, Array('*'));
+                     while ($db_item = $r->GetNextElement())
+                     {
+                         $ar_res1 = $db_item->GetFields();
+                         $ar_res2 = $db_item->GetProperties();
+                         if((!in_array(strtoupper($ar_res2['STRANA']["VALUE"]), $allCountries))and($ar_res2['STRANA']["VALUE"]!='')){
+
+                             $r2 = CIBLockElement::GetList (Array(), Array('NAME' => strtoupper($ar_res2['STRANA']["VALUE"]), 'ACTIVE'=>'Y', 'IBLOCK_ID' => '66'), false, false, Array('*'));
+                             while ($db_item2 = $r2->GetNextElement())
+                             {
+                                 $ar_res3 = $db_item2->GetFields();
+                                 echo '<li><a style="background-color:white;color:black;" onclick="return true;" href="/internet_shop/oruzhie/gladkostvolnoe_oruzhie/'.$ar_res3["XML_ID"].'/"><img width="30px" src="'.CFile::GetPath($ar_res3["PREVIEW_PICTURE"]).'"> '.$ar_res3["NAME"].'</a></li>';
+                             }
+                             $allCountries[] = $ar_res2['STRANA']["VALUE"];
+
+
+                         }
+
+                     }
+                     ?>
+                 </ul>
+             </div>
+             <?
+
+         }
+
+         /*if($_SERVER['REMOTE_ADDR'] == '91.219.103.184'){
+             var_dump($CHECK_ALT_VIEW);
+         }*/
+
+      ?>

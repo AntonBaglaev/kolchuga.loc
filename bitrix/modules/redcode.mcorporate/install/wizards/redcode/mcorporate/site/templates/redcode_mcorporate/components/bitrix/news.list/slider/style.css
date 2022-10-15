@@ -1,0 +1,102 @@
+
+.indexSlider{position: relative;}
+	.slide{height: 700px; background-size: cover !important; background-position: center !important; position: relative;}
+		.sliderInside{width: 1200px; margin: 0 auto; position: absolute; left: 50%; margin-left: -600px; bottom: 38px; color: #fff; z-index: 3;}
+				.slideText {max-width: 700px; width: 51%; font-size: 48px; font-weight: 700; line-height: 1.1; display: inline-block; margin: 0 0 36px 0;}
+				.slideTextDetail{font-weight: 400; line-height: 1.5; font-size: 15px; display: inline-block; vertical-align: bottom; width: 49%;}
+					.slideTextDetail > div{float: right; max-width: 465px;}
+						.slideTextDetail div p{margin: 0 0 31px 0; line-height: 1.4;}
+						.slideTextDetail div a{font-size: 13px; font-weight: 500; text-transform: uppercase; border-radius: 2px; color: #fff;
+							display: inline-block; background: #EF6C00; padding: 12px 25px; box-shadow: 0 2px 14px 0 rgba(239,108,0,.27);
+						}
+
+.indexSlider .sliderControls{position: absolute; bottom: 80px; height: 0; left: 0; width: 100%; z-index: 3;}
+		.indexSlider .sliderControlsWrapper {width: 1200px; margin: 0 auto;}
+		.indexSlider .owlDots{float: left; margin: 29px 0 0 0;}
+			.indexSlider .owlDots .owl-dot {padding: 4px; background: #fff; opacity: 0.3; margin: 0 10px 0 0; box-sizing: border-box;
+				border-radius: 50%; display: inline-block; transition: opacity .2s ease; cursor: pointer;
+			}
+				.indexSlider .owlDots .owl-dot:hover {opacity: 1;}
+				.indexSlider .owlDots .owl-dot:last-child {margin: 0;}
+				.indexSlider .owlDots .owl-dot.active {opacity: 1;}
+
+		.indexSlider .owlNav{float: right;}
+		.indexSlider .owlNav.disabled{display: none;}
+			.indexSlider .owlNav div{width: 44px; height: 44px; display: inline-block; border-radius: 50%; transition: background .25s ease;
+				cursor: pointer; background: rgba(255,255,255,.2); line-height: 44px; text-align: center;
+			}
+			.indexSlider .owlNav .owl-prev{margin: 0 13px 0 0;}
+				.indexSlider .owlNav div:hover{background-color: rgba(255,255,255, .3);}
+
+
+.blackSlider{background: linear-gradient(to top, rgba(0,0,0, .5), rgba(0,0,0, .0)); position: absolute; z-index: 2; top: 55%; left: 0; bottom: 0; right: 0;}
+.mouseSlider{display: none; background: url("images/mouseSlider.png") no-repeat center; background-size: 24px; width: 31px; height: 52px; position: absolute; z-index: 3; bottom: 38px; left: 50%; margin: 0 0 0 -15.5px;}
+
+.videoBlock{position: relative;}
+	.indexSlider video{background: rgba(0,0,0, .8); object-fit: inherit;}
+	.indexSlider .videoButton{background: url("images/videoPlay.png") no-repeat center; position: absolute; width: 80px; height: 80px;
+		top: 50%; left: 50%; margin: -40px 0 0 -40px; cursor: pointer;
+	}
+
+@media all and (max-width: 1250px) {
+	.sliderInside{width: auto; left: 20px; margin: 0;}
+		.slideText{width: 47%; margin: 0 8% 36px 0;}
+		.slideTextDetail{width: 45%;}
+	.indexSlider .sliderControlsWrapper{width: auto; padding: 0 20px;}
+}
+
+@media all and (max-width: 1060px) {
+	.slideText{width: 52%; font-size: 45px;}
+	.slideTextDetail{width: 40%;}
+}
+
+@media all and (max-width: 880px) {
+	.slideText{width: 100%; font-size: 49px; display: block; margin: 0 0 36px 0;}
+	.slideTextDetail{width: 100%; display: block;}
+		.slideTextDetail > div{float: none;}
+	.indexSlider .owlDots{display: none;}
+}
+
+@media all and (max-width: 730px) {
+	.sliderInside{right: 20px;}
+}
+
+@media all and (max-width: 620px) {
+	.slideText{font-size: 39px;}
+		.slideTextDetail{font-size: 18px;}
+}
+
+@media all and (max-width: 500px) {
+	.slideText{font-size: 36px;}
+		.slideTextDetail{font-size: 17px;}
+}
+
+@media all and (max-width: 420px) {
+	.slideText{font-size: 33px; margin: 0 0 20px 0;}
+		.slideTextDetail{font-size: 16px;}
+}
+
+@media all and (max-width: 400px) {
+	.slideText{font-size: 30px;}
+}
+
+@media all and (max-width: 370px) {
+	.slideText{font-size: 28px;}
+	.slideTextDetail{font-size: 14px;}
+}
+
+@media all and (max-width: 340px) {
+	.slideText{font-size: 25px;}
+}
+
+.fadeInLeftBig {animation: fadeInLeftBig  1s ease-in-out;}
+@keyframes fadeInLeftBig {
+  from {
+    transform: translate3d(-40px, 0, 0);
+	opacity: 0;
+  }
+  to {
+    transform: none;
+	opacity: 1;
+  }
+}

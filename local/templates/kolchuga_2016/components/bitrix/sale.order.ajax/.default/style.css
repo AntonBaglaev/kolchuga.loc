@@ -1,0 +1,109 @@
+.order-ajax-block{
+    display: none;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 2;
+}
+.table-dashed tbody tr td{
+    white-space: nowrap;
+}
+
+.loader-submit {
+    display: block;
+    position: absolute;
+    left: -65px;
+    top: 50%;
+    width: 60px;
+    height: 60px;
+    margin: -35px 0 0 -35px;
+    border-radius: 50%;
+    border: 2px solid transparent;
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+}
+.loader-submit:before {
+    content: "";
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+    border-radius: 50%;
+    border: 2px solid transparent;
+    border-top-color: #1d355b;
+    -webkit-animation: spin 3s linear infinite;
+    animation: spin 3s linear infinite;
+}
+.loader-submit:after {
+    content: "";
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    right: 15px;
+    bottom: 15px;
+    border-radius: 50%;
+    border: 2px solid transparent;
+    border-top-color: #1d355b;
+    -webkit-animation: spin 1.5s linear infinite;
+    animation: spin 1.5s linear infinite;
+}
+.form__horizontal.form__order .form_agree .label--checkbox {
+    float: right;
+    padding-right: 0;
+    width: 260px;
+    margin-top: 15px;
+}
+.form__group_basket p{
+    font-size: 12px;
+    line-height: 1;
+}
+.form__group_basket .icheckbox{
+    margin: 0 5px 0 0;;
+}
+.error-msg-agree {
+    display: none;
+    padding-top: 10px;
+}
+.showerrortext{
+	display: none;
+	color: #ff0000 !important;
+    font-size: 1.2em;
+    font-weight: 700;
+}
+.errorspanfield{
+	font-size: 0.7em;
+    color: #ff0000;
+}
+@-webkit-keyframes spin {
+    0%   {
+        -webkit-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+@keyframes spin {
+    0%   {
+        -webkit-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+.form__horizontal.form__order .form__order--wrapper{z-index:1;}
+.label__block.popover {border:none;}
+
+.CDEK-widget__popup-mask{z-index:1;}
+.C_TO_HOME{display:none;}
+.C_TO_PUNKT{display:block;}

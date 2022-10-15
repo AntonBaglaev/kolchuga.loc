@@ -1,0 +1,148 @@
+
+/* buttons */
+
+.bx_item_list_you_looked_horizontal .bx_bt_button_type_2{
+    display:inline-block;
+    border-radius:3px;
+    text-align:center;
+    text-decoration:none;
+    font-size:14px;
+    cursor:pointer;
+    white-space:nowrap;
+}
+
+.bx_item_list_you_looked_horizontal .bx_bt_button_type_2 				{
+    border:1px solid #e9e9e9;
+    background-image:-webkit-gradient(linear,0 0,0 100%,from(#fcfcfc),to(#f1f1f1));
+    background-image:-webkit-linear-gradient(#fcfcfc 0%,#f1f1f1 100%);
+    background-image:   -moz-linear-gradient(#fcfcfc 0%,#f1f1f1 100%);
+    background-image:     -o-linear-gradient(#fcfcfc 0%,#f1f1f1 100%);
+    background-image:        linear-gradient(#fcfcfc 0%,#f1f1f1 100%);
+    color:#656565;
+    text-shadow:0 1px 0 #fff;
+}
+.bx_item_list_you_looked_horizontal .bx_bt_button_type_2:hover{background:#fff;}
+.bx_item_list_you_looked_horizontal .bx_bt_button_type_2:active 	{
+    background-image:-webkit-gradient(linear,0 0,0 100%,from(#f1f1f1),to(#fcfcfc));
+    background-image:-webkit-linear-gradient(#f1f1f1 0%,#fcfcfc 100%);
+    background-image:   -moz-linear-gradient(#f1f1f1 0%,#fcfcfc 100%);
+    background-image:     -o-linear-gradient(#f1f1f1 0%,#fcfcfc 100%);
+    background-image:        linear-gradient(#f1f1f1 0%,#fcfcfc 100%);
+    box-shadow:inset 0 2px 2px 0 rgba(0,0,0,.05);
+}
+
+.bx_item_list_you_looked_horizontal .bx_small.bx_bt_button_type_2{
+    display:inline-block;
+    min-width:18px;
+    line-height:18px;
+}
+
+.bx_item_list_you_looked_horizontal .bx_small.bx_bt_button_type_2 		{}
+.bx_item_list_you_looked_horizontal .bx_small.bx_bt_button_type_2:hover 	{}
+.bx_item_list_you_looked_horizontal .bx_small.bx_bt_button_type_2:active 	{}
+
+.bx_item_list_you_looked_horizontal .bx_medium.bx_bt_button_type_2		{
+    padding:0 13px;
+    height:23px;
+    font-weight:bold;
+    line-height:23px;
+}
+
+
+.bx_item_list_you_looked_horizontal .bx_medium.bx_bt_button_type_2 		{font-weight:bold;}
+.bx_item_list_you_looked_horizontal .bx_medium.bx_bt_button_type_2:hover  {}
+.bx_item_list_you_looked_horizontal .bx_medium.bx_bt_button_type_2:active {}
+
+.bx_item_list_you_looked_horizontal .bx_catalog_item_controls input[type=text] {
+    border: none;
+}
+
+.bx_item_list_you_looked_horizontal .bx_col_input{
+    display:inline-block;
+    width:40px;
+    text-align:center;
+}
+
+/***************************/
+
+.action_3pcs {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.action_3pcs .bx_item_list_you_looked_horizontal {
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+
+.action_3pcs_list_title {
+    font-weight: bold;
+    color: #000;
+    background: #ebf4f8;
+    vertical-align: middle;
+    height: 38px;
+    text-align: center;
+    line-height: 38px;
+    font-size: 14px;
+    margin-bottom: 2em;
+}
+
+.action_3pcs .bx_catalog_item_controls {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    width: 100%;
+    text-align: center;
+}
+
+.action_3pcs .catalog__item-info {
+    margin-bottom: auto;
+}
+
+.action_3pcs .catalog__item-info::after {
+    content: '';
+    clear: both;
+}
+
+.action_3pcs .bx_catalog_item_controls_blockone {
+    margin-bottom: .5em;
+}
+
+.action_3pcs .bx_bt_button {
+    text-align: center;
+    height: auto;
+    line-height: 1;
+    cursor: pointer;
+    -webkit-appearance: none;
+    margin: 0;
+
+    text-decoration: none!important;
+    color: #FFFFFF;
+    display: block;
+    padding: 8px 16px;
+    font-family: 'PT Sans';
+    font-size: 14px;
+    background-color: #4d607e;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    width: fit-content;
+}
+
+.action_3pcs .bx_bt_button:hover {
+    background-color: #21385E;
+    color: #FFFFFF;
+}
+
+.action_3pcs .bx_bt_button:active {
+    background-color: #4d607e;
+    color: #FFFFFF;
+}
+
+/***************************/

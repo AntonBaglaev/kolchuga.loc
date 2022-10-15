@@ -1,0 +1,3 @@
+table.tableborder {border:none;}
+table.tableborder tr{border-top:1px solid #cfcdbb; border-right:1px solid #cfcdbb; }
+table.tableborder td,table.tableborder th{border-bottom:1px solid #cfcdbb; border-left:1px solid #cfcdbb;padding:7px; }

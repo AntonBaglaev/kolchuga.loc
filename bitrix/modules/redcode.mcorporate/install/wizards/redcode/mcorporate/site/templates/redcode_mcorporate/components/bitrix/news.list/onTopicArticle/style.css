@@ -1,0 +1,16 @@
+
+.onTopic{}
+.onTopic > div{margin: 0 0 40px 0;}
+.onTopic > div:last-child{margin: 0;}
+	.onTopicArticle{font-weight: 500; transition: box-shadow .25s; background: #fff; box-shadow: 0 1px 1px rgba(0,0,0,.12);
+		padding-bottom: 25px;
+	}
+	.onTopicArticle:hover{box-shadow: rgba(0,0,0,.12) 0 35px 90px;}
+		.onTopicArticle .img{height: 165px; width: 100%; margin: 0 0 20px 0; position: relative; display: block;}
+			.onTopicArticle .img span{position: absolute; bottom: 15px; left: 24px; font-size: 9px; color: #fff; background: #EF6C00;
+				padding: 6px 11px; text-transform: uppercase; border-radius: 2px; font-weight: 700;
+			}
+		.onTopicArticle p{color: #bbb; font-size: 11px; margin: 0 0 13px 0; padding: 0 24px;}
+		.onTopicArticle .name{font-weight: 500; font-size: 15px; padding: 0 24px;}
+			.onTopicArticle .name a{color: #131720; line-height: 1.2;}
+			.onTopicArticle .name a:hover{text-decoration: underline;}

@@ -1,0 +1,46 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Охотничьи традиции", 
+		"/weapons_salons/it-is-interesting/hunting-traditions.php?ELEMENT_ID=385", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Фильмы об охоте", 
+		"/weapons_salons/it-is-interesting/movies-books-on-hunting.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Анекдоты", 
+		"/weapons_salons/it-is-interesting/anecdotes.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Тосты", 
+		"/weapons_salons/it-is-interesting/toasts.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Фотогалерея", 
+		"/weapons_salons/it-is-interesting/photo-gallery.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Инструкции", 
+		"/weapons_salons/it-is-interesting/instructions/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

@@ -1,0 +1,84 @@
+/*path_order*/
+.path_order{
+	color:#b2b2b2;
+}
+.path_order{
+	font: normal 16px/20px;
+}
+.path_order b{
+	color:#1D355B;
+}
+.path_order b,
+.path_order span,
+.path_order a{
+	padding:0 5px;
+}
+/*order_table*/
+.order_table{
+	border-collapse:collapse;
+}
+.order_table td{
+	padding:10px 20px 10px 0;
+}
+/*group_name*/
+.group_name{
+	border-top:1px dotted #a4a4a4;
+	border-bottom:1px dotted #a4a4a4;
+	color: #888888;
+    font-weight: normal;
+    padding-bottom: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 12px;
+}
+
+/*sale_order_full_table*/
+.sale_order_full_table{
+	margin-bottom:30px;
+}
+.sale_order_full_table td{
+	padding:7px 7px 7px 0;
+}
+.sale_order_full_table .input_inside{
+	width:100%;
+}
+/**/
+table.sale_order_full
+{
+	width:100%;
+	background-color:#F9FAFB;
+	border-collapse:collapse;
+}
+
+/*Table head*/
+table.sale_order_full th
+{
+	background-image:url(images/table_head.gif);
+	background-repeat:repeat-x;
+	text-align: left;
+	color:#25639A;
+}
+
+/* Table cells and heads*/
+table.sale_order_full th, table.sale_order_full td
+{
+	border:1px solid #ADC3D5;
+	padding: 3px 5px;
+	vertical-align:top;
+}
+
+table.sale_order_full_table_no_border
+{
+	width:100%;
+	background-color:#FFFFFF;
+	border-collapse:collapse;
+}
+
+/* Table cells and heads*/
+table.sale_order_full_table_no_border td
+{
+	padding: 3px 5px;
+	vertical-align:top;
+}
+
+.sof-req{color:red;}

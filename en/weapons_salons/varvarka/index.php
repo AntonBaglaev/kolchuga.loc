@@ -1,0 +1,47 @@
+<?
+require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetTitle("Варварка");
+?> <?$APPLICATION->IncludeComponent(
+	"bitrix:photo.section",
+	"template1",
+	Array(
+		"AJAX_MODE" => "N",
+		"IBLOCK_TYPE" => "gallery",
+		"IBLOCK_ID" => "9",
+		"SECTION_ID" => "39",
+		"SECTION_CODE" => "",
+		"SECTION_USER_FIELDS" => array("UF_DATE","UF_PASSWORD"),
+		"ELEMENT_SORT_FIELD" => "sort",
+		"ELEMENT_SORT_ORDER" => "asc",
+		"FILTER_NAME" => "arrFilter",
+		"FIELD_CODE" => array("DETAIL_PICTURE"),
+		"PROPERTY_CODE" => array(),
+		"SECTION_URL" => "",
+		"DETAIL_URL" => "",
+		"PAGE_ELEMENT_COUNT" => "20",
+		"LINE_ELEMENT_COUNT" => "3",
+		"META_KEYWORDS" => "-",
+		"META_DESCRIPTION" => "-",
+		"BROWSER_TITLE" => "-",
+		"SET_TITLE" => "N",
+		"SET_STATUS_404" => "N",
+		"ADD_SECTIONS_CHAIN" => "Y",
+		"CACHE_TYPE" => "A",
+		"CACHE_TIME" => "36000000",
+		"CACHE_NOTES" => "",
+		"CACHE_FILTER" => "N",
+		"CACHE_GROUPS" => "Y",
+		"DISPLAY_TOP_PAGER" => "N",
+		"DISPLAY_BOTTOM_PAGER" => "N",
+		"PAGER_TITLE" => "Фотографии",
+		"PAGER_SHOW_ALWAYS" => "N",
+		"PAGER_TEMPLATE" => "",
+		"PAGER_DESC_NUMBERING" => "N",
+		"PAGER_DESC_NUMBERING_CACHE_TIME" => "36000",
+		"PAGER_SHOW_ALL" => "Y",
+		"AJAX_OPTION_JUMP" => "N",
+		"AJAX_OPTION_STYLE" => "Y",
+		"AJAX_OPTION_HISTORY" => "N",
+		"AJAX_OPTION_ADDITIONAL" => ""
+	)
+);?><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

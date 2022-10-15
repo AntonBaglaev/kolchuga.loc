@@ -1,0 +1,253 @@
+
+.generalBackground{background: #fff; box-shadow: 0 1px 1px rgba(0,0,0, .12); margin: 0 0 40px 0;}
+main > div:last-child{margin: 0 0 75px 0 !important;}
+
+/* TASK */
+.projectTask{padding: 35px 40px; line-height: 24px;}
+	.projectTask p{margin: 0 0 25px 0; font-size: 20px; font-weight: 700;}
+/* TASK */
+
+/* GALLERY */
+.projectGallery{}
+	#slider:hover .owl-nav div{opacity: 1;}
+	#slider a{position: relative; display: block;}
+		#slider a i{position: absolute; top: 5%; right: 3%; background: #fff; font-size: 28px; transition: opacity .3s; opacity: 0;
+			padding: 16px; border-radius: 50%; color: #212121; box-shadow: 0px 13px 13px 0px rgba(0, 0, 0, .19); z-index: 1;
+		}
+		#slider:hover a i{opacity: 1;}
+
+	#slider .owl-nav{position: absolute; top: 50%; width: 100%; margin: -25px 0 0 0; height: 0;}
+		#slider .owl-nav div{width: 50px; height: 50px; border-radius: 50%; background: #fff; line-height: 52px; text-align: center;
+			opacity: 0; transition: opacity .3s; box-shadow: 0px 13px 13px 0px rgba(0, 0, 0, .19);
+		}
+		#slider .owl-prev{float: left; margin: 0 0 0 40px;}
+			#slider .owl-prev i{padding: 0 3px 0 0;}
+		#slider .owl-next{float: right; margin: 0 40px 0 0;}
+			#slider .owl-next i{padding: 0 0 0 3px;}
+		
+	#carousel{padding: 40px 80px; box-sizing: border-box;}
+		#carousel img{cursor: pointer; opacity: .6;}
+		#carousel .owl-item:first-child img{opacity: 1;}
+		#carousel .owl-nav{position: absolute; top: 50%; width: 100%; left: 0; margin: -20px 0 0 0;  height: 0;}
+			#carousel .owl-nav div{width: 40px; height: 40px; border-radius: 50%; line-height: 40px; text-align: center;}
+			#carousel .owl-nav .owl-prev{float: left; margin: 0 0 0 15px;}
+			#carousel .owl-nav .owl-next{float: right; margin: 0 15px 0 0;}
+/* GALLERY */
+
+/* REVIEW */
+.projectReview{}
+	.reviewsImg{display: inline-block; vertical-align: middle; width: 23%; text-align: center;}
+		.reviewsImg div{width: 95px; height: 95px; border-radius: 100%; display: inline-block;}
+
+	.reviewsText{display: inline-block; vertical-align: middle; padding: 30px 30px 30px 0; width: 77%; box-sizing: border-box;
+		quotes: "\201c" "\201d";
+	}			
+		.reviewsText .title{font-size: 19px; font-weight: 700; margin: 0 0 10px 0;}
+			.reviewsText .title div, .reviewsText .title p{display: inline-block; vertical-align: middle;}
+			.reviewsText .title div:first-child{margin: 0 25px 10px 0;}
+			.reviewsText .title p{font-size: 11px; color: #fff; font-weight: 500; border-radius: 2px; padding: 6px 11px; background: #EF6C00;
+				margin: 0 22px 10px 0;
+			}
+			.reviewsText .reviewsDate{font-weight: 500; font-size: 13px; opacity: .4; position: relative; padding: 0 0 0 23px;
+				margin: 0 0 10px 0;
+			}
+			.reviewsText .reviewsDate i{position: absolute; color: #212121; font-size: 15px; left: 0;}
+			
+		.reviewsText q{font-size: 60px; font-family: "Arial", sans-serif; display: inline-block; vertical-align: top; color: #EF6C00;
+			margin: -6px 0 0 0; width: 6%;
+		}
+			.reviewsText q:after{content: "";}
+		
+		.reviewsText > p{line-height: 1.6; display: inline-block; vertical-align: top; width: 93%;}
+/* REVIEW */
+
+#tabulation{margin: 0 0 40px 0; position: relative;}
+#tabulation.firstBlock{margin: 70px 0 40px 0;}
+	.tabulationHeader{}
+		.tabulationHeader .tab{display: inline-block; margin: 0 15px 20px 0;}
+		.tabulationHeader .tab:last-child{margin: 0 0 20px 0;}
+			.tabulationHeader h2{font-weight: 500; font-size: 13px; background: #eaeaea; cursor: pointer; color: #757575; padding: 12px 25px; border: 2px solid transparent;}
+			.tabulationHeader h2:hover{background: #e2e2e2;}
+			.tabulationHeader h2.active{color: #fff; background:#EF6C00; border-radius: 2px;}
+			
+	.tabulationBody{background: #fff; box-shadow: 0 1px 1px rgba(0,0,0, .12); padding: 35px;}
+	.tabulationBody > div:not(:first-child){display: none;}
+
+		.detailText{color: #131720; line-height: 1.6;}
+		.detailText ul:last-child, .detailText p:last-child, .detailText div:last-child{padding: 0;}
+			.detailText h2.titleH2, .detailText p.standartText, .detailText p, .detailText ul{padding: 0 0 25px 0;}
+			.detailText h2{padding: 0 0 25px 0; font-weight: 700; line-height: 1.35; font-size: 23px;}
+			.detailText li{padding: 0 0 15px 0;}
+			.detailText li:last-child{padding: 0;}
+
+		.characterElements{}
+			.characterElements div{margin: 0 0 20px 0;}
+				.characterElements p{width: 50%; display: inline-block; vertical-align: top; background: url("images/point.png") 0 10px repeat-x;}
+				.characterElements p:last-child{text-align: right;}
+					.characterElements span{background: #fff;}
+					.characterElements p:first-child span{padding: 0 10px 0 0; color: #444; font-weight: 500;}
+					.characterElements p:last-child span{padding: 0 0 0 10px;}
+
+
+		.documentElements{}
+			.documentElement{width: 47%; margin-bottom: 6%; display: inline-block; vertical-align: top;}
+			.documentElement:nth-child(odd){margin: 0 6% 6% 0;}
+			.documentElement:nth-last-child(1), .documentElement:nth-last-child(2){margin: 0 6% 0 0;}
+			.documentElement:nth-child(even){margin-right: 0;}
+
+				.documentElement > div{float: left; width: 79%;}
+				.documentElement > div:first-child{width: 21%;}
+					.documentElement div div{background: #d22027; position: relative; width: 52px; height: 69px;}
+					.documentElement div div:before{position: absolute; border-top: 20px solid #fff; border-right: 20px solid transparent;
+						content: "";
+					}
+					.documentElement .angle{position: absolute; border-bottom: 20px solid #9c2423; border-left: 20px solid transparent;
+						content: "";
+					}
+						.documentElement .format{text-transform: uppercase; font-size: 13px; color: #fff; position: absolute; bottom: 10px;
+							left: 11px; font-weight: 500;
+						}
+					.documentElement a{ font-weight: 500; text-decoration: underline;}
+						.documentElement a:hover{text-decoration: none;}
+					.documentElement div p{margin: 7px 0 0 0; color: #b1b1b1; font-size: 13px;}
+
+
+/* ASK QUESTION */
+#askQuestion{margin: 0 0 40px 0; padding: 24px 34px; background: #fff; transition: box-shadow .25s;}
+	#askQuestion:hover{box-shadow: rgba(0,0,0,.12) 0 35px 90px;}
+	#askQuestion .markQuestion{display: inline-block; vertical-align: middle; width: 11%;}
+		#askQuestion .markQuestion p{border-radius: 50%; line-height: 65px; height: 65px; text-align: center; color: #EF6C00; font-size: 45px;
+			width: 65px;
+		}
+	#askQuestion .textBlock{display: inline-block; vertical-align: middle; width: 89%;}
+		#askQuestion .textBlock div{display: inline-block; vertical-align: middle; width: 57%; position: relative; box-sizing: border-box;
+			line-height: 1.5; padding: 18px 45px 18px 13px;
+		}
+			#askQuestion .textBlock div p{font-size: 15px;}
+			#askQuestion .textBlock div span{font-weight: 700;}
+		#askQuestion a{font-weight: 500; font-size: 15px; color: #fff; background: #EF6C00; padding: 16px  30px; outline: none; cursor: pointer;
+			display: inline-block; vertical-align: middle; box-sizing: border-box; text-align: center; width: 20%; border-radius: 2px;
+			box-shadow: 0 2px 8px rgba(239,108,0, .27); margin: 0 3% 0 0;
+		}
+		#askQuestion a:last-child{margin: 0;}
+/* ASK QUESTION */
+
+
+@media all and (max-width: 1150px) {
+	.documentElement > div{width: 76%;}
+	.documentElement > div:first-child{width: 24%;}
+	
+	#askQuestion .textBlock div{width: 55%;}
+	#askQuestion a{width: 21%;}
+}
+
+@media all and (max-width: 1060px) {
+	#askQuestion .textBlock div{padding: 0 10px 0 20px; width: 51%;}
+	#askQuestion a{width: 23%;}
+}
+
+@media all and (max-width: 970px) {
+	.documentElement > div{width: 73%;}
+	.documentElement > div:first-child{width: 27%;}
+
+	#askQuestion{padding: 20px 30px;}
+		
+	.reviewsText{padding: 20px 20px 20px 0;}
+}
+
+@media all and (max-width: 900px) {
+	.documentElement > div:first-child{width: 21%;}
+	.documentElement > div{width: 79%;}
+
+	#askQuestion .textBlock div{padding: 18px 45px 18px 13px;}
+	
+	.reviewsText{padding: 30px 30px 30px 0;}
+}
+
+@media all and (max-width: 800px) {
+	.documentElement > div:first-child{width: 24%;}
+	.documentElement > div{width: 76%;}
+}
+
+@media all and (max-width: 710px) {
+	#askQuestion a{width: 24%;}
+	#askQuestion .textBlock div{padding: 18px 25px 18px 13px; width: 49%;}
+	
+	.documentElement > div:first-child{width: 28%;}
+	.documentElement > div{width: 72%;}
+	
+	.reviewsText{padding: 20px 20px 20px 0;}
+	
+	#slider a i{font-size: 23px; padding: 13px;}
+}
+
+@media all and (max-width: 650px) {
+	#askQuestion .markQuestion{width: 100%; display: block;}
+	#askQuestion .textBlock{width: 100%;}
+	
+	.documentElement > div:first-child{width: 31%;}
+	.documentElement > div{width: 69%;}
+	
+	.projectReview{padding: 26px;}
+	.reviewsImg{display: block; width: 100%; text-align: left;}
+		.reviewsImg div{width: 120px; height: 120px;}
+	.reviewsText{display: block; width: 100%;}
+}
+
+@media all and (max-width: 620px) {
+	#carousel{padding: 30px 70px;}
+	
+	.documentElement > div:first-child{width: 33%;}
+	.documentElement > div{width: 67%;}
+	
+	#askQuestion .textBlock div{width: 70%;}
+	#askQuestion a{width: 30%;}
+}
+
+@media all and (max-width: 530px) {
+	.documentElement > div:first-child{width: 35%;}
+	.documentElement > div{width: 65%;}
+		.documentElement a{font-size: 13px;}
+		.documentElement div p{font-size: 12px;}
+	
+	.reviewsImg{margin: 0 0 20px 0;}
+		.reviewsImg div{width: 100px; height: 100px;}
+	.reviewsText{padding: 0;}
+		.reviewsText q{display: block; margin: 0; width: 100%;}
+		.reviewsText > p{display: block; margin: -30px 0 0 0; width: 100%;}
+}
+
+@media all and (max-width: 490px) {
+	#askQuestion .markQuestion{position: absolute; width: auto;}
+	#askQuestion .textBlock div{width: 100%; padding: 8px 10px 30px 75px;}
+	#askQuestion a{margin: 0 auto; display: block; width: 150px; padding: 13px 0px;}
+	#askQuestion a:last-child{margin: 20px auto 0;}
+	
+	.documentElement{width: 100%; margin: 0 0 30px 0 !important;}
+	.documentElement:last-child{margin-bottom: 0 !important;}
+		.documentElement > div:first-child{width: 70px;}
+			.documentElement a{font-size: 15px;}
+			.documentElement div p{font-size: 13px;}
+			
+	#slider a i{font-size: 19px; padding: 10px;}
+	#slider .owl-nav{margin: -20px 0 0 0;}
+		#slider .owl-nav div{width: 40px; height: 40px; line-height: 42px; font-size: 15px;}
+}
+
+@media all and (max-width: 390px) {
+	#carousel{padding: 20px 50px;}
+		#carousel .owl-nav div{margin: 0 !important;}
+	
+	.projectTask{padding: 30px;}
+	
+	.tabulationBody{padding: 25px 25px 40px 25px;}
+	
+	#askQuestion{padding: 20px;}
+	#askQuestion .textBlock div{padding: 8px 0px 30px 70px;}
+	
+	.documentElement > div{width: 70%;}
+}
+
+@media all and (max-width: 350px) {
+	.documentElement > div{width: 65%;}
+}

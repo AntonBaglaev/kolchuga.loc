@@ -1,0 +1,186 @@
+div.news-detail
+{
+	word-wrap: break-word;
+}
+div.news-detail img.detail_picture
+{
+	float:left;
+	margin:0 8px 6px 1px;
+}
+.news-date-time
+{
+	color:#486DAA;
+}
+
+.block_lend_ban h1{
+	    font-size: 36px !important;
+}
+
+/* Position child elements relative to this element */
+.block_bereta_items2 .aspect-ratio-box {
+    position: relative;
+	display: block;
+}
+
+/* Create a pseudo element that uses padding-bottom to take up space */
+.block_bereta_items2 .aspect-ratio-box::after {
+    display: block;
+    content: '';
+    /* 16:9 aspect ratio 
+    padding-bottom: 56.25%;
+    padding-bottom: 86,78%;
+    padding-bottom: 57.58%;*/
+    padding-bottom: 66.66%;
+}
+
+/* Image is positioned absolutely relative to the parent element */
+.block_bereta_items2 .aspect-ratio-box img {
+    /* Image should match parent box size */
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.block_bereta_items2 .flex-direction-nav a {z-index:0}
+
+.slick-next::before {
+    content: url(/local/templates/kolchuga_2016/images/new-img-item-catalog/arrow-right.svg);
+}
+.slick-prev::before {
+    content: url(/local/templates/kolchuga_2016/images/new-img-item-catalog/arrow-left.svg);
+}
+.slider-wrap1 .slider-for .block_slide_description {padding: 0 10px 5px 10px;font-size: 14px; font-family: 'PT Sans';}
+.block_lend_srav {font-size: 14px; font-family: 'PT Sans';}
+@media only screen and (max-width: 768px){
+	.block_lend_ban .opis {
+		position: relative;
+		bottom: 0;
+		text-align: center;
+		transform: none;
+		left: 0;
+	}
+	.block_lend_srav .table-bordered tr {border-top:1px solid #cfcdbb !important;border-right:1px solid #cfcdbb !important;}
+	.block_lend_srav .table-bordered td, .block_lend_srav .table-bordered th {border-bottom:1px solid #cfcdbb !important;border-left:1px solid #cfcdbb !important;}
+	.block_lend_srav .table-bordered {    border-collapse: collapse;}
+	
+	.block_lend_srav .table-responsive>.table-bordered {  border: none;}
+	.block_lend_srav .table-responsive {  border: none;padding-bottom: 7px;   overflow-x: visible !important;}
+	.table-responsive::-webkit-scrollbar {   -webkit-appearance: none;}
+	.table-responsive::-webkit-scrollbar:vertical {width: 12px;}
+	.table-responsive::-webkit-scrollbar:horizontal {height: 7px;}
+	.table-responsive::-webkit-scrollbar-thumb {background-color: rgba(0, 0, 0, .5);border-radius: 10px;border: 2px solid #ffffff;}
+	.table-responsive::-webkit-scrollbar-track {border-radius: 10px;  background-color: #ffffff; }
+}
+
+table.table-3 {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+}
+table.table-3 tr {
+		background-color: #fff;
+}
+
+table.table-3 th,
+table.table-3 td {
+		text-align: left;
+	 	padding: 8px;
+	border: 1px solid #ddd;
+}
+table.table-3 > thead > tr > th {
+    padding: 10px;
+    font-weight: 400;
+    background-color: #21385e;
+    color: #fff;
+    text-align: left;
+}
+table.table-3 > thead > tr > th.first {
+    background-color: transparent;
+    color: #212529;
+}
+@media screen and (max-width: 600px) {
+  	table.table-3 {
+		border: 0;
+  	}
+
+  
+  
+  	table.table-3 thead {
+	    border: none;
+	    clip: rect(0 0 0 0);
+	    height: 1px;
+	    margin: -1px;
+	    overflow: hidden;
+	    padding: 0;
+	    position: absolute;
+	    width: 1px;
+  	}
+  
+  	table.table-3 tr {
+    	border-bottom: 1px solid #ddd;
+    	display: block;
+   		margin-bottom: 30px;
+  	}
+  
+	table.table-3 td {
+    	display: block;
+    	text-align: right;
+		overflow: hidden;
+	}
+  
+	table.table-3 td::before {
+	    content: attr(data-label);
+	    float: left;
+	    font-weight: bold;
+	    text-transform: uppercase;
+		max-width: 50%;
+    display: block;
+    text-align: left;
+    padding-right: 10px;
+	}
+  
+  	table.table-3 td:last-child {
+    	border-bottom: 0;
+  	}
+	
+}
+
+.block_lend_video .thumb-wrap{
+	position: relative;
+  padding-bottom: 56.25%; /* задаёт высоту контейнера для 16:9 (если 4:3 — поставьте 75%) */
+  height: 0;
+  overflow: hidden;
+}
+.block_lend_video .thumb-wrap iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-width: 0;
+  outline-width: 0;
+}
+.block_lend_files .fles{display:flex;justify-content: space-around;}
+a.btn_dwnload {
+    display: block;    
+    /* margin: 30px auto 0; */
+    font-family: PT Sans;
+    font-size: 14px;
+    color: #21385E;
+    border: 1px solid #21385E;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+}
+a.btn_dwnload:hover {
+    border: 1px solid #21385e;
+    background-color: rgb(33, 56, 94,1);
+    transition: all 1s ease 0s;
+    color: #fff;
+	text-decoration: none;
+}
+table.tableborder {border:none;}
+table.tableborder tr{border-top:1px solid #cfcdbb; border-right:1px solid #cfcdbb; }
+table.tableborder td,table.tableborder th{border-bottom:1px solid #cfcdbb; border-left:1px solid #cfcdbb;padding:7px; }

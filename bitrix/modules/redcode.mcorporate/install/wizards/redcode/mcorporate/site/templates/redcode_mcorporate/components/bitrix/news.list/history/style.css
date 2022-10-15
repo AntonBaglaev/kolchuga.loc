@@ -1,0 +1,45 @@
+
+.history{margin: 0 0 58px 0;}
+	.history > p{margin: 0 0 40px 0; line-height: 1.5; box-shadow: 0 1px 1px rgba(0,0,0, .12); border-radius: 1px; padding: 30px 40px 30px 95px;
+		background: #555; color: #fff; position: relative;
+	}
+		.history > p i{position: absolute; top: 50%; left: 32px; font-size: 35px; margin: -17.5px 0 0 0;}
+
+	.historyElements{margin: 0 0 40px 0;}
+		.historyElement{margin: 0 0 30px 0; background: #fff; padding: 20px 0; box-shadow: 0 1px 1px rgba(0,0,0, .12); border-radius: 1px;}
+		.historyElement:last-child{margin: 0;}
+			.historyDate{display: inline-block; vertical-align: top; width: 20%; text-align: center; font-size: 30px; margin-top: 20px;
+				font-weight: 700; color: #EF6C00;
+			}
+			.historyText{display: inline-block; padding: 20px 20px 20px 0; width: 80%; box-sizing: border-box; line-height: 1.6;}
+
+
+@media all and (max-width: 1020px) {
+	.historyElement{padding: 15px 0;}
+}
+
+@media all and (max-width: 950px) {
+	.historyText{padding: 10px 10px 10px 0;}
+	.historyDate{margin-top: 10px;}
+}
+
+@media all and (max-width: 900px) {
+	.historyElement{padding: 20px 0;}
+		.historyText{padding: 20px 20px 20px 0;}
+		.historyDate{margin-top: 20px;}
+}
+
+@media all and (max-width: 750px) {
+	.historyElement{padding: 15px 0;}	
+}
+
+@media all and (max-width: 610px) {
+	.historyElement{padding: 25px;}
+		.historyDate{display: block; width: 100%; text-align: left; margin: 0 0 20px 0;}
+		.historyText{display: block; width: 100%; padding: 0;}
+}
+
+@media all and (max-width: 400px) {
+	.history > p{padding: 60px 26px 26px 26px;}
+	.history > p i{top: 14px; left: 24px; margin: 0;}
+}

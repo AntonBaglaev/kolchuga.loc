@@ -1,0 +1,27 @@
+.catalog_menu{
+	width:180px;
+	float:left;
+	margin:0 30px 0 0;
+	padding:15px 0;
+}
+.catalog_menu ul,
+.catalog_menu{
+	list-style:none !important;
+	list-style-image:none !important;
+}
+
+.catalog_menu li a:hover,
+.catalog_menu li a.activ{
+    color:#9b9b9b;
+}
+.catalog_menu li{
+	font: normal 16px/22px;
+	padding-bottom:7px;
+}
+.catalog_menu li.close ul{
+	display:none;	
+}
+.catalog_menu ul{
+	padding: 10px 0 0 30px;
+	margin:0;
+}

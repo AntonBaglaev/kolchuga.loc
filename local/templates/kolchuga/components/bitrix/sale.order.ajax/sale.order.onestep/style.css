@@ -1,0 +1,129 @@
+/*path_order*/
+.path_order{
+	color:#b2b2b2;
+}
+.path_order{
+	font: normal 16px/20px;
+}
+.path_order b{
+	color:#1D355B;
+}
+.path_order b,
+.path_order span,
+.path_order a{
+	padding:0 5px;
+}
+/*order_table*/
+.order_table{
+	border-collapse:collapse;
+}
+.order_table td{
+	padding:10px 20px 10px 0;
+}
+/*group_name*/
+.group_name{
+	border-top:1px dotted #a4a4a4;
+	border-bottom:1px dotted #a4a4a4;
+	color: #888888;
+    font-weight: normal;
+    padding-bottom: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 12px;
+}
+
+/*sale_order_full_table*/
+.sale_order_full_table{
+	margin-bottom:30px;
+}
+.sale_order_full_table td{
+	padding:7px 7px 7px 0;
+}
+.sale_order_full_table .input_inside{
+	width:100%;
+}
+/**/
+table.sale_order_full
+{
+	width:100%;
+	background-color:#F9FAFB;
+	border-collapse:collapse;
+}
+
+/*Table head*/
+table.sale_order_full th
+{
+	background-image:url(images/table_head.gif);
+	background-repeat:repeat-x;
+	text-align: left;
+	color:#777777;
+}
+
+/* Table cells and heads*/
+table.sale_order_full th, 
+table.sale_order_full td
+{
+	border:1px solid #dddddd;
+	padding: 4px 5px;
+	vertical-align:top;
+}
+
+table.sale_order_full_table_no_border
+{
+	width:100%;
+	border-collapse:collapse;
+}
+
+/* Table cells and heads*/
+table.sale_order_full_table_no_border td
+{
+	padding: 3px 5px;
+	vertical-align:top;
+}
+
+.sof-req{color:red;}
+.sale_order_full_table.order_complete{
+	text-align:center;
+	font: normal 16px/20px;
+}
+.dk_container{
+	min-width:100px;
+}
+.errortext{
+	color:#F10000;
+}
+/**/
+.bx_input_text{
+	color:#fff;
+	background:#000;
+	float:right;
+	padding:0px 2px 0px 10px;
+	height: 30px;
+	outline: none;
+	border: none;
+	line-height: 30px;
+	width:136px;
+}
+.bx_input_text:focus{
+	box-shadow:0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(82, 168, 236, 0.6);
+	-webkit-box-shadow:0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(82, 168, 236, 0.6);
+	-moz-box-shadow:0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(82, 168, 236, 0.6);
+	outline:none;
+}
+.bx_input_submit{
+	background:#E93A3A;
+	color:#fff;
+	text-transform:uppercase;
+	font-size:10px;
+	font-weight:bold;
+	top: 0px;
+	bottom: 0;
+	width: 60px;
+	height:30px;
+	border: none;
+	float:right;
+	cursor: pointer;
+}
+.bx_input_submit:hover{
+	background:#969696;
+}

@@ -1,0 +1,11 @@
+#ORDER_STATUS# - Статус заказа
+#ORDER_CANCEL_URL# - Ссылка отмены заказа
+#ORDER_PAY_URL# - Ссылка для оплаты заказа
+#ORDER_USER_FIO# - ФИО
+#ORDER_USER_PHONE# - Телефон
+#ORDER_USER_EMAIL# - Email
+#ORDER_DELIVERY# - Способ доставки
+#ORDER_DELIVERY_LOCATION# - Город
+#ORDER_DELIVERY_ADDRESS# - Адрес
+#ORDER_PAYMENT# - Способ оплаты
+#ORDER_PAYMENT_STATUS# - Статус оплаты
